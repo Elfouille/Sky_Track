@@ -1,0 +1,44 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\jejar.json",
+    "player": {
+      "pseudo": "jejar",
+      "name_meta": "jejar_",
+      "uuid_meta": "a329d1a57fec4d01acc7c07cacd3fc54"
+    },
+    "section": "experimentation"
+  },
+  "experimentation": {
+    "claimed_retroactive_rng": true,
+    "charge_track_timestamp": 1770979201419,
+    "pairings": {
+      "claims_0": 5,
+      "claimed": true,
+      "best_score_0": 3,
+      "claims_1": 14,
+      "best_score_1": 5,
+      "claims_2": 4,
+      "best_score_2": 5
+    },
+    "simon": {
+      "attempts_0": 14,
+      "bonus_clicks": 2,
+      "claimed": false,
+      "claims_0": 14,
+      "best_score_0": 16,
+      "last_attempt": 0,
+      "attempts_1": 4,
+      "best_score_1": 9,
+      "claims_1": 4
+    },
+    "numbers": {
+      "attempts_1": 4,
+      "bonus_clicks": 2,
+      "claimed": false,
+      "claims_1": 4,
+      "best_score_1": 8,
+      "last_attempt": 0
+    }
+  }
+}

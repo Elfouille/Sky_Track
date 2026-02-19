@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Elfouile.json",
+    "player": {
+      "pseudo": "Elfouile",
+      "name_meta": "Elfouile",
+      "uuid_meta": "bbf684841118408eb3134d1c19029ca8"
+    },
+    "section": "fairy_soul"
+  },
+  "fairy_soul": {
+    "unspent_souls": 17,
+    "total_collected": 72,
+    "fairy_exchanges": 11
+  }
+}

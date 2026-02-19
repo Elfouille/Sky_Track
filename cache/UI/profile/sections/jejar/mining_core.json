@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\jejar.json",
+    "player": {
+      "pseudo": "jejar",
+      "name_meta": "jejar_",
+      "uuid_meta": "a329d1a57fec4d01acc7c07cacd3fc54"
+    },
+    "section": "mining_core"
+  },
+  "mining_core": {
+    "received_free_tier": true,
+    "daily_ores_mined_day_mithril_ore": 20500,
+    "daily_ores_mined_mithril_ore": 875,
+    "daily_ores_mined_day_gemstone": 20495,
+    "daily_ores_mined_gemstone": 0,
+    "daily_ores_mined_day_glacite": 20495,
+    "daily_ores_mined_glacite": 0,
+    "daily_ores_mined_day": 20495,
+    "daily_ores_mined": 0,
+    "crystals": {
+      "jade_crystal": {
+        "state": "NOT_FOUND",
+        "total_found": 2,
+        "total_placed": 2
+      },
+      "amber_crystal": {
+        "state": "NOT_FOUND",
+        "total_found": 2,
+        "total_placed": 2
+      },
+      "amethyst_crystal": {
+        "state": "NOT_FOUND",
+        "total_found": 2,
+        "total_placed": 2
+      },
+      "sapphire_crystal": {
+        "state": "NOT_FOUND",
+        "total_found": 2,
+        "total_placed": 2
+      },
+      "topaz_crystal": {
+        "state": "NOT_FOUND",
+        "total_found": 2,
+        "total_placed": 2
+      },
+      "jasper_crystal": {
+        "state": "FOUND",
+        "total_found": 1
+      },
+      "ruby_crystal": {},
+      "opal_crystal": {},
+      "aquamarine_crystal": {},
+      "peridot_crystal": {},
+      "onyx_crystal": {},
+      "citrine_crystal": {}
+    },
+    "powder_mithril": 71205,
+    "powder_mithril_total": 71205,
+    "retroactive_tier2_token": true,
+    "powder_spent_mithril": 1109560,
+    "greater_mines_last_access": 1771246502755,
+    "biomes": {
+      "precursor": {
+        "talked_to_professor": true,
+        "claiming_with_precursor_apparatus": false
+      },
+      "dwarven": {},
+      "jungle": {
+        "jungle_temple_open": false,
+        "jungle_temple_chest_uses": 0
+      },
+      "goblin": {
+        "king_quest_active": false,
+        "king_quests_completed": 3
+      }
+    },
+    "powder_gemstone": 23760,
+    "powder_gemstone_total": 23760,
+    "powder_spent_gemstone": 235644
+  }
+}

@@ -1,0 +1,1700 @@
+{
+  "_meta": {
+    "neu_mobs_dir": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs",
+    "mcasset_mobs_dir": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs",
+    "item_icons_dir": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items",
+    "armorstand_fallback": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+    "out_dir": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs",
+    "manifest_used": true,
+    "size": 64
+  },
+  "stats": {
+    "seen": 189,
+    "built": 189,
+    "skipped": 0,
+    "failed": 0
+  },
+  "icons": {
+    "alligator": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\alligator.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\alligator.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "angry_archeologist": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\angry_archeologist.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\angry_archeologist.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "atoned_champion": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\atoned_champion.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "atoned_revenant": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\atoned_revenant.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "autonull": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\autonull.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\autonull.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "banshee": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\banshee.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\banshee.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "barbarian_duke_x": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\barbarian_duke_x.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\barbarian_duke_x.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "bladesoul": {
+      "ok": true,
+      "entity": "WitherSkeleton",
+      "entity_resolved": "WitherSkeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\bladesoul.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\wither_skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "blaze": {
+      "ok": true,
+      "entity": "Blaze",
+      "entity_resolved": "Blaze",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\blaze.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\blaze.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "blue_ringed_octopus": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "BLUE_RINGED_OCTOPUS_SC",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\blue_ringed_octopus.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\BLUE_RINGED_OCTOPUS_SC.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "blue_shark": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\blue_shark.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\blue_shark.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "bogged": {
+      "ok": true,
+      "entity": "Bogged",
+      "entity_resolved": "Bogged",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\bogged.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\bogged.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "bonzo": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\bonzo.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\bonzo.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "boss_corleone": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\boss_corleone.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\boss_corleone.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "butterfly": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "BUTTERFLY_MONSTER",
+      "helmet_source": "barrier_fallback",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\butterfly.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "charged_creeper": {
+      "ok": true,
+      "entity": "Creeper",
+      "entity_resolved": "Creeper",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\charged_creeper.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\creeper\\creeper.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "chicken": {
+      "ok": true,
+      "entity": "Chicken",
+      "entity_resolved": "Chicken",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\chicken.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\chicken\\cold_chicken.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "chickzilla": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\chickzilla.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\chickzilla.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "chillblade": {
+      "ok": true,
+      "entity": "Stray",
+      "entity_resolved": "Stray",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\chillblade.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\stray.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "chillshot": {
+      "ok": true,
+      "entity": "Stray",
+      "entity_resolved": "Stray",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\chillshot.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\stray.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "cow": {
+      "ok": true,
+      "entity": "Cow",
+      "entity_resolved": "Cow",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\cow.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\cow\\cold_cow.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "creeper": {
+      "ok": true,
+      "entity": "Creeper",
+      "entity_resolved": "Creeper",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\creeper.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\creeper\\creeper.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "crypt_dreadlord": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\crypt_dreadlord.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\crypt_dreadlord.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "crypt_ghoul": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\crypt_ghoul.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "crypt_lurker": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\crypt_lurker.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "deadgehog": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\deadgehog.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\deadgehog.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "deformed_revenant": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\deformed_revenant.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "diamond_goblin": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\diamond_goblin.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\golden_goblin.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "dumpster_diver": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\dumpster_diver.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "enderman": {
+      "ok": true,
+      "entity": "Enderman",
+      "entity_resolved": "Enderman",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\enderman.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\enderman\\enderman.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "endermite": {
+      "ok": true,
+      "entity": "Endermite",
+      "entity_resolved": "Endermite",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\endermite.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\endermite.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "endstone_protector": {
+      "ok": true,
+      "entity": "Eisengolem",
+      "entity_resolved": "IronGolem",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\endstone_protector.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\iron_golem\\iron_golem.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "executive_sebastian": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\executive_sebastian.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\executive_sebastian.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "executive_viper": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\executive_viper.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\executive_viper.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "executive_wendy": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\executive_wendy.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\executive_wendy.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "fiery_scuttler": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "FIERY_SCUTTLER_SC",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\fiery_scuttler.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\FIERY_SCUTTLER_SC.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "fig_tree_gift": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "FIG_LOG",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\fig_tree_gift.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\FIG_LOG.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "fire_eel": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "FIRE_EEL_SC",
+      "helmet_source": "barrier_fallback",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\fire_eel.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "fledgling": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\fledgling.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\fledgling.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "frog_man": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\frog_man.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\frog_man.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "frozen_adventurer": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\frozen_adventurer.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\frozen_adventurer.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "frozen_steve": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\frozen_steve.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\frozen_steve.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "frozille": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "FROZILLE_MONSTER",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\frozille.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\FROZILLE_MONSTER.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "ghast": {
+      "ok": true,
+      "entity": "Ghast",
+      "entity_resolved": "Ghast",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\ghast.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\ghast\\ghast.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "ghost": {
+      "ok": true,
+      "entity": "Creeper",
+      "entity_resolved": "Creeper",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\ghost.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\creeper\\creeper.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "glacite_bowman": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\glacite_bowman.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\glacite_caver.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "glacite_caver": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\glacite_caver.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\glacite_caver.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "glacite_mage": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\glacite_mage.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\glacite_mage.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "goblin": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\goblin.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\goblin.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "golden_ghoul": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\golden_ghoul.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "golden_goblin": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\golden_goblin.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\golden_goblin.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "great_white_shark": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\great_white_shark.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\great_white_shark.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "green_gift": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "GREEN_GIFT",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\green_gift.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\GREEN_GIFT.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "grim_reaper": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\grim_reaper.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\grim_reaper.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "grinch": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\grinch.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\grinch.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "grunt": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\grunt.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\grunt.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "headless_horseman": {
+      "ok": true,
+      "entity": "Horse",
+      "entity_resolved": "Horse",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\headless_horseman.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\horse\\mule.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "holy_lost_adventurer": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\holy_lost_adventurer.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\lost_adventurer.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "howling_spirit": {
+      "ok": true,
+      "entity": "Wolf",
+      "entity_resolved": "Wolf",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\howling_spirit.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\wolf\\wolf.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "ice_walker": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\ice_walker.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\ice_walker.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "kada_knight": {
+      "ok": true,
+      "entity": "Chicken",
+      "entity_resolved": "Chicken",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\kada_knight.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\chicken\\cold_chicken.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "key_guardian": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\key_guardian.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "king_midas": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\king_midas.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\king_midas.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "lagoon_leech": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\lagoon_leech.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "lapis_zombie": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\lapis_zombie.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "larva": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "LARVA_MONSTER",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\larva.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\LARVA_MONSTER.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "leech_supreme": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\leech_supreme.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\leech_supreme.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "leech_swarm": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\leech_swarm.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "livid": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\livid.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\livid.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "mage_outlaw": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\mage_outlaw.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\mage_outlaw.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "magma_cube": {
+      "ok": true,
+      "entity": "MagmaCube",
+      "entity_resolved": "MagmaCube",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\magma_cube.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\slime\\magmacube.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "magma_cube_boss": {
+      "ok": true,
+      "entity": "MagmaCube",
+      "entity_resolved": "MagmaCube",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\magma_cube_boss.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\slime\\magmacube.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "magma_cube_rider": {
+      "ok": true,
+      "entity": "MagmaCube",
+      "entity_resolved": "MagmaCube",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\magma_cube_rider.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\slime\\magmacube.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "mangrove_tree_gift": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "MANGROVE_LOG",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\mangrove_tree_gift.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\MANGROVE_LOG.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "matcho": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\matcho.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\matcho.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "mimic": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\mimic.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "miner_skeleton": {
+      "ok": true,
+      "entity": "Skeleton",
+      "entity_resolved": "Skeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\miner_skeleton.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "miner_zombie": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\miner_zombie.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "minos_champion": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\minos_champion.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\minos_champion.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "minos_hunter": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\minos_hunter.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "minos_inquisitor": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\minos_inquisitor.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\minos_inquisitor.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "minotaur": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\minotaur.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\minotaur.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "necron": {
+      "ok": true,
+      "entity": "SiNelverfish",
+      "entity_resolved": "Silverfish",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\necron.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\silverfish.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "nightmare": {
+      "ok": true,
+      "entity": "Horse",
+      "entity_resolved": "Horse",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\nightmare.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\horse\\mule.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "nurse_shark": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\nurse_shark.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\nurse_shark.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "nutcracker": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\nutcracker.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "obsidian_defender": {
+      "ok": true,
+      "entity": "WitherSkeleton",
+      "entity_resolved": "WitherSkeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\obsidian_defender.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\wither_skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "old_wolf": {
+      "ok": true,
+      "entity": "Wolf",
+      "entity_resolved": "Wolf",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\old_wolf.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\wolf\\wolf.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "party_gift": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PARTY_GIFT",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\party_gift.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\PARTY_GIFT.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "pest_beetle": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PEST_BEETLE_MONSTER",
+      "helmet_source": "barrier_fallback",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pest_beetle.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "pest_cricket": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PEST_CRICKET_MONSTER",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pest_cricket.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\PEST_CRICKET_MONSTER.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "pest_dragonfly": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PEST_DRAGONFLY_MONSTER",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pest_dragonfly.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\PEST_DRAGONFLY_MONSTER.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "pest_earthworm": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PEST_EARTHWORM_MONSTER",
+      "helmet_source": "barrier_fallback",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pest_earthworm.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "pest_field_mouse": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PEST_FIELD_MOUSE_MONSTER",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pest_field_mouse.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\PEST_FIELD_MOUSE_MONSTER.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "pest_firefly": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PEST_FIREFLY_MONSTER",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pest_firefly.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\PEST_FIREFLY_MONSTER.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "pest_fly": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PEST_FLY_MONSTER",
+      "helmet_source": "barrier_fallback",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pest_fly.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "pest_locust": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PEST_LOCUST_MONSTER",
+      "helmet_source": "barrier_fallback",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pest_locust.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "pest_mite": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PEST_MITE_MONSTER",
+      "helmet_source": "barrier_fallback",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pest_mite.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "pest_mosquito": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PEST_MOSQUITO_MONSTER",
+      "helmet_source": "barrier_fallback",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pest_mosquito.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "pest_moth": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PEST_MOTH_MONSTER",
+      "helmet_source": "barrier_fallback",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pest_moth.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "pest_praying_mantis": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PEST_PRAYING_MANTIS_MONSTER",
+      "helmet_source": "barrier_fallback",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pest_praying_mantis.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "pest_rat": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PEST_RAT_MONSTER",
+      "helmet_source": "barrier_fallback",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pest_rat.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "pest_slug": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PEST_SLUG_MONSTER",
+      "helmet_source": "barrier_fallback",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pest_slug.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "phantom_fisher": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\phantom_fisher.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\phantom_fisher.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "phantom_spirit": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\phantom_spirit.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\phantom_spirit.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "pig": {
+      "ok": true,
+      "entity": "Pig",
+      "entity_resolved": "Pig",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pig.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\pig\\cold_pig.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "powder_ghast": {
+      "ok": true,
+      "entity": "Ghast",
+      "entity_resolved": "Ghast",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\powder_ghast.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\ghast\\ghast.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "puff": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "PUFF_MONSTER",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\puff.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\PUFF_MONSTER.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "pyroclastic_worm": {
+      "ok": true,
+      "entity": "MagmaCube",
+      "entity_resolved": "MagmaCube",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\pyroclastic_worm.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\slime\\magmacube.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "ragnarok": {
+      "ok": true,
+      "entity": "Horse",
+      "entity_resolved": "Horse",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\ragnarok.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\horse\\mule.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "red_gift": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "RED_GIFT",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\red_gift.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\RED_GIFT.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "redstone_pigman": {
+      "ok": true,
+      "entity": "Pigman",
+      "entity_resolved": "ZombifiedPiglin",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\redstone_pigman.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\piglin\\zombified_piglin.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "revenant_champion": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\revenant_champion.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "revenant_horror": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\revenant_horror.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "revenant_horror_5": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\revenant_horror_5.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "revenant_sycophant": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\revenant_sycophant.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "rider_of_the_deep": {
+      "ok": true,
+      "entity": "Chicken",
+      "entity_resolved": "Chicken",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\rider_of_the_deep.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\chicken\\cold_chicken.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "riftstalker_bloodfiend": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\riftstalker_bloodfiend.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\riftwalker_bloodfiend.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "sadan": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\sadan.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\sadan.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "scarecrow": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\scarecrow.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\scarecrow.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "scared_skeleton": {
+      "ok": true,
+      "entity": "Skeleton",
+      "entity_resolved": "Skeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\scared_skeleton.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "scarf": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\scarf.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\scarf.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "scary_jerry": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\scary_jerry.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\scary_jerry.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "scatha": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "SCATHA_MONSTER",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\scatha.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\SCATHA_MONSTER.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "scribe": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "SCRIBE_MONSTER",
+      "helmet_source": "barrier_fallback",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\scribe.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "sea_archer": {
+      "ok": true,
+      "entity": "Skeleton",
+      "entity_resolved": "Skeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\sea_archer.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "sea_emperor": {
+      "ok": true,
+      "entity": "Guardian",
+      "entity_resolved": "Guardian",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\sea_emperor.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\guardian.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "sea_walker": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\sea_walker.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "seal_treat_bag": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "SEAL_TREAT_BAG",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\seal_treat_bag.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\SEAL_TREAT_BAG.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "shadow": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "SHADOW_MONSTER",
+      "helmet_source": "barrier_fallback",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\shadow.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "shadow_assassin": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\shadow_assassin.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\shadow_assassin.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "sheep": {
+      "ok": true,
+      "entity": "Sheep",
+      "entity_resolved": "Sheep",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\sheep.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\sheep\\sheep.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "shy": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "SHY_MONSTER",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\shy.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\SHY_MONSTER.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "skeleton_grunt": {
+      "ok": true,
+      "entity": "Skeleton",
+      "entity_resolved": "Skeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\skeleton_grunt.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "skeleton_lord": {
+      "ok": true,
+      "entity": "Skeleton",
+      "entity_resolved": "Skeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\skeleton_lord.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "skeleton_master": {
+      "ok": true,
+      "entity": "Skeleton",
+      "entity_resolved": "Skeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\skeleton_master.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "skeleton_soldier": {
+      "ok": true,
+      "entity": "Skeleton",
+      "entity_resolved": "Skeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\skeleton_soldier.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "skeletonhorse": {
+      "ok": true,
+      "entity": "SkeletonHorse",
+      "entity_resolved": "SkeletonHorse",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\skeletonhorse.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\equipment\\skeleton_horse_saddle\\saddle.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "skeletor": {
+      "ok": true,
+      "entity": "Skeleton",
+      "entity_resolved": "Skeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\skeletor.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "skeletor_prime": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\skeletor_prime.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\skeletor_prime.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "snapping_turtle": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "SNAPPING_TURTLE_SC",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\snapping_turtle.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\SNAPPING_TURTLE_SC.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "sniper": {
+      "ok": true,
+      "entity": "Skeleton",
+      "entity_resolved": "Skeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\sniper.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "soul_of_the_alpha": {
+      "ok": true,
+      "entity": "Wolf",
+      "entity_resolved": "Wolf",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\soul_of_the_alpha.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\wolf\\wolf.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "spider": {
+      "ok": true,
+      "entity": "Spider",
+      "entity_resolved": "Spider",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\spider.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\spider\\spider.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "splatter": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "SPLATTER_MONSTER",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\splatter.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\SPLATTER_MONSTER.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "squid": {
+      "ok": true,
+      "entity": "Squid",
+      "entity_resolved": "Squid",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\squid.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\squid\\squid.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "star_sentry": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\star_sentry.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\star_sentry.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "stridersurfer": {
+      "ok": true,
+      "entity": "Strider",
+      "entity_resolved": "Strider",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\stridersurfer.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\strider\\strider.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "super_archer": {
+      "ok": true,
+      "entity": "Skeleton",
+      "entity_resolved": "Skeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\super_archer.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "super_tank_zombie": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\super_tank_zombie.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "superior_lost_adventurer": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\superior_lost_adventurer.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\lost_adventurer.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "tank_zombie": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\tank_zombie.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "taurus": {
+      "ok": true,
+      "entity": "Pig",
+      "entity_resolved": "Pig",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\taurus.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\pig\\cold_pig.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "temporal_pillar": {
+      "ok": true,
+      "entity": "Enderman",
+      "entity_resolved": "Enderman",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\temporal_pillar.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\enderman\\enderman.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "the_professor": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\the_professor.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\the_professor.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "thorn": {
+      "ok": true,
+      "entity": "Ghast",
+      "entity_resolved": "Ghast",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\thorn.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\ghast\\ghast.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "thrall": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\thrall.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "thyst": {
+      "ok": true,
+      "entity": "Endermite",
+      "entity_resolved": "Endermite",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\thyst.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\endermite.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "tidetot": {
+      "ok": true,
+      "entity": "Drowned",
+      "entity_resolved": "Drowned",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\tidetot.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\drowned.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "tiger_shark": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\tiger_shark.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\tiger_shark.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "titanoboa": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "TITANOBOA_SC",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\titanoboa.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\TITANOBOA_SC.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "treasure_hoarder": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\treasure_hoarder.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\treasure_hoarder.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "trick_or_treater": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\trick_or_treater.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "undead_skeleton": {
+      "ok": true,
+      "entity": "Skeleton",
+      "entity_resolved": "Skeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\undead_skeleton.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "unstable_lost_adventurer": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\unstable_lost_adventurer.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\lost_adventurer.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "voidgloom_seraph": {
+      "ok": true,
+      "entity": "Enderman",
+      "entity_resolved": "Enderman",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\voidgloom_seraph.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\enderman\\enderman.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "volt": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "VOLT_MONSTER",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\volt.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\VOLT_MONSTER.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "watcher": {
+      "ok": true,
+      "entity": "Skeleton",
+      "entity_resolved": "Skeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\watcher.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "water_hydra": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\water_hydra.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "werewolf": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\werewolf.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\werewolf.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "wetwing": {
+      "ok": true,
+      "entity": "Chicken",
+      "entity_resolved": "Chicken",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\wetwing.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\chicken\\cold_chicken.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "white_gift": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "WHITE_GIFT",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\white_gift.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\WHITE_GIFT.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "wiki_tiki": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "WIKI_TIKI_SC",
+      "helmet_source": "items_icon",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\wiki_tiki.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items\\WIKI_TIKI_SC.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "witch": {
+      "ok": true,
+      "entity": "Witch",
+      "entity_resolved": "Witch",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\witch.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\witch.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "wither_gourd": {
+      "ok": true,
+      "entity": "WitherSkeleton",
+      "entity_resolved": "WitherSkeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\wither_gourd.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\wither_skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "wither_spectre": {
+      "ok": true,
+      "entity": "WitherSkeleton",
+      "entity_resolved": "WitherSkeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\wither_spectre.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\wither_skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "withermancer": {
+      "ok": true,
+      "entity": "WitherSkeleton",
+      "entity_resolved": "WitherSkeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\withermancer.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\wither_skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "witherskeleton": {
+      "ok": true,
+      "entity": "WitherSkeleton",
+      "entity_resolved": "WitherSkeleton",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\witherskeleton.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\skeleton\\wither_skeleton.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "wraith": {
+      "ok": true,
+      "entity": "ArmorStand",
+      "helmet": "WRAITH_MONSTER",
+      "helmet_source": "barrier_fallback",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\wraith.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+      "method": "existing_png",
+      "reason": "ok"
+    },
+    "yeti": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\yeti.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\yeti.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "young_lost_adventurer": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\young_lost_adventurer.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\lost_adventurer.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "zealot": {
+      "ok": true,
+      "entity": "Enderman",
+      "entity_resolved": "Enderman",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\zealot.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\enderman\\enderman.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "zombie": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\zombie.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "zombie_commander": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\zombie_commander.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "zombie_grunt": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\zombie_grunt.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "zombie_knight": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\zombie_knight.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "zombie_miner": {
+      "ok": true,
+      "entity": "Player",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\zombie_miner.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs\\zombie_miner.png",
+      "method": "player_head",
+      "reason": "ok"
+    },
+    "zombie_solider": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\zombie_solider.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    },
+    "zombie_villager": {
+      "ok": true,
+      "entity": "Zombie",
+      "entity_resolved": "Zombie",
+      "out": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs\\zombie_villager.png",
+      "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs\\zombie\\zombie.png",
+      "method": "entity_head_biped",
+      "reason": "ok"
+    }
+  }
+}

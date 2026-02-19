@@ -1,0 +1,72 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\jejar.json",
+    "player": {
+      "pseudo": "jejar",
+      "name_meta": "jejar_",
+      "uuid_meta": "a329d1a57fec4d01acc7c07cacd3fc54"
+    },
+    "section": "nether_island_player_data"
+  },
+  "nether_island_player_data": {
+    "kuudra_completed_tiers": {},
+    "abiphone": {
+      "contact_data": {
+        "slayer": {
+          "incoming_calls_count": 366,
+          "last_call_incoming": 1771250989592
+        }
+      },
+      "games": {},
+      "operator_chip": {}
+    },
+    "quests": {
+      "quest_data": {},
+      "miniboss_data": {},
+      "miniboss_daily": {},
+      "kuuda_boss_daily": {},
+      "quest_rewards": {},
+      "alchemist_quest": {},
+      "rulenor": {},
+      "chicken_quest": {},
+      "pomtair_quest": {},
+      "suus_quest": {},
+      "pablo_quest": {},
+      "duel_training_quest": {},
+      "sirih_quest": {},
+      "edelis_quest": {},
+      "mollim_quest": {},
+      "aranya_quest": {
+        "talked_to_npc": true
+      },
+      "last_reset": 47,
+      "paid_bruuh": true
+    },
+    "matriarch": {},
+    "dojo": {
+      "dojo_points_mob_kb": 790,
+      "dojo_time_mob_kb": 120000,
+      "dojo_points_wall_jump": 990,
+      "dojo_time_wall_jump": 218750,
+      "dojo_points_sword_swap": 736,
+      "dojo_time_sword_swap": 120000,
+      "dojo_points_archer": 1248,
+      "dojo_time_archer": 120000,
+      "dojo_points_lock_head": 527,
+      "dojo_points_snake": 880,
+      "dojo_time_lock_head": 95000,
+      "dojo_time_snake": 72700,
+      "dojo_points_fireball": 920,
+      "dojo_time_fireball": 183850
+    },
+    "kuudra_party_finder": {
+      "search_settings": {},
+      "group_builder": {
+        "tier": "NONE",
+        "note": "",
+        "combat_level_required": 0
+      }
+    }
+  }
+}

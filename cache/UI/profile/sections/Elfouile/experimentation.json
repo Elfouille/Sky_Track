@@ -1,0 +1,31 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Elfouile.json",
+    "player": {
+      "pseudo": "Elfouile",
+      "name_meta": "Elfouile",
+      "uuid_meta": "bbf684841118408eb3134d1c19029ca8"
+    },
+    "section": "experimentation"
+  },
+  "experimentation": {
+    "claimed_retroactive_rng": true,
+    "charge_track_timestamp": 1770942468631,
+    "pairings": {
+      "claims_0": 3,
+      "best_score_0": 4,
+      "claimed": true,
+      "claims_1": 6,
+      "best_score_1": 3
+    },
+    "simon": {
+      "attempts_0": 6,
+      "bonus_clicks": 2,
+      "claimed": false,
+      "claims_0": 6,
+      "last_attempt": 0,
+      "best_score_0": 15
+    }
+  }
+}

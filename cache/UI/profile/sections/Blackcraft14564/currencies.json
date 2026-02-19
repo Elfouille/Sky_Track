@@ -1,0 +1,39 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Blackcraft14564.json",
+    "player": {
+      "pseudo": "Blackcraft14564",
+      "name_meta": "Blackcraft14564",
+      "uuid_meta": "26b56974e38b486cba4f0449dee370d5"
+    },
+    "section": "currencies"
+  },
+  "currencies": {
+    "coin_purse": 220.00000000093132,
+    "motes_purse": 257.0,
+    "essence": {
+      "DRAGON": {
+        "current": 461
+      },
+      "SPIDER": {
+        "current": 141
+      },
+      "DIAMOND": {
+        "current": 314
+      },
+      "UNDEAD": {
+        "current": 939
+      },
+      "WITHER": {
+        "current": 339
+      },
+      "GOLD": {
+        "current": 195
+      },
+      "ICE": {
+        "current": 80
+      }
+    }
+  }
+}

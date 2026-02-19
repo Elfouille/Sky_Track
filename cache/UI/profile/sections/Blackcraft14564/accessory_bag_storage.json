@@ -1,0 +1,34 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Blackcraft14564.json",
+    "player": {
+      "pseudo": "Blackcraft14564",
+      "name_meta": "Blackcraft14564",
+      "uuid_meta": "26b56974e38b486cba4f0449dee370d5"
+    },
+    "section": "accessory_bag_storage"
+  },
+  "accessory_bag_storage": {
+    "tuning": {
+      "slot_0": {
+        "health": 0,
+        "defense": 0,
+        "walk_speed": 0,
+        "strength": 0,
+        "critical_damage": 0,
+        "critical_chance": 15,
+        "attack_speed": 0,
+        "intelligence": 0
+      }
+    },
+    "highest_magical_power": 155,
+    "selected_power": "disciplined",
+    "unlocked_powers": [
+      "adept",
+      "sighted",
+      "bloody"
+    ],
+    "bag_upgrades_purchased": 1
+  }
+}

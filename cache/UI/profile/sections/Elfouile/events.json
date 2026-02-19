@@ -1,0 +1,247 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Elfouile.json",
+    "player": {
+      "pseudo": "Elfouile",
+      "name_meta": "Elfouile",
+      "uuid_meta": "bbf684841118408eb3134d1c19029ca8"
+    },
+    "section": "events"
+  },
+  "events": {
+    "easter": {
+      "rabbit_hitmen": {
+        "rabbit_hitmen_slots": 4,
+        "missed_uncollected_eggs": 4,
+        "egg_slot_cooldown_mark": 1771030419914,
+        "egg_slot_cooldown_sum": 3605708
+      },
+      "time_tower": {
+        "charges": 0,
+        "last_charge_time": 1771026819028
+      },
+      "shop": {
+        "rabbits": [
+          "demarcus",
+          "ella",
+          "cadet",
+          "melon",
+          "jasmine",
+          "bugatti",
+          "scotch"
+        ],
+        "year": 469
+      },
+      "rabbits": {
+        "collected_locations": {
+          "combat_1": [
+            "spiders_den_mushroom",
+            "spiders_den_boulder"
+          ],
+          "foraging_1": [
+            "foraging_pond_bridge",
+            "foraging_nyko",
+            "foraging_flower_pot",
+            "foraging_cobblestone",
+            "foraging_sculpture"
+          ],
+          "mining_2": [
+            "deep_caverns_lapis_miner",
+            "deep_caverns_fire",
+            "deep_caverns_walter",
+            "deep_caverns_gunpowder_mines",
+            "deep_caverns_entrance_top",
+            "deep_caverns_platform"
+          ],
+          "combat_3": [
+            "end_obsidian_spike",
+            "end_draconic_altar",
+            "end_overlook",
+            "end_race_checkpoint",
+            "end_race_stairs"
+          ],
+          "mining_3": [
+            "dwarven_mines_gold_gate",
+            "dwarven_mines_mist"
+          ],
+          "foraging_2": [
+            "foraging_2_vine",
+            "foraging_2_cave",
+            "foraging_2_sawyer",
+            "foraging_2_steps",
+            "foraging_2_library",
+            "foraging_2_launch_pad",
+            "foraging_2_swoop",
+            "foraging_2_spruce_bridge"
+          ],
+          "hub": [
+            "hub_crane",
+            "hub_mountain_peak",
+            "hub_dark_auction",
+            "hub_mountain_path",
+            "hub_wither_cage",
+            "hub_lumber",
+            "hub_bazaar",
+            "hub_blacksmith"
+          ],
+          "farming_1": [
+            "farming_pasture",
+            "farming_skull",
+            "farming_oasis_bridge",
+            "farming_mason",
+            "farming_carrots",
+            "farming_trappers_den",
+            "farming_aqueduct"
+          ],
+          "mining_1": [
+            "gold_mine_windmill",
+            "gold_mine_iron_forger",
+            "gold_mine_launch_pad",
+            "gold_mine_entrance",
+            "gold_mine_stairs",
+            "gold_mine_forge",
+            "gold_mine_gold_forger"
+          ],
+          "fishing_1": [
+            "bayou_gear",
+            "bayou_roddy",
+            "bayou_vines",
+            "bayou_dock",
+            "bayou_lilypad",
+            "bayou_pipe"
+          ],
+          "crimson_isle": [
+            "crimson_isle_colosseum",
+            "crimson_isle_dragontail_shop",
+            "crimson_isle_magma_chamber",
+            "crimson_isle_bladesoul"
+          ],
+          "dungeon_hub": [
+            "dungeon_hub_coming_soon",
+            "dungeon_hub_hub_portal",
+            "dungeon_hub_entrance",
+            "dungeon_hub_crystal_core",
+            "dungeon_hub_race",
+            "dungeon_hub_selector",
+            "dungeon_hub_saul"
+          ],
+          "crystal_hollows": [
+            "crystal_hollows_middle"
+          ]
+        },
+        "collected_eggs": {
+          "breakfast": 210314773,
+          "lunch": 210755520,
+          "dejeuner": 209447642,
+          "supper": 209462010,
+          "brunch": 210755093,
+          "dinner": 210754934
+        },
+        "almond_amaretto": 1,
+        "buttercream_blossom": 1,
+        "cocoa_comet": 1,
+        "dulce_drizzle": 1,
+        "espresso_eclair": 1,
+        "fudge_fountain": 1,
+        "ginger_glaze": 1,
+        "bruce": 1,
+        "lone_ranger": 2,
+        "gizmo": 1,
+        "honey_hazelnut": 1,
+        "icing_ivy": 1,
+        "jasmine_jello": 1,
+        "dandelion": 1,
+        "neptune": 1,
+        "wadsworth": 1,
+        "polka_dot": 1,
+        "bob": 1,
+        "cajun": 1,
+        "collin": 1,
+        "joey": 2,
+        "sargent": 1,
+        "bud": 1,
+        "chilli": 1,
+        "heidie": 1,
+        "lenny": 1,
+        "kiwi_kiss": 1,
+        "alexander": 2,
+        "bindi": 1,
+        "ollie": 1,
+        "rupert": 1,
+        "stanley": 2,
+        "barcode": 1,
+        "hadley": 1,
+        "lavender_lemon": 1,
+        "maple_mirage": 1,
+        "snoppy": 1,
+        "benji": 1,
+        "claude": 1,
+        "spot": 1,
+        "stuart": 1,
+        "ken": 1,
+        "cuddles": 1,
+        "kobi": 1,
+        "alexa": 1,
+        "cotton_puff": 1,
+        "delboy": 2,
+        "leopold": 1,
+        "mookie": 2,
+        "bandit": 1,
+        "flip_flop": 1,
+        "frankie": 1,
+        "hershey": 2,
+        "james": 1,
+        "chubby": 1,
+        "chester": 1,
+        "jonah": 1,
+        "pepsi": 1,
+        "sniffles": 1,
+        "phantom": 1,
+        "suri": 1,
+        "hope": 1,
+        "mona": 1,
+        "ozwald": 1,
+        "quincy": 1,
+        "digger": 1,
+        "demi": 1,
+        "nougat_nebula": 1,
+        "snoopy": 1,
+        "widget": 1,
+        "cassidy": 1,
+        "rambo": 1,
+        "teddy": 1,
+        "brutus": 1,
+        "lotte": 1,
+        "seinfield": 1,
+        "toby": 1,
+        "orange_obsidian": 1,
+        "rowdy": 1,
+        "rolf": 1,
+        "jedi": 1,
+        "natalie": 1,
+        "ressie": 1,
+        "scotch": 1,
+        "chewy": 1,
+        "poppy": 1,
+        "baldwin": 1,
+        "gee_gee": 1
+      },
+      "employees": {
+        "rabbit_bro": 49,
+        "rabbit_cousin": 35,
+        "rabbit_father": 23,
+        "rabbit_sis": 27,
+        "rabbit_grandma": 20,
+        "rabbit_uncle": 16
+      },
+      "chocolate": 3030,
+      "total_chocolate": 9982928713,
+      "chocolate_since_prestige": 2691035,
+      "last_viewed_chocolate_factory": 1771031225713,
+      "click_upgrades": 3,
+      "rabbit_barn_capacity_level": 91,
+      "chocolate_level": 4
+    }
+  }
+}

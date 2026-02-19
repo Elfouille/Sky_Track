@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\jejar.json",
+    "player": {
+      "pseudo": "jejar",
+      "name_meta": "jejar_",
+      "uuid_meta": "a329d1a57fec4d01acc7c07cacd3fc54"
+    },
+    "section": "trophy_fish"
+  },
+  "trophy_fish": {
+    "total_caught": 58,
+    "obfuscated_fish_1": 58,
+    "obfuscated_fish_1_bronze": 50,
+    "last_caught": "obfuscated_fish_1/silver",
+    "obfuscated_fish_1_gold": 1,
+    "obfuscated_fish_1_silver": 7
+  }
+}

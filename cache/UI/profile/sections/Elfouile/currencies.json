@@ -1,0 +1,39 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Elfouile.json",
+    "player": {
+      "pseudo": "Elfouile",
+      "name_meta": "Elfouile",
+      "uuid_meta": "bbf684841118408eb3134d1c19029ca8"
+    },
+    "section": "currencies"
+  },
+  "currencies": {
+    "coin_purse": 10220866.314500008,
+    "motes_purse": 680.0,
+    "essence": {
+      "GOLD": {
+        "current": 76
+      },
+      "DIAMOND": {
+        "current": 123
+      },
+      "DRAGON": {
+        "current": 71
+      },
+      "SPIDER": {
+        "current": 43
+      },
+      "WITHER": {
+        "current": 42
+      },
+      "UNDEAD": {
+        "current": 57
+      },
+      "ICE": {
+        "current": 10
+      }
+    }
+  }
+}

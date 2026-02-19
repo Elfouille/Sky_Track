@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Blackcraft14564.json",
+    "player": {
+      "pseudo": "Blackcraft14564",
+      "name_meta": "Blackcraft14564",
+      "uuid_meta": "26b56974e38b486cba4f0449dee370d5"
+    },
+    "section": "mining_core"
+  },
+  "mining_core": {
+    "daily_ores_mined": 0,
+    "daily_ores_mined_day": 20499,
+    "daily_ores_mined_day_gemstone": 20499,
+    "daily_ores_mined_day_glacite": 20499,
+    "daily_ores_mined_day_mithril_ore": 20499,
+    "daily_ores_mined_gemstone": 0,
+    "daily_ores_mined_glacite": 0,
+    "daily_ores_mined_mithril_ore": 0,
+    "received_free_tier": true,
+    "powder_mithril": 72878,
+    "powder_mithril_total": 72878,
+    "powder_spent_mithril": 669570,
+    "retroactive_tier2_token": true,
+    "powder_gemstone": 1535,
+    "powder_gemstone_total": 1535,
+    "greater_mines_last_access": 1770753802465,
+    "biomes": {
+      "precursor": {},
+      "dwarven": {},
+      "jungle": {
+        "jungle_temple_open": false
+      }
+    },
+    "powder_spent_gemstone": 5398
+  }
+}

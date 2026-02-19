@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Blackcraft14564.json",
+    "player": {
+      "pseudo": "Blackcraft14564",
+      "name_meta": "Blackcraft14564",
+      "uuid_meta": "26b56974e38b486cba4f0449dee370d5"
+    },
+    "section": "profile"
+  },
+  "profile": {
+    "first_join": 1613755218927,
+    "personal_bank_upgrade": 1,
+    "bank_account": 32363297.420660328,
+    "cookie_buff_active": false
+  }
+}

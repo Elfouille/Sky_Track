@@ -1,0 +1,3603 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Blackcraft14564.json",
+    "player": {
+      "pseudo": "Blackcraft14564",
+      "name_meta": "Blackcraft14564",
+      "uuid_meta": "26b56974e38b486cba4f0449dee370d5"
+    },
+    "section": "dungeons"
+  },
+  "dungeons": {
+    "dungeon_types": {
+      "catacombs": {
+        "best_score": {
+          "0": 200.0,
+          "best": 301.0,
+          "1": 301.0,
+          "2": 301.0,
+          "3": 297.0
+        },
+        "most_damage_tank": {
+          "0": 408355.26577695314,
+          "best": 408355.26577695314
+        },
+        "tier_completions": {
+          "0": 13.0,
+          "total": 40.0,
+          "1": 11.0,
+          "2": 12.0,
+          "3": 4.0
+        },
+        "watcher_kills": {
+          "0": 13.0,
+          "total": 42.0,
+          "1": 11.0,
+          "2": 13.0,
+          "3": 5.0
+        },
+        "most_damage_archer": {},
+        "most_damage_healer": {},
+        "most_mobs_killed": {
+          "0": 223.0,
+          "best": 223.0,
+          "1": 208.0,
+          "2": 117.0,
+          "3": 36.0
+        },
+        "fastest_time_s_plus": {
+          "2": 328755.0,
+          "best": 177638.0,
+          "1": 177638.0
+        },
+        "fastest_time_s": {
+          "2": 201606.0,
+          "best": 185631.0,
+          "3": 231425.0,
+          "1": 185631.0
+        },
+        "most_damage_berserk": {
+          "0": 3503097.377798506,
+          "best": 10530455.287830707,
+          "1": 7925389.642056495,
+          "2": 10530455.287830707,
+          "3": 5095498.945497016
+        },
+        "most_healing": {
+          "0": 1892.0969848632812,
+          "best": 9376.719970703125,
+          "1": 9376.719970703125,
+          "2": 4275.5125732421875,
+          "3": 600.0
+        },
+        "fastest_time": {
+          "0": 140244.0,
+          "best": 140244.0,
+          "1": 177638.0,
+          "2": 201606.0,
+          "3": 231425.0
+        },
+        "most_damage_mage": {},
+        "mobs_killed": {
+          "0": 1376.0,
+          "total": 3209.0,
+          "1": 1022.0,
+          "2": 713.0,
+          "3": 98.0
+        },
+        "times_played": {
+          "total": 45.0,
+          "0": 13.0,
+          "1": 11.0,
+          "2": 13.0,
+          "3": 8.0
+        },
+        "best_runs": {
+          "0": [
+            {
+              "timestamp": 1769874950497,
+              "score_exploration": 67,
+              "score_speed": 66,
+              "score_skill": 60,
+              "score_bonus": 7,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "bbf68484-1118-408e-b313-4d1c19029ca8"
+              ],
+              "elapsed_time": 1493310,
+              "damage_dealt": 1963322.2157337307,
+              "deaths": 0,
+              "mobs_killed": 140,
+              "secrets_found": 12,
+              "damage_mitigated": 29423.628568078842,
+              "ally_healing": 1719.5823364257812
+            },
+            {
+              "timestamp": 1770913980416,
+              "score_exploration": 64,
+              "score_speed": 70,
+              "score_skill": 44,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "9932b1cc-2dac-4d44-ae9a-94ccdf32cb57",
+                "55f7f812-9752-4e34-ab74-d7dcc9a0af34"
+              ],
+              "elapsed_time": 510151,
+              "damage_dealt": 2144258.7464727666,
+              "deaths": 0,
+              "mobs_killed": 134,
+              "secrets_found": 10,
+              "damage_mitigated": 69585.58290408229,
+              "ally_healing": 240.0
+            },
+            {
+              "timestamp": 1770914388950,
+              "score_exploration": 64,
+              "score_speed": 70,
+              "score_skill": 54,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "9932b1cc-2dac-4d44-ae9a-94ccdf32cb57",
+                "55f7f812-9752-4e34-ab74-d7dcc9a0af34"
+              ],
+              "elapsed_time": 391121,
+              "damage_dealt": 801471.354852062,
+              "deaths": 0,
+              "mobs_killed": 65,
+              "secrets_found": 6,
+              "damage_mitigated": 12957.571099144003
+            },
+            {
+              "timestamp": 1770915174133,
+              "score_exploration": 67,
+              "score_speed": 70,
+              "score_skill": 48,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "8b5cc244-f5ff-42c8-8879-458fcc90695f",
+                "98b630ee-43e4-48f6-922d-f895b84658bc",
+                "cd4ca214-32eb-4157-a599-e2a9715a763b",
+                "025fd301-8a55-46be-9243-5378d688304a"
+              ],
+              "elapsed_time": 424348,
+              "damage_dealt": 2148384.9532716554,
+              "deaths": 0,
+              "mobs_killed": 140,
+              "secrets_found": 9,
+              "damage_mitigated": 50059.8306184896,
+              "ally_healing": 360.0
+            },
+            {
+              "timestamp": 1770915706782,
+              "score_exploration": 67,
+              "score_speed": 70,
+              "score_skill": 60,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "94be3008-1839-4d10-a477-1f0ccb5aac96",
+                "98b630ee-43e4-48f6-922d-f895b84658bc",
+                "2829d9e0-cc0d-41ee-bf3c-5720136c84e8",
+                "8f595a6b-d5fd-4b56-a3d8-fadc7e413176"
+              ],
+              "elapsed_time": 355385,
+              "damage_dealt": 1028831.6800815099,
+              "deaths": 0,
+              "mobs_killed": 72,
+              "secrets_found": 9,
+              "damage_mitigated": 34847.12104317844
+            },
+            {
+              "timestamp": 1770918595602,
+              "score_exploration": 62,
+              "score_speed": 70,
+              "score_skill": 20,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "9cbb71ca-aa00-4c9a-8600-3fd10e611ba0",
+                "2829d9e0-cc0d-41ee-bf3c-5720136c84e8",
+                "b12d8180-edfb-43b9-9144-82687c152b1d"
+              ],
+              "elapsed_time": 730893,
+              "damage_dealt": 3503097.377798506,
+              "deaths": 0,
+              "mobs_killed": 223,
+              "secrets_found": 11,
+              "damage_mitigated": 97343.64082349278,
+              "ally_healing": 1892.0969848632812
+            },
+            {
+              "timestamp": 1770920968753,
+              "score_exploration": 64,
+              "score_speed": 70,
+              "score_skill": 54,
+              "score_bonus": 2,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "80377e0d-618d-419c-9eb0-208c4970e1b7",
+                "c3936d6a-9258-4bd4-b904-ef0c1d00d9d8",
+                "6a8f7709-c823-48ea-b2c0-1efd90fe510a"
+              ],
+              "elapsed_time": 230474,
+              "damage_dealt": 1527452.9036414875,
+              "deaths": 0,
+              "mobs_killed": 127,
+              "secrets_found": 4,
+              "damage_mitigated": 17908.78876643459
+            },
+            {
+              "timestamp": 1770922188870,
+              "score_exploration": 56,
+              "score_speed": 70,
+              "score_skill": 25,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "8ccd26cd-2c6d-41b7-907a-650687b1ee27",
+                "ab2760af-ea56-4251-a9d0-b5ebe0549b1b",
+                "abbc6d02-5733-4997-8277-c03197b15223"
+              ],
+              "elapsed_time": 262656,
+              "damage_dealt": 1317049.9423718394,
+              "deaths": 0,
+              "mobs_killed": 94,
+              "secrets_found": 3,
+              "damage_mitigated": 50625.57645507193,
+              "ally_healing": 124.0
+            },
+            {
+              "timestamp": 1770922474757,
+              "score_exploration": 64,
+              "score_speed": 70,
+              "score_skill": 55,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "95e9254c-1d24-450c-bc90-d2cadadcadd1",
+                "69a30051-b09c-4883-a671-d7a10a6c1924"
+              ],
+              "elapsed_time": 140244,
+              "damage_dealt": 374486.4771851557,
+              "deaths": 0,
+              "mobs_killed": 40,
+              "secrets_found": 3,
+              "damage_mitigated": 14237.303040129169
+            },
+            {
+              "timestamp": 1770988830498,
+              "score_exploration": 67,
+              "score_speed": 70,
+              "score_skill": 48,
+              "score_bonus": 2,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "285a634a-9f1d-48d4-a9b5-c0727f5bb103",
+                "74443187-adc5-4ce4-ab04-716667f20dfb",
+                "eb8b7596-3194-4ff3-9147-441e1fd8b070",
+                "e8884f9b-6b3c-44fe-b5c5-8b8d2877d865"
+              ],
+              "elapsed_time": 500981,
+              "damage_dealt": 2033489.2263503622,
+              "deaths": 0,
+              "mobs_killed": 120,
+              "secrets_found": 5,
+              "damage_mitigated": 75595.74881116462
+            }
+          ],
+          "1": [
+            {
+              "timestamp": 1770912842086,
+              "score_exploration": 94,
+              "score_speed": 100,
+              "score_skill": 90,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "55f7f812-9752-4e34-ab74-d7dcc9a0af34",
+                "f5c47595-1616-4bea-95ae-916ce2bedf86"
+              ],
+              "elapsed_time": 462794,
+              "damage_dealt": 6650670.647409311,
+              "deaths": 0,
+              "mobs_killed": 196,
+              "secrets_found": 4,
+              "damage_mitigated": 206676.15319938282,
+              "ally_healing": 720.0
+            },
+            {
+              "timestamp": 1770916308114,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 84,
+              "score_bonus": 3,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "5a1be16c-add4-4934-bd7f-8effb5f949eb",
+                "94be3008-1839-4d10-a477-1f0ccb5aac96",
+                "f293a9d6-9a8c-42ef-a9c0-deab5254a24f",
+                "84bb14b0-3ef5-4ce8-81cc-c41f7eef9847"
+              ],
+              "elapsed_time": 380482,
+              "damage_dealt": 2813163.114815354,
+              "deaths": 0,
+              "mobs_killed": 74,
+              "secrets_found": 13,
+              "damage_mitigated": 29502.937878009445,
+              "ally_healing": 1598.842041015625
+            },
+            {
+              "timestamp": 1770920590381,
+              "score_exploration": 97,
+              "score_speed": 100,
+              "score_skill": 80,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "4a32dc5d-5c79-4491-a37c-8533f07390c1",
+                "2249b859-f3f2-45ff-85eb-f52af99b1d49",
+                "1d2f8183-8583-40d7-aa54-96b77c0df610",
+                "cd4ca214-32eb-4157-a599-e2a9715a763b"
+              ],
+              "elapsed_time": 430964,
+              "damage_dealt": 2386997.1886715633,
+              "deaths": 0,
+              "mobs_killed": 77,
+              "secrets_found": 6,
+              "damage_mitigated": 62046.67518283613,
+              "ally_healing": 626.74853515625
+            },
+            {
+              "timestamp": 1770923162004,
+              "score_exploration": 97,
+              "score_speed": 100,
+              "score_skill": 86,
+              "score_bonus": 2,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "c1bae7b3-4097-40ab-bc9b-1d910a92d4e0",
+                "b78450b0-a241-48aa-8bec-b2ddcfdd67c7",
+                "4ae2828a-bfae-4641-926d-cebd3efbe70a",
+                "adafa9df-c381-406f-8aa4-d1f71afca6e2"
+              ],
+              "elapsed_time": 317425,
+              "damage_dealt": 1609721.627153635,
+              "deaths": 0,
+              "mobs_killed": 61,
+              "secrets_found": 6,
+              "damage_mitigated": 29492.737315279683,
+              "ally_healing": 124.0
+            },
+            {
+              "timestamp": 1770989372219,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 96,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "1ed5c66b-8600-4af2-95d6-f2fce4330fb0",
+                "0345d68b-350c-47aa-b30e-4c7d046e7251",
+                "52895882-7376-42c4-b2c7-3eb2674e9946",
+                "39606026-1a67-4bd2-bb5c-cf4c1483f9d2"
+              ],
+              "elapsed_time": 228925,
+              "damage_dealt": 1440397.8456383026,
+              "deaths": 0,
+              "mobs_killed": 40,
+              "secrets_found": 4,
+              "damage_mitigated": 15052.171543511891,
+              "ally_healing": 136.8125
+            },
+            {
+              "timestamp": 1770989643625,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "1ed5c66b-8600-4af2-95d6-f2fce4330fb0",
+                "0345d68b-350c-47aa-b30e-4c7d046e7251",
+                "52895882-7376-42c4-b2c7-3eb2674e9946",
+                "39606026-1a67-4bd2-bb5c-cf4c1483f9d2"
+              ],
+              "elapsed_time": 232047,
+              "damage_dealt": 1150046.301607014,
+              "deaths": 0,
+              "mobs_killed": 37,
+              "secrets_found": 1,
+              "damage_mitigated": 28981.72586585681,
+              "ally_healing": 98.1494140625
+            },
+            {
+              "timestamp": 1770989874362,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "1ed5c66b-8600-4af2-95d6-f2fce4330fb0",
+                "0345d68b-350c-47aa-b30e-4c7d046e7251",
+                "52895882-7376-42c4-b2c7-3eb2674e9946",
+                "39606026-1a67-4bd2-bb5c-cf4c1483f9d2"
+              ],
+              "elapsed_time": 185631,
+              "damage_dealt": 1730741.1901063642,
+              "deaths": 0,
+              "mobs_killed": 47,
+              "secrets_found": 5,
+              "damage_mitigated": 27907.081894531257,
+              "ally_healing": 124.0
+            },
+            {
+              "timestamp": 1770990177809,
+              "score_exploration": 91,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "0345d68b-350c-47aa-b30e-4c7d046e7251",
+                "39606026-1a67-4bd2-bb5c-cf4c1483f9d2"
+              ],
+              "elapsed_time": 283394,
+              "damage_dealt": 3819168.6751972265,
+              "deaths": 0,
+              "mobs_killed": 122,
+              "secrets_found": 4,
+              "damage_mitigated": 88749.82411861414
+            },
+            {
+              "timestamp": 1770990478675,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "7bca627f-3a19-4f30-866f-42a50cb6de9d",
+                "0345d68b-350c-47aa-b30e-4c7d046e7251",
+                "85298fb4-f7b3-4d3e-a47c-86acf989682a",
+                "39606026-1a67-4bd2-bb5c-cf4c1483f9d2"
+              ],
+              "elapsed_time": 177638,
+              "damage_dealt": 1784174.881314709,
+              "deaths": 0,
+              "mobs_killed": 50,
+              "secrets_found": 1,
+              "damage_mitigated": 43125.853180338534,
+              "ally_healing": 248.0
+            },
+            {
+              "timestamp": 1771017131345,
+              "score_exploration": 97,
+              "score_speed": 100,
+              "score_skill": 84,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "39bd66ad-2c37-405c-9b0b-7098bf71842d",
+                "7cf3bfda-deb6-4862-9f5c-d9bfb361349b"
+              ],
+              "elapsed_time": 362035,
+              "damage_dealt": 3884301.934908232,
+              "deaths": 0,
+              "mobs_killed": 110,
+              "secrets_found": 2,
+              "damage_mitigated": 93625.04867630881,
+              "ally_healing": 248.0
+            }
+          ],
+          "2": [
+            {
+              "timestamp": 1770752890881,
+              "score_exploration": 86,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 2,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "4632e8a1-2a96-4c96-9dce-51d4bc198421"
+              ],
+              "elapsed_time": 256507,
+              "damage_dealt": 2162457.3837689525,
+              "deaths": 0,
+              "mobs_killed": 40,
+              "secrets_found": 1,
+              "damage_mitigated": 52816.72929199217
+            },
+            {
+              "timestamp": 1770753202513,
+              "score_exploration": 74,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 3,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "4632e8a1-2a96-4c96-9dce-51d4bc198421"
+              ],
+              "elapsed_time": 258725,
+              "damage_dealt": 3640589.8649399034,
+              "deaths": 0,
+              "mobs_killed": 54,
+              "secrets_found": 2,
+              "damage_mitigated": 135805.4024936715
+            },
+            {
+              "timestamp": 1770768968963,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 92,
+              "score_bonus": 4,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "351e5214-06a9-4eb0-b52f-1bec825ef407",
+                "52510ca6-975b-4f35-83fe-2d8c7c7e08fc",
+                "7ecdaf99-1136-4cc3-80ea-1286ba9fbb35",
+                "2160b7bc-3550-4679-ad81-26142dd06990"
+              ],
+              "elapsed_time": 590564,
+              "damage_dealt": 4680675.740974213,
+              "deaths": 1,
+              "mobs_killed": 64,
+              "secrets_found": 3,
+              "damage_mitigated": 182232.59394449522,
+              "ally_healing": 1123.62744140625
+            },
+            {
+              "timestamp": 1770769561831,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 94,
+              "score_bonus": 2,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "126aea7a-3c65-41b9-919f-b6e138292d07",
+                "364c8734-a538-45ed-9e6c-9971fcc10bd1",
+                "d58520f1-a72f-4aa8-acc7-d650486c8649",
+                "ab8e2ec3-eb10-4841-b537-ac9af45503c1"
+              ],
+              "elapsed_time": 289813,
+              "damage_dealt": 2592837.4048569473,
+              "deaths": 0,
+              "mobs_killed": 47,
+              "secrets_found": 2,
+              "damage_mitigated": 65117.388830528245,
+              "ally_healing": 195.4892578125
+            },
+            {
+              "timestamp": 1770770166184,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 94,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "8c8e2b0d-6b85-4498-84b6-27b4d69447ba",
+                "3b8581ca-a2ca-4f37-9eb2-438e6b6d48c2",
+                "23cc9012-e261-488c-be2f-8cfb96a6e348",
+                "a2726896-9fb0-47c3-bb2a-5b878733ee53"
+              ],
+              "elapsed_time": 516444,
+              "damage_dealt": 2145197.1180330007,
+              "deaths": 1,
+              "mobs_killed": 36,
+              "secrets_found": 5,
+              "damage_mitigated": 63521.615295096606,
+              "ally_healing": 466.7568359375
+            },
+            {
+              "timestamp": 1770850412234,
+              "score_exploration": 97,
+              "score_speed": 95,
+              "score_skill": 80,
+              "score_bonus": 2,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "dad0b5d7-4e10-4973-afcf-138a52958411",
+                "7e121b01-c9f1-4808-a071-e3417d75444b",
+                "fd014bc1-e92d-49e8-9d56-53cbff87d765",
+                "6cbc344e-f305-4d23-b307-9557319770c7"
+              ],
+              "elapsed_time": 666790,
+              "damage_dealt": 2702638.6218923503,
+              "deaths": 1,
+              "mobs_killed": 44,
+              "secrets_found": 5,
+              "damage_mitigated": 145797.66404845967,
+              "ally_healing": 600.0
+            },
+            {
+              "timestamp": 1770917303471,
+              "score_exploration": 100,
+              "score_speed": 94,
+              "score_skill": 90,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "7805b3ef-a288-408b-a439-c68c6ae79215",
+                "6c577497-4df3-4013-b29b-596f5302a95e",
+                "191211f5-d335-4e9c-babf-8c888a2437ab"
+              ],
+              "elapsed_time": 681870,
+              "damage_dealt": 5172488.643068716,
+              "deaths": 0,
+              "mobs_killed": 43,
+              "secrets_found": 8,
+              "damage_mitigated": 253375.34103405257,
+              "ally_healing": 2811.6376953125
+            },
+            {
+              "timestamp": 1770921461544,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 3,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "87f692dd-7c78-42d0-85bb-49379b26d6f3",
+                "2582911f-0ff5-488a-882d-f82afd80292c",
+                "919f853f-81ee-498a-941f-fcef0ab84623",
+                "760f4567-141d-4630-bb7c-a4fa023abcac"
+              ],
+              "elapsed_time": 328755,
+              "damage_dealt": 2458958.620249605,
+              "deaths": 1,
+              "mobs_killed": 24,
+              "secrets_found": 0,
+              "damage_mitigated": 104821.72907732692,
+              "ally_healing": 480.0
+            },
+            {
+              "timestamp": 1770990714055,
+              "score_exploration": 85,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 2,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "0345d68b-350c-47aa-b30e-4c7d046e7251",
+                "85298fb4-f7b3-4d3e-a47c-86acf989682a",
+                "39606026-1a67-4bd2-bb5c-cf4c1483f9d2"
+              ],
+              "elapsed_time": 201606,
+              "damage_dealt": 2063084.6339662718,
+              "deaths": 0,
+              "mobs_killed": 24,
+              "secrets_found": 2,
+              "damage_mitigated": 74737.42880371094
+            },
+            {
+              "timestamp": 1770990998800,
+              "score_exploration": 83,
+              "score_speed": 100,
+              "score_skill": 96,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "0345d68b-350c-47aa-b30e-4c7d046e7251",
+                "85298fb4-f7b3-4d3e-a47c-86acf989682a",
+                "39606026-1a67-4bd2-bb5c-cf4c1483f9d2"
+              ],
+              "elapsed_time": 270611,
+              "damage_dealt": 5485726.968533918,
+              "deaths": 1,
+              "mobs_killed": 81,
+              "secrets_found": 2,
+              "damage_mitigated": 153777.61471122957,
+              "ally_healing": 370.8232421875
+            }
+          ],
+          "3": [
+            {
+              "timestamp": 1770770791034,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 92,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "2615f256-5c24-489e-8ea8-6f8ac39a5a93",
+                "4b5f690c-6ea9-4b7f-996e-05e990bc3f54",
+                "86920ba2-a1bc-46e9-88be-4d480595924b",
+                "0fe69c53-88ad-443d-ac0c-fb836157d7e3"
+              ],
+              "elapsed_time": 505706,
+              "damage_dealt": 726267.9816978852,
+              "deaths": 0,
+              "mobs_killed": 7,
+              "secrets_found": 0,
+              "damage_mitigated": 37692.523681640625
+            },
+            {
+              "timestamp": 1770771626437,
+              "score_exploration": 90,
+              "score_speed": 100,
+              "score_skill": 77,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "37d5b90f-cc0a-4aed-a171-3eab37edb6a5",
+                "4b5f690c-6ea9-4b7f-996e-05e990bc3f54",
+                "86920ba2-a1bc-46e9-88be-4d480595924b",
+                "0fe69c53-88ad-443d-ac0c-fb836157d7e3"
+              ],
+              "elapsed_time": 585466,
+              "damage_dealt": 1879549.376466284,
+              "deaths": 4,
+              "mobs_killed": 9,
+              "secrets_found": 1,
+              "damage_mitigated": 114306.40508703553,
+              "ally_healing": 600.0
+            },
+            {
+              "timestamp": 1770848683984,
+              "score_exploration": 97,
+              "score_speed": 100,
+              "score_skill": 82,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "bbf68484-1118-408e-b313-4d1c19029ca8",
+                "991c0ec5-b303-463e-ad01-e1c3aebc967e",
+                "8c03da04-e778-4d47-9524-4c4f45cc0d32",
+                "ffb0f6ef-cebf-4d31-835e-11f3fb3e5cec"
+              ],
+              "elapsed_time": 496497,
+              "damage_dealt": 2988029.883948755,
+              "deaths": 2,
+              "mobs_killed": 21,
+              "secrets_found": 0,
+              "damage_mitigated": 96760.89291992185,
+              "ally_healing": 120.0
+            },
+            {
+              "timestamp": 1770921873569,
+              "score_exploration": 92,
+              "score_speed": 100,
+              "score_skill": 90,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "79881117-882d-42e5-ac75-8fef6467a797",
+                "0a20d0cf-ec1f-42b6-a9d9-f5611efe4d9d",
+                "fe993d5b-0c6b-4e68-afdf-74ba0ef59139",
+                "dc336c65-2ac2-4ffd-bbdd-2989b390ea70"
+              ],
+              "elapsed_time": 231425,
+              "damage_dealt": 2134214.7408069037,
+              "deaths": 1,
+              "mobs_killed": 16,
+              "secrets_found": 3,
+              "damage_mitigated": 85906.68887132008
+            }
+          ]
+        },
+        "experience": 16082.444090304538,
+        "milestone_completions": {
+          "total": 40.0,
+          "0": 13.0,
+          "1": 11.0,
+          "2": 12.0,
+          "3": 4.0
+        },
+        "highest_tier_completed": 3
+      },
+      "master_catacombs": {
+        "tier_completions": {}
+      }
+    },
+    "player_classes": {
+      "healer": {
+        "experience": 198.3827083333333
+      },
+      "mage": {
+        "experience": 2676.435697729889
+      },
+      "berserk": {
+        "experience": 15195.459393037701
+      },
+      "archer": {
+        "experience": 1963.2180331869918
+      },
+      "tank": {
+        "experience": 918.0811161362609
+      }
+    },
+    "dungeon_journal": {
+      "unlocked_journals": [
+        "the_study",
+        "uncanny_remains",
+        "karylles_diary",
+        "expedition_volume_1",
+        "expedition_volume_2"
+      ]
+    },
+    "treasures": {
+      "chests": [
+        {
+          "type": "DUNGEON",
+          "run_id": "2ecb1569b876486b85371cf1bc604c0c",
+          "chest_id": "358b00a217f64b6fa0952f61b891bc21",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "ESSENCE:UNDEAD:5",
+              "ESSENCE:WITHER:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 120,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "2ecb1569b876486b85371cf1bc604c0c",
+          "chest_id": "23a2d976caaa459cb2c0811f7de955c0",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "feather_falling_6",
+              "infinite_quiver_6",
+              "ESSENCE:UNDEAD:8",
+              "ESSENCE:WITHER:8"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 170,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "2ecb1569b876486b85371cf1bc604c0c",
+          "chest_id": "ffb845bf52014e32b5d26a388b30824a",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "necro_brooch",
+              "rejuvenate_1",
+              "ESSENCE:UNDEAD:12",
+              "ESSENCE:WITHER:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 210,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "2ecb1569b876486b85371cf1bc604c0c",
+          "chest_id": "644eb8f4c0ba422c9c3a527254f50c27",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "wise_1",
+              "ESSENCE:UNDEAD:15",
+              "ESSENCE:WITHER:17"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 250,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "2ecb1569b876486b85371cf1bc604c0c",
+          "chest_id": "997853c911cb4af2a936792682f1e2e5",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "fuming_potato_book",
+              "wise_1",
+              "ESSENCE:UNDEAD:20",
+              "ESSENCE:WITHER:12"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 320,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "237a74edbb1743e48ddbcbc5058017c5",
+          "chest_id": "a1a6624d0deb491db8d1132412c07b75",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "feather_falling_6",
+              "ESSENCE:UNDEAD:5",
+              "ESSENCE:WITHER:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 120,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "237a74edbb1743e48ddbcbc5058017c5",
+          "chest_id": "6b91ebc9d9994c5c992a0ff6fc79e4bb",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "feather_falling_6",
+              "ESSENCE:UNDEAD:8",
+              "ESSENCE:WITHER:8"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 170,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "237a74edbb1743e48ddbcbc5058017c5",
+          "chest_id": "3ca1dd4223ae4ffa85b599f8f5b35cba",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "bank_1",
+              "rejuvenate_1",
+              "ESSENCE:UNDEAD:12",
+              "ESSENCE:WITHER:11"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 210,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "237a74edbb1743e48ddbcbc5058017c5",
+          "chest_id": "4053569ae96a4912b63e71ad6fb09b00",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "necro_brooch",
+              "rejuvenate_1",
+              "ESSENCE:UNDEAD:15",
+              "ESSENCE:WITHER:16"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 250,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "237a74edbb1743e48ddbcbc5058017c5",
+          "chest_id": "50df42610aea4fe4b0191db650d4df1d",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "necro_brooch",
+              "wise_1",
+              "bank_1",
+              "ESSENCE:UNDEAD:20",
+              "ESSENCE:WITHER:13"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 320,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "95647bb6c8204663a752f81edd857252",
+          "chest_id": "439716ad7fb6498ca8011f51ab69887f",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "feather_falling_6",
+              "ESSENCE:WITHER:10",
+              "ESSENCE:UNDEAD:5"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 120,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "95647bb6c8204663a752f81edd857252",
+          "chest_id": "406f5f7fc26e47238a93d65503cc45af",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "no_pain_no_gain_1",
+              "ESSENCE:WITHER:12",
+              "ESSENCE:UNDEAD:8"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 170,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "95647bb6c8204663a752f81edd857252",
+          "chest_id": "f7b629db09ec4bce8cec48312fd3bbc0",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "wise_1",
+              "ESSENCE:WITHER:11",
+              "ESSENCE:UNDEAD:12"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 210,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "95647bb6c8204663a752f81edd857252",
+          "chest_id": "b34d48d45aa54ee5a503dae8f416d87e",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "wise_1",
+              "no_pain_no_gain_1",
+              "ESSENCE:WITHER:13",
+              "ESSENCE:UNDEAD:15"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 250,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "95647bb6c8204663a752f81edd857252",
+          "chest_id": "3782088610e4421589c3cae4967f455e",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "necro_brooch",
+              "scarf_studies",
+              "ESSENCE:WITHER:16",
+              "ESSENCE:UNDEAD:20"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 320,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "7e46f66c7eb74c389b6f2189fc1ad0cc",
+          "chest_id": "0d3348abf9c7438a9ba1fb15f542206e",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "ESSENCE:WITHER:12",
+              "ESSENCE:UNDEAD:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 125,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "7e46f66c7eb74c389b6f2189fc1ad0cc",
+          "chest_id": "871454d8b3dc417ab8b09392ae32e444",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "no_pain_no_gain_1",
+              "ESSENCE:WITHER:15",
+              "ESSENCE:UNDEAD:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 180,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "7e46f66c7eb74c389b6f2189fc1ad0cc",
+          "chest_id": "865151c709c241eeaafb93443f5411d3",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "wisdom_1",
+              "ESSENCE:WITHER:14",
+              "ESSENCE:UNDEAD:15"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 220,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "7e46f66c7eb74c389b6f2189fc1ad0cc",
+          "chest_id": "37c98f4112db44d0a91609e105ccfb66",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_2",
+              "rejuvenate_1",
+              "ESSENCE:WITHER:17",
+              "ESSENCE:UNDEAD:20"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 260,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "7e46f66c7eb74c389b6f2189fc1ad0cc",
+          "chest_id": "a29365e061184179961ad0f0bf43fdad",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "suspicious_vial",
+              "combo_1",
+              "ESSENCE:WITHER:21",
+              "ESSENCE:UNDEAD:30"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 330,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3f428423a4894b7993055f4455f5aefb",
+          "chest_id": "b07a3c08f7cd416994f540294babc5be",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "ESSENCE:WITHER:12",
+              "ESSENCE:UNDEAD:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 125,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3f428423a4894b7993055f4455f5aefb",
+          "chest_id": "bed42d359ecc4ee8ab1aa2bd2dd2e573",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "necro_brooch",
+              "ESSENCE:WITHER:16",
+              "ESSENCE:UNDEAD:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 180,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3f428423a4894b7993055f4455f5aefb",
+          "chest_id": "68306ee1ce1747e583dae2560ba338af",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "hot_potato_book",
+              "ESSENCE:WITHER:16",
+              "ESSENCE:UNDEAD:15"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 220,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3f428423a4894b7993055f4455f5aefb",
+          "chest_id": "cdcac56ac20b40e9bb7eeb11d160d356",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "wisdom_1",
+              "last_stand_1",
+              "ESSENCE:WITHER:18",
+              "ESSENCE:UNDEAD:20"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 260,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3f428423a4894b7993055f4455f5aefb",
+          "chest_id": "bb65c5f92b824007851153a28ef11c4d",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "no_pain_no_gain_1",
+              "rejuvenate_2",
+              "master_jerry_2",
+              "ESSENCE:WITHER:16",
+              "ESSENCE:UNDEAD:25"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 330,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "0d840719d81a4fc58cdcfc976892d35b",
+          "chest_id": "d74b64f2d30d4b67874ae10cedc7acd6",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "ESSENCE:WITHER:12",
+              "ESSENCE:UNDEAD:12"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 126,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "0d840719d81a4fc58cdcfc976892d35b",
+          "chest_id": "6298eeca5e7446888d18fe0320fd56b8",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "hot_potato_book",
+              "ESSENCE:WITHER:11",
+              "ESSENCE:UNDEAD:12"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 181,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "0d840719d81a4fc58cdcfc976892d35b",
+          "chest_id": "20551aee38d44c11aaae09cfdd1b47ba",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "no_pain_no_gain_1",
+              "ESSENCE:WITHER:12",
+              "ESSENCE:UNDEAD:17"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 221,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "0d840719d81a4fc58cdcfc976892d35b",
+          "chest_id": "70834398da6e40f2ada7d3938b58c902",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "wise_1",
+              "feather_falling_6",
+              "ESSENCE:WITHER:12",
+              "ESSENCE:UNDEAD:22"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 261,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "0d840719d81a4fc58cdcfc976892d35b",
+          "chest_id": "9302cd1fef764c8d981b06469625c82b",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "wise_1",
+              "hot_potato_book",
+              "ESSENCE:WITHER:22",
+              "ESSENCE:UNDEAD:27"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 331,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3e78f36e4fc04faba6e1c1986a6ae0ee",
+          "chest_id": "45163a067e734ff7ba228ea6dc12b499",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "ESSENCE:UNDEAD:7",
+              "ESSENCE:WITHER:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 121,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3e78f36e4fc04faba6e1c1986a6ae0ee",
+          "chest_id": "ab3c2a3620dd4b0d990918e8f6897f2b",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "rejuvenate_1",
+              "ESSENCE:UNDEAD:10",
+              "ESSENCE:WITHER:8"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 171,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3e78f36e4fc04faba6e1c1986a6ae0ee",
+          "chest_id": "a480f1c41ec742ea8653a3344871d07d",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "necro_brooch",
+              "rejuvenate_1",
+              "ESSENCE:UNDEAD:14",
+              "ESSENCE:WITHER:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 211,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3e78f36e4fc04faba6e1c1986a6ae0ee",
+          "chest_id": "5d3718c5ae1c4af0b310ef8ba33a7b25",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "rejuvenate_1",
+              "feather_falling_6",
+              "ESSENCE:UNDEAD:17",
+              "ESSENCE:WITHER:11"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 251,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3e78f36e4fc04faba6e1c1986a6ae0ee",
+          "chest_id": "8564dce00bd147c08b4f39c125bc28ac",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "wise_1",
+              "necro_brooch",
+              "rejuvenate_1",
+              "ESSENCE:UNDEAD:22",
+              "ESSENCE:WITHER:15"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 321,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "f017c70198df4be6bf2e97c0c46220e2",
+          "chest_id": "9d6bc7c99377457985e30334b04e81cc",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "ESSENCE:WITHER:7",
+              "ESSENCE:UNDEAD:5"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 111,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "f017c70198df4be6bf2e97c0c46220e2",
+          "chest_id": "ed692309f04a4895877cf0a24818760a",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "feather_falling_6",
+              "ESSENCE:WITHER:5",
+              "ESSENCE:UNDEAD:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 161,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "f017c70198df4be6bf2e97c0c46220e2",
+          "chest_id": "7019c0d7419549d2813308a8b266af19",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "feather_falling_6",
+              "rejuvenate_1",
+              "ESSENCE:WITHER:10",
+              "ESSENCE:UNDEAD:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 201,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "f017c70198df4be6bf2e97c0c46220e2",
+          "chest_id": "0e1d65d5dac5481bb7d89a0fe0476278",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "necro_brooch",
+              "bank_1",
+              "ESSENCE:WITHER:9",
+              "ESSENCE:UNDEAD:14"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 241,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "f017c70198df4be6bf2e97c0c46220e2",
+          "chest_id": "59c4febd546643edbd18ab802af46cb2",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "hot_potato_book",
+              "rejuvenate_1",
+              "ESSENCE:WITHER:12",
+              "ESSENCE:UNDEAD:17"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 301,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "18561ac314dd4030964724abe8026b85",
+          "chest_id": "4d74c67c03ff4072a6749ca7e236ab7e",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "ESSENCE:UNDEAD:5",
+              "ESSENCE:WITHER:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 111,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "18561ac314dd4030964724abe8026b85",
+          "chest_id": "890e10f90e654e93ad274b59ed9c5e43",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "combo_1",
+              "ESSENCE:UNDEAD:7",
+              "ESSENCE:WITHER:9"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 161,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "18561ac314dd4030964724abe8026b85",
+          "chest_id": "2aa7259318274c90a39dae0015f489fa",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "necro_brooch",
+              "rejuvenate_1",
+              "ESSENCE:UNDEAD:10",
+              "ESSENCE:WITHER:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 201,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "18561ac314dd4030964724abe8026b85",
+          "chest_id": "d35a46fa61164a158043a9abbccf5709",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "no_pain_no_gain_1",
+              "infinite_quiver_6",
+              "ESSENCE:UNDEAD:14",
+              "ESSENCE:WITHER:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 241,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "18561ac314dd4030964724abe8026b85",
+          "chest_id": "f6eb70de26e4415baaf72da046ffa942",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "no_pain_no_gain_1",
+              "necro_brooch",
+              "ESSENCE:UNDEAD:17",
+              "ESSENCE:WITHER:13"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 301,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3fc1e27012ca42278072cdd679b2f47c",
+          "chest_id": "208ceedcd9484355bb0284caed844eda",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "ESSENCE:WITHER:10",
+              "ESSENCE:UNDEAD:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 121,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3fc1e27012ca42278072cdd679b2f47c",
+          "chest_id": "6066601575404e338e128f008078a578",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "feather_falling_6",
+              "ESSENCE:WITHER:8",
+              "ESSENCE:UNDEAD:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 171,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3fc1e27012ca42278072cdd679b2f47c",
+          "chest_id": "7bf3c170d4934fdcbe84f0ba8085b328",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "hot_potato_book",
+              "ESSENCE:WITHER:13",
+              "ESSENCE:UNDEAD:14"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 211,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3fc1e27012ca42278072cdd679b2f47c",
+          "chest_id": "9c8ca27bb99a4a2a87f2b7638578bd6e",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "stone_blade",
+              "ESSENCE:WITHER:10",
+              "ESSENCE:UNDEAD:17"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 251,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3fc1e27012ca42278072cdd679b2f47c",
+          "chest_id": "b1237000eb3548f18eba87c9f20604af",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "necro_brooch",
+              "combo_1",
+              "ESSENCE:WITHER:13",
+              "ESSENCE:UNDEAD:22"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 321,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "4b5058e747204a25a36184af22dcedd6",
+          "chest_id": "44512a9865194ebcb2ae776ddc5e41ce",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "ESSENCE:UNDEAD:5",
+              "ESSENCE:WITHER:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 111,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "4b5058e747204a25a36184af22dcedd6",
+          "chest_id": "795305662b2441da93d2ff679b1c80fc",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "no_pain_no_gain_1",
+              "ESSENCE:UNDEAD:7",
+              "ESSENCE:WITHER:9"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 161,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "4b5058e747204a25a36184af22dcedd6",
+          "chest_id": "bf810541cebf44d49144e7906a96a78c",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "necro_brooch",
+              "ESSENCE:UNDEAD:10",
+              "ESSENCE:WITHER:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 201,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "4b5058e747204a25a36184af22dcedd6",
+          "chest_id": "d3e302eb4d4c4848ade70c6225174566",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "combo_1",
+              "feather_falling_6",
+              "ESSENCE:UNDEAD:14",
+              "ESSENCE:WITHER:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 241,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "4b5058e747204a25a36184af22dcedd6",
+          "chest_id": "e6e89e26edbc4af4bfc26f79f2b3c229",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "infinite_quiver_6",
+              "necro_brooch",
+              "ESSENCE:UNDEAD:17",
+              "ESSENCE:WITHER:9"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 301,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "353c8905b64f4d8a9fe139c16040c95e",
+          "chest_id": "3ee177df7e5542f49b4ea194c72e6f22",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "ESSENCE:WITHER:10",
+              "ESSENCE:UNDEAD:13"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 127,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "353c8905b64f4d8a9fe139c16040c95e",
+          "chest_id": "9754734b6e3346319f73ad289465b482",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "necro_brooch",
+              "ESSENCE:WITHER:14",
+              "ESSENCE:UNDEAD:8"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 179,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "353c8905b64f4d8a9fe139c16040c95e",
+          "chest_id": "12251f10b711402dbf37dec06c482c4e",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "feather_falling_6",
+              "ESSENCE:WITHER:14",
+              "ESSENCE:UNDEAD:14"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 221,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "353c8905b64f4d8a9fe139c16040c95e",
+          "chest_id": "6537b78ceca142e89609227a7e2b5be5",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "necro_brooch",
+              "no_pain_no_gain_1",
+              "ESSENCE:WITHER:13",
+              "ESSENCE:UNDEAD:19"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 263,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "353c8905b64f4d8a9fe139c16040c95e",
+          "chest_id": "86cd1d7f08814b2895582c39cda9ef29",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "necro_brooch",
+              "rejuvenate_1",
+              "wise_1",
+              "ESSENCE:WITHER:16",
+              "ESSENCE:UNDEAD:28"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 337,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "b1d1d1ce08e8482f9d247a35a6015f8e",
+          "chest_id": "865ea059301a46f49799f3992164fb97",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "ESSENCE:UNDEAD:12",
+              "ESSENCE:WITHER:12"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 126,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "b1d1d1ce08e8482f9d247a35a6015f8e",
+          "chest_id": "1613a5729b6d49c7ba305daa82cc244a",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "wise_1",
+              "ESSENCE:UNDEAD:12",
+              "ESSENCE:WITHER:9"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 181,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "b1d1d1ce08e8482f9d247a35a6015f8e",
+          "chest_id": "ebfab9b6df8a499d9cdaf9ebf878701f",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "no_pain_no_gain_1",
+              "ESSENCE:UNDEAD:17",
+              "ESSENCE:WITHER:12"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 221,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "b1d1d1ce08e8482f9d247a35a6015f8e",
+          "chest_id": "b56116358aa84e598bc1e016d608d6a2",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "bank_1",
+              "infinite_quiver_6",
+              "ESSENCE:UNDEAD:22",
+              "ESSENCE:WITHER:12"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 261,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "b1d1d1ce08e8482f9d247a35a6015f8e",
+          "chest_id": "e9e1acf0eee3492e9fe509ef1ebad711",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_2",
+              "wisdom_1",
+              "bank_2",
+              "ESSENCE:UNDEAD:27",
+              "ESSENCE:WITHER:18"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 331,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "199225c269c446e39cc77cc035e8fb66",
+          "chest_id": "4600a877b0154213ace9e9cc6f93ed45",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "feather_falling_6",
+              "ESSENCE:UNDEAD:5",
+              "ESSENCE:WITHER:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 111,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "199225c269c446e39cc77cc035e8fb66",
+          "chest_id": "7402e5ac95ff48ceb6b46c877817c318",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "combo_1",
+              "ESSENCE:UNDEAD:7",
+              "ESSENCE:WITHER:9"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 161,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "199225c269c446e39cc77cc035e8fb66",
+          "chest_id": "1725d30c40b944588b6448e822897e6f",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "no_pain_no_gain_1",
+              "feather_falling_6",
+              "ESSENCE:UNDEAD:10",
+              "ESSENCE:WITHER:6"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 201,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "199225c269c446e39cc77cc035e8fb66",
+          "chest_id": "fc8f657869c44d6ebb32cfa29ad9c206",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "hot_potato_book",
+              "ESSENCE:UNDEAD:14",
+              "ESSENCE:WITHER:6"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 241,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "199225c269c446e39cc77cc035e8fb66",
+          "chest_id": "f676443de92f4550b6e9d6f2acceedcb",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "combo_1",
+              "infinite_quiver_6",
+              "rejuvenate_1",
+              "ESSENCE:UNDEAD:17",
+              "ESSENCE:WITHER:8"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 301,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "cdc09b0702d34bfba016ce10208c5833",
+          "chest_id": "205ab0f1f05c46769897192824b58528",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "feather_falling_6",
+              "ESSENCE:UNDEAD:5",
+              "ESSENCE:WITHER:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 111,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "cdc09b0702d34bfba016ce10208c5833",
+          "chest_id": "8427629301304a9fb0a574ef27ec8022",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "no_pain_no_gain_1",
+              "ESSENCE:UNDEAD:7",
+              "ESSENCE:WITHER:9"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 161,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "cdc09b0702d34bfba016ce10208c5833",
+          "chest_id": "d993ed03712b49c69f8262e56f2d12a0",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "bank_1",
+              "ESSENCE:UNDEAD:10",
+              "ESSENCE:WITHER:8"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 201,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "cdc09b0702d34bfba016ce10208c5833",
+          "chest_id": "8d6f24de4a4e449b91a3e3680ed6fb0c",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "combo_1",
+              "no_pain_no_gain_1",
+              "ESSENCE:UNDEAD:14",
+              "ESSENCE:WITHER:6"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 241,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "cdc09b0702d34bfba016ce10208c5833",
+          "chest_id": "262cff4c15e8487f84a1b161e473febb",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "master_jerry_1",
+              "combo_1",
+              "infinite_quiver_6",
+              "ESSENCE:UNDEAD:17",
+              "ESSENCE:WITHER:6"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 301,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "945dc07e25e2446aa46303885dfa7cf1",
+          "chest_id": "4177d912c98246e3889a09e7056976cb",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "ESSENCE:WITHER:7",
+              "ESSENCE:UNDEAD:5"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 111,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "945dc07e25e2446aa46303885dfa7cf1",
+          "chest_id": "83112ac138aa4be6bdf44a6834b55ec6",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "feather_falling_6",
+              "ESSENCE:WITHER:5",
+              "ESSENCE:UNDEAD:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 161,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "945dc07e25e2446aa46303885dfa7cf1",
+          "chest_id": "4df5eb1d775049ea86173f3c21c4d9aa",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "bank_1",
+              "ESSENCE:WITHER:8",
+              "ESSENCE:UNDEAD:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 201,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "945dc07e25e2446aa46303885dfa7cf1",
+          "chest_id": "324848e22a7a4bf5b6247fc0e7be36bc",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "feather_falling_6",
+              "no_pain_no_gain_1",
+              "ESSENCE:WITHER:10",
+              "ESSENCE:UNDEAD:14"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 241,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "945dc07e25e2446aa46303885dfa7cf1",
+          "chest_id": "c14d688ede5b463b98da54f237aac7dc",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "fuming_potato_book",
+              "infinite_quiver_6",
+              "ESSENCE:WITHER:6",
+              "ESSENCE:UNDEAD:17"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 301,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "7313386e641b4cbfb475532b2d7299fe",
+          "chest_id": "09baebcb396341139e98295eadfa64c8",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "ESSENCE:WITHER:7",
+              "ESSENCE:UNDEAD:5"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 111,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "7313386e641b4cbfb475532b2d7299fe",
+          "chest_id": "09b5663409434d86acf62fc136d3d51e",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "combo_1",
+              "ESSENCE:WITHER:9",
+              "ESSENCE:UNDEAD:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 161,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "7313386e641b4cbfb475532b2d7299fe",
+          "chest_id": "6d7d349b8e7949cab7bfce47df833cad",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "feather_falling_6",
+              "infinite_quiver_6",
+              "ESSENCE:WITHER:10",
+              "ESSENCE:UNDEAD:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 201,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "7313386e641b4cbfb475532b2d7299fe",
+          "chest_id": "8466f23811e9466ea677a6787f1ec395",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "no_pain_no_gain_1",
+              "combo_1",
+              "ESSENCE:WITHER:6",
+              "ESSENCE:UNDEAD:14"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 241,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "7313386e641b4cbfb475532b2d7299fe",
+          "chest_id": "26a98a250a514561a1a5247105789af3",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "bonzo_mask",
+              "bank_1",
+              "ESSENCE:WITHER:6",
+              "ESSENCE:UNDEAD:17"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 301,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "c6240d4a20e24084a3122d635bc3d651",
+          "chest_id": "6803576827cb44e291993930f560915c",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "feather_falling_6",
+              "ESSENCE:UNDEAD:5",
+              "ESSENCE:WITHER:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 111,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "c6240d4a20e24084a3122d635bc3d651",
+          "chest_id": "f28b4bf6cadc4a1fbc70078a65000e49",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "feather_falling_6",
+              "ESSENCE:UNDEAD:7",
+              "ESSENCE:WITHER:5"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 161,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "c6240d4a20e24084a3122d635bc3d651",
+          "chest_id": "32929d3789ee4e2b8d4dba748e5c14d3",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "necro_brooch",
+              "ESSENCE:UNDEAD:10",
+              "ESSENCE:WITHER:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 201,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "c6240d4a20e24084a3122d635bc3d651",
+          "chest_id": "d21e56d3400f4ca7a205c265d7a7b773",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "no_pain_no_gain_1",
+              "rejuvenate_1",
+              "ESSENCE:UNDEAD:14",
+              "ESSENCE:WITHER:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 241,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "c6240d4a20e24084a3122d635bc3d651",
+          "chest_id": "12a993f9cdad4b27b8dea06b5573a6b5",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "no_pain_no_gain_1",
+              "infinite_quiver_6",
+              "ESSENCE:UNDEAD:17",
+              "ESSENCE:WITHER:8"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 301,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "1361e6fadfae4f4a81447d8a65987750",
+          "chest_id": "091cc6e062c247968b2247ff682f0317",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "feather_falling_6",
+              "ESSENCE:UNDEAD:10",
+              "ESSENCE:WITHER:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 116,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "1361e6fadfae4f4a81447d8a65987750",
+          "chest_id": "c46f89cca5354559b3614a9acb64c6b7",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "feather_falling_6",
+              "ESSENCE:UNDEAD:5",
+              "ESSENCE:WITHER:6"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 169,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "1361e6fadfae4f4a81447d8a65987750",
+          "chest_id": "be35b65c961d4bda9631d56f7132c0ad",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "hot_potato_book",
+              "ESSENCE:UNDEAD:10",
+              "ESSENCE:WITHER:11"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 211,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "1361e6fadfae4f4a81447d8a65987750",
+          "chest_id": "634552592ad7499ca40480c6f62e79ea",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "infinite_quiver_6",
+              "feather_falling_6",
+              "ESSENCE:UNDEAD:16",
+              "ESSENCE:WITHER:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 253,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "1361e6fadfae4f4a81447d8a65987750",
+          "chest_id": "e26ceacee6d94bdca55fa41f140848b7",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "hot_potato_book",
+              "ESSENCE:UNDEAD:22",
+              "ESSENCE:WITHER:13"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 316,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "1a5b470171a24bf992b0d771643b2f2f",
+          "chest_id": "03f643ff6d164399933c2c36802f1666",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "ESSENCE:WITHER:10",
+              "ESSENCE:UNDEAD:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 121,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "1a5b470171a24bf992b0d771643b2f2f",
+          "chest_id": "5c2aee08087c4fd19c7b12ee914bf11b",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "feather_falling_6",
+              "rejuvenate_1",
+              "ESSENCE:WITHER:8",
+              "ESSENCE:UNDEAD:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 171,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "1a5b470171a24bf992b0d771643b2f2f",
+          "chest_id": "b48a7d2a189a4b66a6c025e3096a2138",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "feather_falling_6",
+              "ESSENCE:WITHER:13",
+              "ESSENCE:UNDEAD:14"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 211,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "1a5b470171a24bf992b0d771643b2f2f",
+          "chest_id": "ab2a4ffc516942caa0e378ab1894cfbe",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "feather_falling_6",
+              "necro_brooch",
+              "ESSENCE:WITHER:16",
+              "ESSENCE:UNDEAD:17"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 251,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "1a5b470171a24bf992b0d771643b2f2f",
+          "chest_id": "989f69744b2542a2a23c60a80e9a94eb",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "stone_blade",
+              "ESSENCE:WITHER:19",
+              "ESSENCE:UNDEAD:22"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 321,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "16a3c66fca6e4b5ab32a25149b09eda3",
+          "chest_id": "6d4a4ec505a842aaa64e5f375f1bc82e",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "ESSENCE:WITHER:10",
+              "ESSENCE:UNDEAD:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 121,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "16a3c66fca6e4b5ab32a25149b09eda3",
+          "chest_id": "33bb5dd75659488fbe4f3087136029e0",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "combo_1",
+              "ESSENCE:WITHER:12",
+              "ESSENCE:UNDEAD:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 171,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "16a3c66fca6e4b5ab32a25149b09eda3",
+          "chest_id": "3683b6301f974369b3e8150af65994ee",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "wise_1",
+              "feather_falling_6",
+              "ESSENCE:WITHER:11",
+              "ESSENCE:UNDEAD:14"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 211,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "16a3c66fca6e4b5ab32a25149b09eda3",
+          "chest_id": "07c468e8d1b146c5b378e4cfea9a5099",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "wise_1",
+              "rejuvenate_1",
+              "ESSENCE:WITHER:17",
+              "ESSENCE:UNDEAD:17"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 251,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "16a3c66fca6e4b5ab32a25149b09eda3",
+          "chest_id": "d77fc62301d6400e9d46a408e66fc7b7",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "hot_potato_book",
+              "ESSENCE:WITHER:20",
+              "ESSENCE:UNDEAD:22"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 321,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "2c57ae37451244d6ae6af690da28408d",
+          "chest_id": "f1472e63a7b04fceb09ed95cb11c4b0c",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "feather_falling_6",
+              "ESSENCE:WITHER:7",
+              "ESSENCE:UNDEAD:5"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 111,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "2c57ae37451244d6ae6af690da28408d",
+          "chest_id": "cec32e625f02440f9f933b81e32ed1db",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "infinite_quiver_6",
+              "rejuvenate_1",
+              "ESSENCE:WITHER:5",
+              "ESSENCE:UNDEAD:7"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 161,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "2c57ae37451244d6ae6af690da28408d",
+          "chest_id": "9a7b95c1c43a465f97190a28e8827219",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "necro_brooch",
+              "rejuvenate_1",
+              "ESSENCE:WITHER:7",
+              "ESSENCE:UNDEAD:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 201,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "2c57ae37451244d6ae6af690da28408d",
+          "chest_id": "27ce9b78c37340d99d4142e884556d74",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "feather_falling_6",
+              "bank_1",
+              "ESSENCE:WITHER:12",
+              "ESSENCE:UNDEAD:14"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 241,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "2c57ae37451244d6ae6af690da28408d",
+          "chest_id": "c7a94d29dc054ae1b152901946dd887e",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "no_pain_no_gain_1",
+              "combo_1",
+              "ESSENCE:WITHER:12",
+              "ESSENCE:UNDEAD:17"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 301,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        }
+      ],
+      "runs": [
+        {
+          "type": "DUNGEON",
+          "run_id": "16a3c66fca6e4b5ab32a25149b09eda3",
+          "completion_ts": 1770990998777,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 2,
+          "participants": [
+            {
+              "player_uuid": "396060261a674bd2bb5ccf4c1483f9d2",
+              "display_name": "§7MegagoomyX§f: §eBerserk§b (§e10§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "0345d68b350c47aab30e4c7d046e7251",
+              "display_name": "§bLip667§f: §eArcher§b (§e28§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e13§b)",
+              "class_milestone": 4
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "1a5b470171a24bf992b0d771643b2f2f",
+          "completion_ts": 1770990714039,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 2,
+          "participants": [
+            {
+              "player_uuid": "396060261a674bd2bb5ccf4c1483f9d2",
+              "display_name": "§7MegagoomyX§f: §eBerserk§b (§e10§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "85298fb4f7b34d3ea47c86acf989682a",
+              "display_name": "§7NeonRhino12§f: §eBerserk§b (§e16§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "0345d68b350c47aab30e4c7d046e7251",
+              "display_name": "§bLip667§f: §eArcher§b (§e28§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e13§b)",
+              "class_milestone": 3
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "1361e6fadfae4f4a81447d8a65987750",
+          "completion_ts": 1770990478655,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 1,
+          "participants": [
+            {
+              "player_uuid": "396060261a674bd2bb5ccf4c1483f9d2",
+              "display_name": "§7MegagoomyX§f: §eBerserk§b (§e10§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "85298fb4f7b34d3ea47c86acf989682a",
+              "display_name": "§7NeonRhino12§f: §eBerserk§b (§e16§b)",
+              "class_milestone": 1
+            },
+            {
+              "player_uuid": "0345d68b350c47aab30e4c7d046e7251",
+              "display_name": "§bLip667§f: §eArcher§b (§e28§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e13§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "7bca627f3a194f30866f42a50cb6de9d",
+              "display_name": "§a2w22§f: §eMage§b (§e13§b)",
+              "class_milestone": 2
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "c6240d4a20e24084a3122d635bc3d651",
+          "completion_ts": 1770990177800,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 1,
+          "participants": [
+            {
+              "player_uuid": "396060261a674bd2bb5ccf4c1483f9d2",
+              "display_name": "§7MegagoomyX§f: §eBerserk§b (§e10§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "0345d68b350c47aab30e4c7d046e7251",
+              "display_name": "§bLip667§f: §eArcher§b (§e28§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e13§b)",
+              "class_milestone": 4
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "7313386e641b4cbfb475532b2d7299fe",
+          "completion_ts": 1770989874345,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 1,
+          "participants": [
+            {
+              "player_uuid": "396060261a674bd2bb5ccf4c1483f9d2",
+              "display_name": "§7MegagoomyX§f: §eBerserk§b (§e10§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "52895882737642c4b2c73eb2674e9946",
+              "display_name": "§7DER_B4B0§f: §eBerserk§b (§e6§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "0345d68b350c47aab30e4c7d046e7251",
+              "display_name": "§bLip667§f: §eArcher§b (§e28§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "1ed5c66b86004af295d6f2fce4330fb0",
+              "display_name": "§7mafffno§f: §eMage§b (§e12§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e13§b)",
+              "class_milestone": 3
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "945dc07e25e2446aa46303885dfa7cf1",
+          "completion_ts": 1770989643593,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 1,
+          "participants": [
+            {
+              "player_uuid": "396060261a674bd2bb5ccf4c1483f9d2",
+              "display_name": "§7MegagoomyX§f: §eBerserk§b (§e10§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "52895882737642c4b2c73eb2674e9946",
+              "display_name": "§7DER_B4B0§f: §eBerserk§b (§e6§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "0345d68b350c47aab30e4c7d046e7251",
+              "display_name": "§bLip667§f: §eArcher§b (§e28§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "1ed5c66b86004af295d6f2fce4330fb0",
+              "display_name": "§7mafffno§f: §eMage§b (§e12§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e13§b)",
+              "class_milestone": 2
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "cdc09b0702d34bfba016ce10208c5833",
+          "completion_ts": 1770989372198,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 1,
+          "participants": [
+            {
+              "player_uuid": "396060261a674bd2bb5ccf4c1483f9d2",
+              "display_name": "§7MegagoomyX§f: §eBerserk§b (§e10§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "52895882737642c4b2c73eb2674e9946",
+              "display_name": "§7DER_B4B0§f: §eBerserk§b (§e5§b)",
+              "class_milestone": 1
+            },
+            {
+              "player_uuid": "0345d68b350c47aab30e4c7d046e7251",
+              "display_name": "§bLip667§f: §eArcher§b (§e28§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "1ed5c66b86004af295d6f2fce4330fb0",
+              "display_name": "§7mafffno§f: §eMage§b (§e12§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e13§b)",
+              "class_milestone": 3
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "199225c269c446e39cc77cc035e8fb66",
+          "completion_ts": 1770923161969,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 1,
+          "participants": [
+            {
+              "player_uuid": "adafa9dfc381406f8aa4d1f71afca6e2",
+              "display_name": "§bFemboyShuta§f: §eArcher§b (§e10§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "b78450b0a24148aa8becb2ddcfdd67c7",
+              "display_name": "§7Zentrixst§f: §eBerserk§b (§e24§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "4ae2828abfae4641926dcebd3efbe70a",
+              "display_name": "§7YureiSenpai§f: §eMage§b (§e10§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e13§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "c1bae7b3409740abbc9b1d910a92d4e0",
+              "display_name": "§7DJENCHE§f: §eMage§b (§e12§b)",
+              "class_milestone": 2
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "b1d1d1ce08e8482f9d247a35a6015f8e",
+          "completion_ts": 1770921873554,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 3,
+          "participants": [
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e12§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "fe993d5b0c6b4e68afdf74ba0ef59139",
+              "display_name": "§bssh9§f: §eBerserk§b (§e7§b)",
+              "class_milestone": 0
+            },
+            {
+              "player_uuid": "dc336c652ac24ffdbbdd2989b390ea70",
+              "display_name": "§boRedRock§f: §eArcher§b (§e10§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "79881117882d42e5ac758fef6467a797",
+              "display_name": "§btrimed§f: §eMage§b (§e35§b)",
+              "class_milestone": 6
+            },
+            {
+              "player_uuid": "0a20d0cfec1f42b6a9d9f5611efe4d9d",
+              "display_name": "§bPandishii§f: §eHealer§b (§e16§b)",
+              "class_milestone": 2
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "353c8905b64f4d8a9fe139c16040c95e",
+          "completion_ts": 1770921461482,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 2,
+          "participants": [
+            {
+              "player_uuid": "760f4567141d4630bb7ca4fa023abcac",
+              "display_name": "§bdevilcat_twitch§f: §eArcher§b (§e25§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e12§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "2582911f0ff5488a882df82afd80292c",
+              "display_name": "§aBRM75§f: §eMage§b (§e17§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "87f692dd7c7842d085bb49379b26d6f3",
+              "display_name": "§aAzrule§f: §eBerserk§b (§e19§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "919f853f81ee498a941ffcef0ab84623",
+              "display_name": "§aHxry_yt§f: §eBerserk§b (§e10§b)",
+              "class_milestone": 3
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "4b5058e747204a25a36184af22dcedd6",
+          "completion_ts": 1770920590345,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 1,
+          "participants": [
+            {
+              "player_uuid": "cd4ca21432eb4157a599e2a9715a763b",
+              "display_name": "§7NovaCrxker§f: §eBerserk§b (§e2§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "1d2f8183858340d7aa5496b77c0df610",
+              "display_name": "§7Firled§f: §eTank§b (§e8§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e12§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "4a32dc5d5c794491a37c8533f07390c1",
+              "display_name": "§aalo4all123§f: §eArcher§b (§e6§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "2249b859f3f245ff85ebf52af99b1d49",
+              "display_name": "§aHerbert2813§f: §eBerserk§b (§e1§b)",
+              "class_milestone": 3
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3fc1e27012ca42278072cdd679b2f47c",
+          "completion_ts": 1770917303457,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 2,
+          "participants": [
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e12§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "191211f5d3354e9cbabf8c888a2437ab",
+              "display_name": "§7LelMatt_exe§f: §eBerserk§b (§e8§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "6c5774974df34013b29b596f5302a95e",
+              "display_name": "§aChinese_Empire§f: §eMage§b (§e11§b)",
+              "class_milestone": 7
+            },
+            {
+              "player_uuid": "7805b3efa288408ba439c68c6ae79215",
+              "display_name": "§7Marulka§f: §eBerserk§b (§e4§b)",
+              "class_milestone": 4
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "18561ac314dd4030964724abe8026b85",
+          "completion_ts": 1770916308101,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 1,
+          "participants": [
+            {
+              "player_uuid": "5a1be16cadd44934bd7f8effb5f949eb",
+              "display_name": "§7bletillo§f: §eArcher§b (§e10§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e12§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "f293a9d69a8c42efa9c0deab5254a24f",
+              "display_name": "§aWapol_§f: §eMage§b (§e24§b)",
+              "class_milestone": 5
+            },
+            {
+              "player_uuid": "94be300818394d10a4771f0ccb5aac96",
+              "display_name": "§7DL4unter§f: §eArcher§b (§e3§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "84bb14b03ef54ce881ccc41f7eef9847",
+              "display_name": "§aCasualplayer41§f: §eBerserk§b (§e2§b)",
+              "class_milestone": 2
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "f017c70198df4be6bf2e97c0c46220e2",
+          "completion_ts": 1770912842076,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 1,
+          "participants": [
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e12§b)",
+              "class_milestone": 5
+            },
+            {
+              "player_uuid": "f5c4759516164bea95ae916ce2bedf86",
+              "display_name": "§7akuur§f: §eMage§b (§e2§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "55f7f81297524e34ab74d7dcc9a0af34",
+              "display_name": "§aGinsteN§f: §eArcher§b (§e2§b)",
+              "class_milestone": 1
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3e78f36e4fc04faba6e1c1986a6ae0ee",
+          "completion_ts": 1770850412206,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 2,
+          "participants": [
+            {
+              "player_uuid": "6cbc344ef3054d23b3079557319770c7",
+              "display_name": "§bKenauro§f: §eMage§b (§e10§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "7e121b01c9f14808a071e3417d75444b",
+              "display_name": "§bToarien_§f: §eMage§b (§e10§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "dad0b5d74e104973afcf138a52958411",
+              "display_name": "§aLCPDIH§f: §eBerserk§b (§e10§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e12§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "fd014bc1e92d49e89d5653cbff87d765",
+              "display_name": "§7MeltingAttic§f: §eBerserk§b (§e9§b)",
+              "class_milestone": 4
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "0d840719d81a4fc58cdcfc976892d35b",
+          "completion_ts": 1770848683973,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 3,
+          "participants": [
+            {
+              "player_uuid": "bbf684841118408eb3134d1c19029ca8",
+              "display_name": "§bElfouile§f: §eMage§b (§e5§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "991c0ec5b303463ead01e1c3aebc967e",
+              "display_name": "§aPerkone§f: §eBerserk§b (§e9§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e11§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "8c03da04e7784d4795244c4f45cc0d32",
+              "display_name": "§bAlexgozzz§f: §eArcher§b (§e27§b)",
+              "class_milestone": 7
+            },
+            {
+              "player_uuid": "ffb0f6efcebf4d31835e11f3fb3e5cec",
+              "display_name": "§7MONSTAR36§f: §eTank§b (§e16§b)",
+              "class_milestone": 2
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "3f428423a4894b7993055f4455f5aefb",
+          "completion_ts": 1770771626421,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 3,
+          "participants": [
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e11§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "4b5f690c6ea94b7f996e05e990bc3f54",
+              "display_name": "§aITzDexth§f: §eBerserk§b (§e13§b)",
+              "class_milestone": 6
+            },
+            {
+              "player_uuid": "86920ba2a1bc46e988be4d480595924b",
+              "display_name": "§aEmoney5§f: §eBerserk§b (§e24§b)",
+              "class_milestone": 8
+            },
+            {
+              "player_uuid": "0fe69c5388ad443dac0cfb836157d7e3",
+              "display_name": "§bJordanG999§f: §eMage§b (§e21§b)",
+              "class_milestone": 6
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "7e46f66c7eb74c389b6f2189fc1ad0cc",
+          "completion_ts": 1770770791019,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 3,
+          "participants": [
+            {
+              "player_uuid": "2615f2565c24489e8ea86f8ac39a5a93",
+              "display_name": "§aVerticcal123§f: §eMage§b (§e12§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e10§b)",
+              "class_milestone": 1
+            },
+            {
+              "player_uuid": "4b5f690c6ea94b7f996e05e990bc3f54",
+              "display_name": "§aITzDexth§f: §eBerserk§b (§e13§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "86920ba2a1bc46e988be4d480595924b",
+              "display_name": "§aEmoney5§f: §eBerserk§b (§e24§b)",
+              "class_milestone": 5
+            },
+            {
+              "player_uuid": "0fe69c5388ad443dac0cfb836157d7e3",
+              "display_name": "§bJordanG999§f: §eMage§b (§e21§b)",
+              "class_milestone": 6
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "95647bb6c8204663a752f81edd857252",
+          "completion_ts": 1770770166169,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 2,
+          "participants": [
+            {
+              "player_uuid": "3b8581caa2ca4f379eb2438e6b6d48c2",
+              "display_name": "§7Mastercrafter83§f: §eBerserk§b (§e13§b)",
+              "class_milestone": 5
+            },
+            {
+              "player_uuid": "8c8e2b0d6b85449884b627b4d69447ba",
+              "display_name": "§bTrump8MyBurger§f: §eBerserk§b (§e11§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e10§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "23cc9012e261488cbe2f8cfb96a6e348",
+              "display_name": "§7Fanishl§f: §eArcher§b (§e3§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "a27268969fb047c3bb2a5b878733ee53",
+              "display_name": "§aRefrigeratorOven§f: §eTank§b (§e8§b)",
+              "class_milestone": 3
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "237a74edbb1743e48ddbcbc5058017c5",
+          "completion_ts": 1770769561812,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 2,
+          "participants": [
+            {
+              "player_uuid": "364c8734a53845ed9e6c9971fcc10bd1",
+              "display_name": "§bVortexSB1§f: §eMage§b (§e5§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "d58520f1a72f4aa8acc7d650486c8649",
+              "display_name": "§7By_DarkGhost§f: §eMage§b (§e10§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "ab8e2ec3eb104841b537ac9af45503c1",
+              "display_name": "§aWa11fa111§f: §eBerserk§b (§e11§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e10§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "126aea7a3c6541b9919fb6e138292d07",
+              "display_name": "§7GotItBackLmao§f: §eBerserk§b (§e29§b)",
+              "class_milestone": 4
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "2ecb1569b876486b85371cf1bc604c0c",
+          "completion_ts": 1770768968948,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 2,
+          "participants": [
+            {
+              "player_uuid": "2160b7bc35504679ad8126142dd06990",
+              "display_name": "§bGoldBlockBill20§f: §eBerserk§b (§e8§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e9§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "7ecdaf9911364cc380ea1286ba9fbb35",
+              "display_name": "§aH2oNinja§f: §eBerserk§b (§e8§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "351e521406a94eb0b52f1bec825ef407",
+              "display_name": "§auhmlucas§f: §eArcher§b (§e12§b)",
+              "class_milestone": 4
+            },
+            {
+              "player_uuid": "52510ca6975b4f3583fe2d8c7c7e08fc",
+              "display_name": "§aWarlord123§f: §eBerserk§b (§e8§b)",
+              "class_milestone": 5
+            }
+          ]
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "2c57ae37451244d6ae6af690da28408d",
+          "completion_ts": 1771017131319,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 1,
+          "participants": [
+            {
+              "player_uuid": "39bd66ad2c37405c9b0b7098bf71842d",
+              "display_name": "§7KIKRS159§f: §eBerserk§b (§e17§b)",
+              "class_milestone": 5
+            },
+            {
+              "player_uuid": "7cf3bfdadeb648629f5cd9bfb361349b",
+              "display_name": "§aSpeedyChunkArmy§f: §eArcher§b (§e3§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e13§b)",
+              "class_milestone": 4
+            }
+          ]
+        }
+      ]
+    },
+    "dungeon_hub_race_settings": {
+      "selected_race": "precursor_ruins",
+      "selected_setting": "nothing",
+      "runback": true
+    },
+    "dungeons_blah_blah": [
+      "gatekeeper_first_talk"
+    ],
+    "last_dungeon_run": "CATACOMBS_FLOOR_ONE",
+    "selected_dungeon_class": "berserk",
+    "secrets": 218,
+    "daily_runs": {
+      "current_day_stamp": 20497,
+      "completed_runs_count": 9
+    }
+  }
+}

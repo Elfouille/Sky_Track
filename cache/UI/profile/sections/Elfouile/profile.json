@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Elfouile.json",
+    "player": {
+      "pseudo": "Elfouile",
+      "name_meta": "Elfouile",
+      "uuid_meta": "bbf684841118408eb3134d1c19029ca8"
+    },
+    "section": "profile"
+  },
+  "profile": {
+    "first_join": 1768415724631,
+    "personal_bank_upgrade": 1,
+    "coop_invitation": {
+      "timestamp": 1768415716145,
+      "invited_by": "26b56974-e38b-486c-ba4f-0449dee370d5",
+      "confirmed": true,
+      "confirmed_timestamp": 1768415724463
+    },
+    "bank_account": 594632.4451006848,
+    "cookie_buff_active": true
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Elfouile.json",
+    "player": {
+      "pseudo": "Elfouile",
+      "name_meta": "Elfouile",
+      "uuid_meta": "bbf684841118408eb3134d1c19029ca8"
+    },
+    "section": "forge"
+  },
+  "forge": {
+    "forge_processes": {
+      "forge_1": {
+        "1": {
+          "type": "FORGING",
+          "id": "FUEL_TANK",
+          "startTime": 1771250811290,
+          "slot": 1,
+          "notified": false,
+          "oldItem": null
+        },
+        "2": {
+          "type": "FORGING",
+          "id": "FUEL_TANK",
+          "startTime": 1771250816808,
+          "slot": 2,
+          "notified": false,
+          "oldItem": null
+        },
+        "3": {
+          "type": "FORGING",
+          "id": "FUEL_TANK",
+          "startTime": 1771250821010,
+          "slot": 3,
+          "notified": false,
+          "oldItem": null
+        },
+        "4": {
+          "type": "FORGING",
+          "id": "FUEL_TANK",
+          "startTime": 1771250825062,
+          "slot": 4,
+          "notified": false,
+          "oldItem": null
+        },
+        "5": {
+          "type": "FORGING",
+          "id": "FUEL_TANK",
+          "startTime": 1771250828694,
+          "slot": 5,
+          "notified": false,
+          "oldItem": null
+        }
+      }
+    }
+  }
+}

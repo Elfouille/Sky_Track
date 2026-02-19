@@ -1,0 +1,76 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Elfouile.json",
+    "player": {
+      "pseudo": "Elfouile",
+      "name_meta": "Elfouile",
+      "uuid_meta": "bbf684841118408eb3134d1c19029ca8"
+    },
+    "section": "nether_island_player_data"
+  },
+  "nether_island_player_data": {
+    "kuudra_completed_tiers": {},
+    "abiphone": {
+      "contact_data": {
+        "alda": {
+          "completed_quest": true,
+          "incoming_calls_count": 7,
+          "last_call_incoming": 1771212154500
+        },
+        "jake_lab": {
+          "talked_to": true
+        },
+        "queen_mismyla": {
+          "talked_to": true
+        },
+        "slayer": {
+          "incoming_calls_count": 48,
+          "last_call_incoming": 1771216489738
+        },
+        "pet_sitter": {
+          "talked_to": true,
+          "completed_quest": true,
+          "last_call": 1771289140120,
+          "incoming_calls_count": 3,
+          "last_call_incoming": 1771270451734
+        },
+        "odger": {
+          "talked_to": true
+        }
+      },
+      "games": {},
+      "operator_chip": {},
+      "active_contacts": [
+        "pet_sitter"
+      ]
+    },
+    "kuudra_party_finder": {
+      "search_settings": {},
+      "group_builder": {
+        "tier": "NONE",
+        "note": "",
+        "combat_level_required": 0
+      }
+    },
+    "quests": {
+      "quest_data": {},
+      "miniboss_data": {},
+      "miniboss_daily": {},
+      "kuuda_boss_daily": {},
+      "quest_rewards": {},
+      "alchemist_quest": {},
+      "rulenor": {},
+      "chicken_quest": {},
+      "pomtair_quest": {},
+      "suus_quest": {},
+      "pablo_quest": {},
+      "duel_training_quest": {},
+      "sirih_quest": {},
+      "edelis_quest": {},
+      "mollim_quest": {},
+      "aranya_quest": {},
+      "last_reset": 47
+    }
+  }
+}

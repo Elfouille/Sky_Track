@@ -1,0 +1,2031 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Elfouile.json",
+    "player": {
+      "pseudo": "Elfouile",
+      "name_meta": "Elfouile",
+      "uuid_meta": "bbf684841118408eb3134d1c19029ca8"
+    },
+    "section": "objectives"
+  },
+  "objectives": {
+    "collect_log": {
+      "status": "COMPLETE",
+      "progress": 1,
+      "completed_at": 1768417895293
+    },
+    "talk_to_guide": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768417881902
+    },
+    "public_island": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768416020277
+    },
+    "tutorial": [
+      "first_join",
+      "stat_unlock_notification_mining_fortune",
+      "stat_unlock_notification_foraging_fortune",
+      "recalc_pet_xp_1",
+      "stat_unlock_notification_attack_speed",
+      "stat_unlock_notification_farming_fortune",
+      "stat_unlock_notification_pet_luck",
+      "stat_unlock_notification_treasure_chance",
+      "reach_farming_5",
+      "sam_asks_for_help",
+      "stat_unlock_notification_breaking_power",
+      "bag_xp_recheck1",
+      "agree_to_help_sam",
+      "COMPOST_TAKEN",
+      "stat_unlock_notification_sweep",
+      "togglerds",
+      "reforge_item",
+      "SAM_SCYTHE",
+      "sam_ask_to_bake_bread",
+      "drop_exclusion_notice_coop",
+      "st_jerry_466",
+      "winter_jerry",
+      "powder_collected_message",
+      "stat_unlock_notification_true_defense",
+      "stat_unlock_notification_magic_find",
+      "deeper_kings",
+      "stat_unlock_notification_hunter_fortune",
+      "stat_unlock_notification_bonus_pest_chance",
+      "security_sloth",
+      "dna_analysis_rewardbioanalysis_talisman",
+      "dna_analysis_rewardmutation_sack_1",
+      "dna_analysis_rewardmutation_sack_1_give",
+      "dna_analysis_rewardhydro_can_turbo_2000",
+      "dna_analysis_rewardcrop_growth_1",
+      "dna_analysis_rewardfarming_fortune_1",
+      "dna_analysis_rewardskyblock_xp_1",
+      "stat_unlock_notification_mining_spread",
+      "commission_milestone_reward_carlton_wilson_fraisier_ceanna_lilith_eliza_braum_lissandra_sisko",
+      "commission_milestone_reward_royal_compass",
+      "commission_milestone_reward_mining_xp_tier_1",
+      "commission_milestone_reward_skyblock_xp_tier_1",
+      "essence_collected_message",
+      "stat_unlock_notification_ferocity",
+      "commission_milestone_reward_mining_xp_tier_2",
+      "commission_milestone_reward_skyblock_xp_tier_2",
+      "view_hina_tasks",
+      "view_swoop_menu",
+      "view_david_menu",
+      "stat_unlock_notification_pressure_resistance",
+      "stat_unlock_notification_respiration",
+      "st_jerry_469",
+      "commission_milestone_reward_commission_slot_1",
+      "commission_milestone_reward_mining_xp_tier_3",
+      "commission_milestone_reward_skyblock_xp_tier_3",
+      "dojo_challenge_unlocked_mob_kb",
+      "skyblockxp_0",
+      "dojo_white_belt_item",
+      "stat_unlock_notification_pristine",
+      "stat_unlock_notification_sea_creature_chance",
+      "stat_unlock_notification_trophy_fish_chance"
+    ],
+    "deposit_coins": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768433012754
+    },
+    "explore_hub": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768446349355
+    },
+    "explore_village": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769727799958
+    },
+    "hub_talk_to_wizard": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769785065051
+    },
+    "paint_canvas": {
+      "status": "COMPLETE",
+      "progress": 165,
+      "completed_at": 1768630235505
+    },
+    "talk_to_artist_1": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768630134538
+    },
+    "talk_to_auction_master": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768445330590
+    },
+    "talk_to_banker": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768416031044
+    },
+    "talk_to_blacksmith": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768446033999
+    },
+    "talk_to_carpenter": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768519577433
+    },
+    "talk_to_enid": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768421721046
+    },
+    "talk_to_fairy": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768446278470
+    },
+    "talk_to_farmer": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768515470269
+    },
+    "talk_to_librarian": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768758920083
+    },
+    "talk_to_lumber_jack": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768443463045
+    },
+    "talk_to_pet_collector": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769066555534
+    },
+    "talk_to_pet_sitter": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768515428473
+    },
+    "craft_wood_pickaxe": {
+      "status": "COMPLETE",
+      "progress": 1,
+      "completed_at": 1768418184796
+    },
+    "craft_workbench": {
+      "status": "COMPLETE",
+      "progress": 1,
+      "completed_at": 1768417901867
+    },
+    "increase_farming_skill_5": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768418446527
+    },
+    "talk_to_farmhand_1": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768418732009
+    },
+    "talk_to_moby_1": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768517367073
+    },
+    "warp_mushroom_desert": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768516956040
+    },
+    "craft_wheat_minion": {
+      "status": "COMPLETE",
+      "progress": 1,
+      "completed_at": 1768419976968
+    },
+    "talk_to_farmhand_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768419984219
+    },
+    "collect_farm_animal_resources": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768427857886
+    },
+    "collect_farming_resources": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768420008521
+    },
+    "catch_fish": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768421759393
+    },
+    "claim_fishing_rod": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768421725309
+    },
+    "reach_fishing_5": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768422073954
+    },
+    "talk_to_enid_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768421780303
+    },
+    "fish_rusty_engine": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768425228219
+    },
+    "talk_to_gerald": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768422139811
+    },
+    "apply_engine": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768425330537
+    },
+    "talk_to_baha": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768425255097
+    },
+    "warp_bayou": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768425343922
+    },
+    "talk_to_hattie": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768425826104
+    },
+    "talk_to_junker": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768425738628
+    },
+    "apply_rod_part": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768425781515
+    },
+    "claim_sinker": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768425742999
+    },
+    "talk_to_roddy": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768425772961
+    },
+    "fish_hotspot": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768425842316
+    },
+    "talk_to_hattie_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768425875113
+    },
+    "find_pickaxe": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "increase_mining_skill_5": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768433268086
+    },
+    "talk_to_lazy_miner": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768433303598
+    },
+    "warp_deep_caverns": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768433693007
+    },
+    "reach_lapis_quarry": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768433775189
+    },
+    "talk_to_lift_operator": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768434885263
+    },
+    "collect_lapis": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768433780294
+    },
+    "increase_lapis_coll_3": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768434072973
+    },
+    "reach_pigmens_den": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768434529909
+    },
+    "talk_to_lapis_miner": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768433913073
+    },
+    "craft_lapis_pickaxe": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "collect_redstone": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768434541127
+    },
+    "reach_slimehill": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768434949481
+    },
+    "talk_to_redstone_miner": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768434722307
+    },
+    "increase_redstone_coll_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768434722308
+    },
+    "talk_to_redstone_miner_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768434749299
+    },
+    "talk_to_redstone_miner_3": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768434767455
+    },
+    "talk_to_redstone_miner_4": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768834435711
+    },
+    "collect_emerald": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768434955482
+    },
+    "reach_diamond_reserve": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768435682936
+    },
+    "collect_diamond": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768435686138
+    },
+    "reach_obsidian_sanctuary": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768450128499
+    },
+    "talk_to_sam": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768439789060
+    },
+    "give_sam_wheat": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768440101079
+    },
+    "purchase_fuel": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768440156428
+    },
+    "refuel_composter": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768440175214
+    },
+    "talk_to_sam_composter": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768440128023
+    },
+    "give_sam_compost": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768440188874
+    },
+    "unlock_crop_plot": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768440891756
+    },
+    "clean_crop_plot": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768440892711
+    },
+    "reach_garden_plot": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768440892710
+    },
+    "talk_to_sam_composter_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768511268634
+    },
+    "collect_oak_logs": {
+      "status": "COMPLETE",
+      "progress": 217,
+      "completed_at": 1768448284733
+    },
+    "increase_mining_skill": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768446097758
+    },
+    "mine_coal": {
+      "status": "COMPLETE",
+      "progress": 10,
+      "completed_at": 1768446080570
+    },
+    "reforge_item": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768446112665
+    },
+    "talk_to_blacksmith_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768446097756
+    },
+    "warp_gold_mine": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768447243675
+    },
+    "give_fairy_souls": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768622551089
+    },
+    "talk_to_lumber_jack_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768579276070
+    },
+    "collect_obsidian": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768600332062
+    },
+    "hotm_give_materials": {
+      "status": "COMPLETE",
+      "progress": 15,
+      "completed_at": 1768743612830,
+      "started": true,
+      "amount_given": 15
+    },
+    "increase_mining_12": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768450297112
+    },
+    "talk_to_rhys": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768450299067
+    },
+    "bring_sam_wheat_for_bread": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768511435918
+    },
+    "find_sam_at_stand": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768511458248
+    },
+    "serve_first_customer": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768513621910
+    },
+    "set_up_stand": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768511450932
+    },
+    "reach_garden_level": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768520294311
+    },
+    "collect_wheat": {
+      "status": "COMPLETE",
+      "progress": 11,
+      "completed_at": 1768515476161
+    },
+    "talk_to_farmer_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768515615270
+    },
+    "increase_farming_skill": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768515615272
+    },
+    "warp_barn_island": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768515642409
+    },
+    "collect_farming_resources_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768516961640
+    },
+    "collect_farm_animal_resources_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768623798142
+    },
+    "bring_mushrooms_to_moby": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768517545157
+    },
+    "bring_full_bucket_to_moby": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "buy_chum_bucket_from_moby": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768517566417
+    },
+    "collect_wool_carpenter": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768519745967
+    },
+    "talk_to_jeff": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768521957705
+    },
+    "beth_commission_1": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768521846391
+    },
+    "beth_commission_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768742865060
+    },
+    "show_specialized_tool": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768779957888
+    },
+    "kill_danger_mobs": {
+      "status": "COMPLETE",
+      "progress": 10,
+      "completed_at": 1768578366518
+    },
+    "talk_to_bartender": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768629226579
+    },
+    "warp_the_park": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768579364726
+    },
+    "talk_to_charlie_new": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768580476725
+    },
+    "claim_charlie_trousers": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768580490574
+    },
+    "collect_birch_logs_new": {
+      "status": "COMPLETE",
+      "progress": 1286,
+      "completed_at": 1768580477485
+    },
+    "talk_to_charlie_new_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768580481655
+    },
+    "talk_to_charlie_new_3": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768580695339
+    },
+    "travel_to_spruce_woods": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768581887037
+    },
+    "talk_to_kelly": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768582001248
+    },
+    "collect_spruce_logs": {
+      "status": "COMPLETE",
+      "progress": 456,
+      "completed_at": 1768582012756
+    },
+    "talk_to_kelly_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768582038922
+    },
+    "travel_to_dark_thicket": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768582161826
+    },
+    "find_the_campfire": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769616550207
+    },
+    "increase_combat_skill": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768629226580
+    },
+    "warp_spiders_den": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769036115500
+    },
+    "talk_to_artist_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768630187633
+    },
+    "talk_to_guildford_1": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769740816153
+    },
+    "talk_to_frosty": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768707414717
+    },
+    "talk_to_gulliver_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "beth_commission_3": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768772677404
+    },
+    "fetchur-18-0-2026": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768758070699
+    },
+    "enchant_item": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768758998182
+    },
+    "give_sam_greenhouse_blueprint": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768772721731
+    },
+    "player_found_lab_beth": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769320653211
+    },
+    "give_greenhouse_resources": {
+      "status": "COMPLETE",
+      "progress": 2,
+      "completed_at": 1768772837167,
+      "ENCHANTED_SAND": 1,
+      "ENCHANTED_OAK_LOG": 1
+    },
+    "place_a_greenhouse": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768772886471
+    },
+    "wait_for_greenhouse_paste": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768773036815
+    },
+    "talk_to_sam_at_greenhouse": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768773131772
+    },
+    "plant_greenhouse_crop": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768773212965
+    },
+    "wait_for_greenhouse_crop_to_grow": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768773231325
+    },
+    "water_greenhouse_crop": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768773224168
+    },
+    "analyze_greenhouse_crop": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768773358580
+    },
+    "care_for_adjacent_wheat": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768773285505
+    },
+    "harvest_greenhouse_crop": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768773257354
+    },
+    "spread_mutation": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768773457280
+    },
+    "harvest_mutation": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768773468467
+    },
+    "talk_to_greenhouse_carpenter": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768773482157
+    },
+    "insert_garden_chip": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768787815929
+    },
+    "talk_to_jeff_after_tool": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768779996628
+    },
+    "talk_to_redstone_miner_5": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768834455981
+    },
+    "talk_to_redstone_miner_6": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1768834560978
+    },
+    "collect_end_stone": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769005873318
+    },
+    "kill_weak_enderman": {
+      "status": "COMPLETE",
+      "progress": 5,
+      "completed_at": 1769735323118
+    },
+    "reach_dragons_nest": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769735917286
+    },
+    "talk_to_end_dealer": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769005858927
+    },
+    "talk_to_guber_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "talk_to_lone_adventurer_1": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769005900232
+    },
+    "increase_combat_skill_20": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1770658355924
+    },
+    "talk_to_archaeologist": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "talk_to_rick": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "talk_to_shaggy_new_0": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769478264690
+    },
+    "talk_to_spider_tamer": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769750595713
+    },
+    "warp_the_end": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769478358072
+    },
+    "talk_to_haymitch": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769478033497
+    },
+    "beth_visit_4": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769320774652
+    },
+    "meet_beth_at_lab": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769320935435
+    },
+    "beth_investigate_lab": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769368673809
+    },
+    "beth_pull_lever": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769368886946
+    },
+    "acquire_dustgrain": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769369189768
+    },
+    "crop_analyzer_tutorial": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769368920262
+    },
+    "analyze_crop": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769369262711
+    },
+    "talk_to_marigold": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769463172662
+    },
+    "kill_golden_goblin": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769474018765
+    },
+    "collect_spider": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769478042045
+    },
+    "defeat_arachne_keeper": {
+      "status": "COMPLETE",
+      "progress": 1,
+      "completed_at": 1769750191172
+    },
+    "talk_to_gwendolyn": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769492727305
+    },
+    "talk_to_braum": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769492741679
+    },
+    "enter_divan_mines": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769493512680
+    },
+    "find_a_jungle_key": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "kill_automatons": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "mine_ruby": {
+      "status": "COMPLETE",
+      "progress": 12,
+      "completed_at": 1769493191241
+    },
+    "talk_to_the_goblin_king": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "visit_greater_mines": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769492798673
+    },
+    "find_four_missing_pieces": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "talk_to_gemma": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769494559196
+    },
+    "collect_dark_oak_logs_new": {
+      "status": "COMPLETE",
+      "progress": 267,
+      "completed_at": 1769616666789
+    },
+    "complete_fire_trial": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769616633467
+    },
+    "fire_trial_complete_5": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769616954996
+    },
+    "talk_to_ryan": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769616615024
+    },
+    "talk_to_ryan_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769616651212
+    },
+    "talk_to_ryan_3": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769616708225
+    },
+    "travel_to_savanna_woodland": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769617700205
+    },
+    "fire_trial_collect_5": {
+      "status": "COMPLETE",
+      "progress": 737,
+      "completed_at": 1769616981847
+    },
+    "fire_trial_talk_5": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769616966333
+    },
+    "fire_trial_upgrade_5": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769617131021
+    },
+    "fire_trial_collect_9": {
+      "status": "COMPLETE",
+      "progress": 1089,
+      "completed_at": 1769617487240
+    },
+    "fire_trial_complete_9": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769617200922
+    },
+    "fire_trial_talk_9": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769617205262
+    },
+    "fire_trial_upgrade_9": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769617609593
+    },
+    "collect_acacia_logs": {
+      "status": "COMPLETE",
+      "progress": 638,
+      "completed_at": 1769617770540
+    },
+    "fire_trial_complete_14": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "talk_to_melody_1": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769617760998
+    },
+    "talk_to_xavier": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769617712754
+    },
+    "complete_the_woods_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "talk_to_gustave_1": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769617927223
+    },
+    "talk_to_melody": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769617868067
+    },
+    "talk_to_melody_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769617838685
+    },
+    "talk_to_molbert": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769618077848
+    },
+    "collect_molbert_items": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769618104523
+    },
+    "collect_molbert_logs": {
+      "status": "COMPLETE",
+      "progress": 534,
+      "completed_at": 1769618084821
+    },
+    "leave_zone_molbert": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769618129758
+    },
+    "talk_to_molbert_2": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "collect_berry": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769618230943
+    },
+    "talk_to_dax": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769635407299
+    },
+    "talk_to_hina": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769618160160
+    },
+    "talk_to_swoop": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769618222256
+    },
+    "talk_to_swoop_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769618319632
+    },
+    "talk_to_teddy": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769633705092
+    },
+    "cut_fig_tree": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769618449673
+    },
+    "talk_to_swoop_3": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769618341994
+    },
+    "talk_to_swoop_4": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769618630760
+    },
+    "talk_to_david": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769618878352
+    },
+    "buy_hunting_sword": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769618987764
+    },
+    "talk_to_david_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769619199160
+    },
+    "hunt_chillshot": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769619241139
+    },
+    "purchase_black_hole": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769619330999
+    },
+    "talk_to_david_3": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769619377953
+    },
+    "talk_to_oden": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769619228698
+    },
+    "talk_to_oden_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769619278217
+    },
+    "catch_verdant_fish": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769619452870
+    },
+    "claim_fishing_net": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769619444739
+    },
+    "talk_to_david_4": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769631867013
+    },
+    "talk_to_jaeger": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769619428256
+    },
+    "talk_to_jaeger_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769619452429
+    },
+    "talk_to_jaeger_3": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769619464994
+    },
+    "talk_to_auryon": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769632744427
+    },
+    "catch_phanpyre": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769632802500
+    },
+    "claim_lasso": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769632746280
+    },
+    "talk_to_auryon_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769632749385
+    },
+    "talk_to_auryon_3": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769632819379
+    },
+    "talk_to_david_5": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769633014288
+    },
+    "talk_to_kysha": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769633108688
+    },
+    "syphon_phanpyre": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769633130196
+    },
+    "talk_to_kysha_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769633207924
+    },
+    "use_fusion_machine": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769633266796
+    },
+    "claim_davids_cloak": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769633349266
+    },
+    "talk_to_agatha": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769633544436
+    },
+    "talk_to_david_6": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769633341249
+    },
+    "talk_to_david_7": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769633357786
+    },
+    "talk_to_kysha_3": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769633316552
+    },
+    "talk_to_dax_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769635421810
+    },
+    "talk_to_lone_adventurer_2": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "fight_dragon": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769738061533
+    },
+    "complete_the_crystal_core_anything_no_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_crystal_core_anything_with_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_crystal_core_no_abilities_no_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_crystal_core_no_abilities_with_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_crystal_core_no_pearls_no_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_crystal_core_no_pearls_with_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_crystal_core_nothing_no_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_crystal_core_nothing_with_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_giant_mushroom_anything_no_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_giant_mushroom_anything_with_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_giant_mushroom_no_abilities_no_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_giant_mushroom_no_abilities_with_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_giant_mushroom_no_pearls_no_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_giant_mushroom_no_pearls_with_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_giant_mushroom_nothing_no_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_giant_mushroom_nothing_with_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_precursor_ruins_anything_no_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_precursor_ruins_anything_with_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_precursor_ruins_no_abilities_no_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_precursor_ruins_no_abilities_with_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_precursor_ruins_no_pearls_no_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_precursor_ruins_no_pearls_with_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_precursor_ruins_nothing_no_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "complete_the_precursor_ruins_nothing_with_return_race_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "summon_arachne": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "kill_arachne": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "gunther_talk_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_accessory_1": {
+      "status": "COMPLETE",
+      "progress": 1,
+      "completed_at": 1769786481021
+    },
+    "rift_accessory_2": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_accessory_3": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_accessory_4": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_accessory_5": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_accessory_6": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_accessory_7": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_back2basics": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_barry": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_beanstalk": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_bid_shen": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_bughunter": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_buttons_soul": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_cake_house_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_cake_house_2": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_carrots": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_castle_balloons": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_castle_flowerpot": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_castle_phantom": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_castle_standing": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_cave_1_craft_pickaxe": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_cave_flowers": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_cave_wall": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_complete_mirrorverse": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_complete_okron": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_deadgehog_helmet": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_defeat_bacte": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_defeat_leech_supreme": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_detective": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_disinfestor": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_dolphin_soul": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_dreadfarm_balloons": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_dreadfarm_flowerpot": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_enigma_bark": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_enigma_flower_pot_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_enigma_jump_pad_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_enigma_original": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769785421199
+    },
+    "rift_enigma_phantom": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_enigma_pressure_water": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_enigma_silk_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_enigma_two_plates": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_enigma_wither_cage": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_fairylosopher_soul": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_find_shen": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_horsing_around": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_hot_dog": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_inverted_sirius": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769786544316
+    },
+    "rift_jacquelle": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769786115740
+    },
+    "rift_kat_soul": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_lagoon_parkour": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_lagoon_shop": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_lonely_dave": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_long_shrooms": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mole": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_balloons": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_close_breach": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_eleanor_0": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_eleanor_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_eleanor_2": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_eleanor_3": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_eleanor_4": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_flowerpot": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_ikrus": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_leap_of_faith": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_phantom": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_sungecko_perks": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_ubik_averages": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_ubik_boxes": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_ubik_tats": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_unlock_timite": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_walk_of_fame_wall": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_mountain_wizardman_trials": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_obtain_healing_melon": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_plaza_balloons": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_porhtal": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_rabbit_under_hat": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_reed": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_rocks_enigma": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_scammer": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_seraphine": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_seymour": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_shania": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_silk_2": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_silk_castle": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_talk_to_enigma": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1769785409646
+    },
+    "rift_tel_kar": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_threebrothers": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_trafficker": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_two_player_soul": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_unhinged_kloon": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_village_glass": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_village_phantom": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_west_parkour": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_dead_cat_1": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_dead_cat_2": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_dead_cat_3": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_dead_cat_4": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_dead_cat_5": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_dead_cat_6": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_dead_cat_7": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_dead_cat_8": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "rift_dead_cat_9": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "collect_nether_items": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1771125304198
+    },
+    "help_elle": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1770741543980
+    },
+    "talk_to_elle_1": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1770741536048
+    },
+    "talk_to_elle_2": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1770741569423
+    },
+    "warp_crimson_isle": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0
+    },
+    "explore_nether_island": {
+      "status": "COMPLETE",
+      "progress": 0,
+      "completed_at": 1771125529787,
+      "faction": "barbarians"
+    },
+    "faction_villagers": {
+      "status": "ACTIVE",
+      "progress": 0,
+      "completed_at": 0,
+      "barbarians_talked_to": 4,
+      "kaus": 1,
+      "suus": 2,
+      "suus_child": 3,
+      "barbarian_emissary": 4
+    }
+  }
+}

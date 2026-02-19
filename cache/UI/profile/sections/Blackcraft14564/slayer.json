@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Blackcraft14564.json",
+    "player": {
+      "pseudo": "Blackcraft14564",
+      "name_meta": "Blackcraft14564",
+      "uuid_meta": "26b56974e38b486cba4f0449dee370d5"
+    },
+    "section": "slayer"
+  },
+  "slayer": {
+    "slayer_bosses": {
+      "wolf": {
+        "claimed_levels": {
+          "level_1": true,
+          "level_2": true,
+          "level_3": true
+        },
+        "boss_attempts_tier_0": 1,
+        "boss_kills_tier_0": 1,
+        "xp": 337,
+        "boss_attempts_tier_1": 1,
+        "boss_kills_tier_1": 1,
+        "boss_attempts_tier_2": 4,
+        "boss_kills_tier_2": 3
+      },
+      "blaze": {
+        "claimed_levels": {}
+      },
+      "enderman": {
+        "claimed_levels": {}
+      },
+      "spider": {
+        "claimed_levels": {
+          "level_1": true,
+          "level_2": true
+        },
+        "boss_attempts_tier_0": 1,
+        "boss_kills_tier_0": 1,
+        "xp": 37,
+        "boss_attempts_tier_1": 1,
+        "boss_kills_tier_1": 1,
+        "boss_attempts_tier_2": 1
+      },
+      "zombie": {
+        "claimed_levels": {
+          "level_1": true,
+          "level_2": true,
+          "level_3": true,
+          "level_4": true
+        },
+        "boss_attempts_tier_0": 1,
+        "boss_kills_tier_0": 1,
+        "xp": 1124,
+        "boss_attempts_tier_1": 3,
+        "boss_kills_tier_1": 3,
+        "boss_attempts_tier_2": 5,
+        "boss_kills_tier_2": 5,
+        "boss_attempts_tier_3": 1,
+        "boss_kills_tier_3": 1
+      }
+    }
+  }
+}

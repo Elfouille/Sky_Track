@@ -1,0 +1,117 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Blackcraft14564.json",
+    "player": {
+      "pseudo": "Blackcraft14564",
+      "name_meta": "Blackcraft14564",
+      "uuid_meta": "26b56974e38b486cba4f0449dee370d5"
+    },
+    "section": "nether_island_player_data"
+  },
+  "nether_island_player_data": {
+    "quests": {
+      "quest_data": {},
+      "miniboss_data": {},
+      "miniboss_daily": {},
+      "kuuda_boss_daily": {},
+      "quest_rewards": {},
+      "alchemist_quest": {},
+      "rulenor": {},
+      "chicken_quest": {},
+      "pomtair_quest": {},
+      "suus_quest": {},
+      "pablo_quest": {},
+      "duel_training_quest": {},
+      "sirih_quest": {},
+      "edelis_quest": {},
+      "mollim_quest": {},
+      "aranya_quest": {},
+      "last_reset": 47
+    },
+    "kuudra_completed_tiers": {},
+    "dojo": {
+      "dojo_points_mob_kb": 730,
+      "dojo_points_wall_jump": 828,
+      "dojo_time_mob_kb": 120000,
+      "dojo_time_wall_jump": 182800,
+      "dojo_points_archer": 944,
+      "dojo_time_archer": 120000,
+      "dojo_points_sword_swap": 640,
+      "dojo_time_sword_swap": 120000,
+      "dojo_points_snake": 696,
+      "dojo_time_snake": 59300,
+      "dojo_points_lock_head": 635,
+      "dojo_time_lock_head": 117000,
+      "dojo_points_fireball": 785,
+      "dojo_time_fireball": 156100
+    },
+    "abiphone": {
+      "contact_data": {
+        "dusk": {},
+        "alda": {
+          "completed_quest": true,
+          "incoming_calls_count": 3,
+          "last_call_incoming": 1770853719769
+        },
+        "slayer": {
+          "talked_to": true,
+          "incoming_calls_count": 13,
+          "last_call_incoming": 1770980160527,
+          "completed_quest": true
+        },
+        "pet_sitter": {
+          "talked_to": true,
+          "completed_quest": true,
+          "incoming_calls_count": 3,
+          "last_call_incoming": 1770908594157
+        },
+        "fairy": {
+          "talked_to": true,
+          "completed_quest": true,
+          "incoming_calls_count": 5,
+          "last_call_incoming": 1770908630749
+        },
+        "blacksmith": {
+          "talked_to": true
+        },
+        "forge_foreman": {
+          "talked_to": true,
+          "completed_quest": true,
+          "incoming_calls_count": 34,
+          "last_call_incoming": 1771254486191
+        },
+        "gatekeeper": {
+          "specific": {},
+          "talked_to": true
+        },
+        "ophelia": {
+          "talked_to": true
+        },
+        "hoppity": {
+          "talked_to": true
+        }
+      },
+      "games": {},
+      "operator_chip": {
+        "repaired_index": 1
+      },
+      "active_contacts": [
+        "alda",
+        "slayer",
+        "pet_sitter",
+        "fairy",
+        "forge_foreman"
+      ]
+    },
+    "matriarch": {},
+    "kuudra_party_finder": {
+      "search_settings": {},
+      "group_builder": {
+        "tier": "NONE",
+        "note": "",
+        "combat_level_required": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "neu_mobs_dir": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\NEU\\repo\\mobs",
+    "mcasset_mobs_dir": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\mobs",
+    "item_icons_dir": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\items",
+    "armorstand_fallback": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\MCASSET\\item\\barrier.png",
+    "out_dir": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\icone\\mobs",
+    "manifest_used": true,
+    "size": 64
+  },
+  "failed": {}
+}

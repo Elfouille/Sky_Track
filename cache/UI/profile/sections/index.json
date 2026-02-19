@@ -1,0 +1,57 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_members_dir": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members"
+  },
+  "results": [
+    {
+      "ok": true,
+      "player": "Blackcraft14564",
+      "index": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\sections\\Blackcraft14564\\index.json",
+      "written": 25,
+      "missing": 0
+    },
+    {
+      "ok": true,
+      "player": "Elfouile",
+      "index": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\sections\\Elfouile\\index.json",
+      "written": 25,
+      "missing": 0
+    },
+    {
+      "ok": true,
+      "player": "jejar",
+      "index": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\sections\\jejar\\index.json",
+      "written": 25,
+      "missing": 0
+    }
+  ],
+  "sections": [
+    "rift",
+    "player_data",
+    "events",
+    "garden_player_data",
+    "accessory_bag_storage",
+    "leveling",
+    "jacobs_contest",
+    "currencies",
+    "dungeons",
+    "profile",
+    "pets_data",
+    "nether_island_player_data",
+    "experimentation",
+    "mining_core",
+    "bestiary",
+    "quests",
+    "player_stats",
+    "forge",
+    "fairy_soul",
+    "slayer",
+    "trophy_fish",
+    "objectives",
+    "inventory",
+    "shared_inventory",
+    "collection"
+  ],
+  "output_root": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\sections"
+}

@@ -1,0 +1,686 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Elfouile.json",
+    "player": {
+      "pseudo": "Elfouile",
+      "name_meta": "Elfouile",
+      "uuid_meta": "bbf684841118408eb3134d1c19029ca8"
+    },
+    "section": "jacobs_contest"
+  },
+  "jacobs_contest": {
+    "medals_inv": {
+      "bronze": 7,
+      "silver": 8,
+      "gold": 2
+    },
+    "perks": {
+      "double_drops": 1
+    },
+    "unique_brackets": {
+      "bronze": [
+        "POTATO_ITEM",
+        "CARROT_ITEM",
+        "CACTUS",
+        "DOUBLE_PLANT",
+        "PUMPKIN",
+        "NETHER_STALK",
+        "WHEAT",
+        "MELON",
+        "WILD_ROSE"
+      ],
+      "silver": [
+        "INK_SACK:3",
+        "POTATO_ITEM",
+        "CARROT_ITEM",
+        "CACTUS",
+        "SUGAR_CANE",
+        "MUSHROOM_COLLECTION",
+        "PUMPKIN",
+        "WHEAT",
+        "MELON",
+        "WILD_ROSE"
+      ],
+      "gold": [
+        "PUMPKIN"
+      ]
+    },
+    "contests": {
+      "466:4_8:WHEAT": {
+        "collected": 419,
+        "claimed_participants": 2947,
+        "claimed_position": 2828,
+        "claimed_rewards": true
+      },
+      "466:7_20:WHEAT": {
+        "collected": 4761,
+        "claimed_participants": 1582,
+        "claimed_position": 1227,
+        "claimed_rewards": true
+      },
+      "466:9_24:INK_SACK:3": {
+        "collected": 63
+      },
+      "466:9_24:SUGAR_CANE": {
+        "collected": 1472,
+        "claimed_participants": 1581,
+        "claimed_position": 1512,
+        "claimed_rewards": true
+      },
+      "466:12_24:WHEAT": {
+        "collected": 11710,
+        "claimed_medal": "bronze",
+        "claimed_participants": 2258,
+        "claimed_position": 1086,
+        "claimed_rewards": true
+      },
+      "466:12_24:CARROT_ITEM": {
+        "collected": 1760
+      },
+      "467:1_8:POTATO_ITEM": {
+        "collected": 47288,
+        "claimed_medal": "bronze",
+        "claimed_participants": 2848,
+        "claimed_position": 1135,
+        "claimed_rewards": true
+      },
+      "467:1_14:POTATO_ITEM": {
+        "collected": 2400,
+        "claimed_participants": 2867,
+        "claimed_position": 2765,
+        "claimed_rewards": true
+      },
+      "467:1_26:SUGAR_CANE": {
+        "collected": 55751,
+        "claimed_medal": "silver",
+        "claimed_participants": 2192,
+        "claimed_position": 635,
+        "claimed_rewards": true
+      },
+      "467:1_29:WHEAT": {
+        "collected": 24960,
+        "claimed_medal": "bronze",
+        "claimed_participants": 2528,
+        "claimed_position": 993,
+        "claimed_rewards": true
+      },
+      "467:2_1:CARROT_ITEM": {
+        "collected": 73618,
+        "claimed_medal": "bronze",
+        "claimed_participants": 1995,
+        "claimed_position": 599,
+        "claimed_rewards": true
+      },
+      "467:2_4:SUGAR_CANE": {
+        "collected": 58638,
+        "claimed_medal": "silver",
+        "claimed_participants": 1782,
+        "claimed_position": 512,
+        "claimed_rewards": true
+      },
+      "467:2_7:WHEAT": {
+        "collected": 5949,
+        "claimed_participants": 2046,
+        "claimed_position": 1434,
+        "claimed_rewards": true
+      },
+      "467:2_25:WHEAT": {
+        "collected": 30520,
+        "claimed_medal": "bronze",
+        "claimed_participants": 1520,
+        "claimed_position": 523,
+        "claimed_rewards": true
+      },
+      "467:2_25:MELON": {
+        "collected": 4160
+      },
+      "467:2_25:POTATO_ITEM": {
+        "collected": 1760
+      },
+      "467:2_28:CACTUS": {
+        "collected": 29018,
+        "claimed_medal": "bronze",
+        "claimed_participants": 1199,
+        "claimed_position": 436,
+        "claimed_rewards": true
+      },
+      "467:3_3:CACTUS": {
+        "collected": 19867,
+        "claimed_medal": "bronze",
+        "claimed_participants": 1257,
+        "claimed_position": 592,
+        "claimed_rewards": true
+      },
+      "467:3_9:CARROT_ITEM": {
+        "collected": 96400,
+        "claimed_medal": "silver",
+        "claimed_participants": 1851,
+        "claimed_position": 448,
+        "claimed_rewards": true
+      },
+      "467:3_12:CARROT_ITEM": {
+        "collected": 102382,
+        "claimed_medal": "silver",
+        "claimed_participants": 2118,
+        "claimed_position": 445,
+        "claimed_rewards": true
+      },
+      "467:4_17:WHEAT": {
+        "collected": 34814,
+        "claimed_medal": "bronze",
+        "claimed_participants": 1944,
+        "claimed_position": 673,
+        "claimed_rewards": true
+      },
+      "467:4_20:MELON": {
+        "collected": 90217,
+        "claimed_medal": "bronze",
+        "claimed_participants": 2063,
+        "claimed_position": 1031,
+        "claimed_rewards": true
+      },
+      "467:4_20:CACTUS": {
+        "collected": 1614
+      },
+      "467:4_23:PUMPKIN": {
+        "collected": 12175,
+        "claimed_medal": "bronze",
+        "claimed_participants": 1772,
+        "claimed_position": 877,
+        "claimed_rewards": true
+      },
+      "467:4_23:SUGAR_CANE": {
+        "collected": 4480
+      },
+      "467:4_26:WHEAT": {
+        "collected": 31310,
+        "claimed_medal": "bronze",
+        "claimed_participants": 1565,
+        "claimed_position": 557,
+        "claimed_rewards": true
+      },
+      "467:4_26:POTATO_ITEM": {
+        "collected": 3680
+      },
+      "467:4_29:CACTUS": {
+        "collected": 19142,
+        "claimed_medal": "bronze",
+        "claimed_participants": 1199,
+        "claimed_position": 607,
+        "claimed_rewards": true
+      },
+      "467:5_22:INK_SACK:3": {
+        "collected": 3200
+      },
+      "467:5_22:PUMPKIN": {
+        "collected": 12343,
+        "claimed_medal": "bronze",
+        "claimed_participants": 2291,
+        "claimed_position": 1125,
+        "claimed_rewards": true
+      },
+      "467:5_25:MELON": {
+        "collected": 149734,
+        "claimed_medal": "bronze",
+        "claimed_participants": 2760,
+        "claimed_position": 1101,
+        "claimed_rewards": true
+      },
+      "467:5_25:MUSHROOM_COLLECTION": {
+        "collected": 1120
+      },
+      "467:8_4:MELON": {
+        "collected": 88881,
+        "claimed_medal": "bronze",
+        "claimed_participants": 2931,
+        "claimed_position": 1396,
+        "claimed_rewards": true
+      },
+      "467:8_4:MUSHROOM_COLLECTION": {
+        "collected": 1120
+      },
+      "467:8_4:PUMPKIN": {
+        "collected": 1920
+      },
+      "467:8_22:CARROT_ITEM": {
+        "collected": 256,
+        "claimed_participants": 2454,
+        "claimed_position": 2438,
+        "claimed_rewards": true
+      },
+      "467:8_25:POTATO_ITEM": {
+        "collected": 32076,
+        "claimed_medal": "bronze",
+        "claimed_participants": 2282,
+        "claimed_position": 1160,
+        "claimed_rewards": true
+      },
+      "467:9_15:MELON": {
+        "collected": 68977,
+        "claimed_medal": "bronze",
+        "claimed_participants": 1753,
+        "claimed_position": 973,
+        "claimed_rewards": true
+      },
+      "467:9_18:MELON": {
+        "collected": 192759,
+        "claimed_medal": "bronze",
+        "claimed_participants": 1672,
+        "claimed_position": 574,
+        "claimed_rewards": true
+      },
+      "467:9_18:PUMPKIN": {
+        "collected": 1280
+      },
+      "467:9_21:CACTUS": {
+        "collected": 3200,
+        "claimed_participants": 1120,
+        "claimed_position": 1041,
+        "claimed_rewards": true
+      },
+      "467:9_24:CARROT_ITEM": {
+        "collected": 17455,
+        "claimed_participants": 1279,
+        "claimed_position": 931,
+        "claimed_rewards": true
+      },
+      "467:10_11:MUSHROOM_COLLECTION": {
+        "collected": 109,
+        "claimed_participants": 2867,
+        "claimed_position": 2864,
+        "claimed_rewards": true
+      },
+      "467:10_14:CARROT_ITEM": {
+        "collected": 153363,
+        "claimed_medal": "silver",
+        "claimed_participants": 2289,
+        "claimed_position": 420,
+        "claimed_rewards": true
+      },
+      "467:11_28:MOONFLOWER": {
+        "collected": 3040,
+        "claimed_participants": 895,
+        "claimed_position": 883,
+        "claimed_rewards": true
+      },
+      "467:11_28:WHEAT": {
+        "collected": 1760
+      },
+      "467:12_24:MUSHROOM_COLLECTION": {
+        "collected": 5968,
+        "claimed_participants": 3072,
+        "claimed_position": 2399,
+        "claimed_rewards": true
+      },
+      "467:12_27:MELON": {
+        "collected": 329040,
+        "claimed_medal": "silver",
+        "claimed_participants": 3138,
+        "claimed_position": 902,
+        "claimed_rewards": true
+      },
+      "468:1_14:MOONFLOWER": {
+        "collected": 6702,
+        "claimed_participants": 1436,
+        "claimed_position": 1347,
+        "claimed_rewards": true
+      },
+      "468:1_14:DOUBLE_PLANT": {
+        "collected": 6568
+      },
+      "468:1_17:MUSHROOM_COLLECTION": {
+        "collected": 100316,
+        "claimed_medal": "silver",
+        "claimed_participants": 3082,
+        "claimed_position": 553,
+        "claimed_rewards": true
+      },
+      "468:1_20:PUMPKIN": {
+        "collected": 22509,
+        "claimed_medal": "bronze",
+        "claimed_participants": 2283,
+        "claimed_position": 782,
+        "claimed_rewards": true
+      },
+      "468:2_4:PUMPKIN": {
+        "collected": 37553,
+        "claimed_medal": "silver",
+        "claimed_participants": 1864,
+        "claimed_position": 426,
+        "claimed_rewards": true
+      },
+      "468:2_4:MOONFLOWER": {
+        "collected": 4000
+      },
+      "468:2_10:MELON": {
+        "collected": 12320,
+        "claimed_participants": 1850,
+        "claimed_position": 1675,
+        "claimed_rewards": true
+      },
+      "468:2_10:POTATO_ITEM": {
+        "collected": 8000
+      },
+      "468:3_6:PUMPKIN": {
+        "collected": 45284,
+        "claimed_medal": "silver",
+        "claimed_participants": 3154,
+        "claimed_position": 707,
+        "claimed_rewards": true
+      },
+      "468:4_14:WHEAT": {
+        "collected": 643
+      },
+      "468:4_14:INK_SACK:3": {
+        "collected": 3840,
+        "claimed_participants": 1574,
+        "claimed_position": 1493,
+        "claimed_rewards": true
+      },
+      "468:4_17:PUMPKIN": {
+        "collected": 9991,
+        "claimed_medal": "bronze",
+        "claimed_participants": 1879,
+        "claimed_position": 1066,
+        "claimed_rewards": true
+      },
+      "468:4_20:SUGAR_CANE": {
+        "collected": 5120,
+        "claimed_participants": 1548,
+        "claimed_position": 1322,
+        "claimed_rewards": true
+      },
+      "468:5_4:WILD_ROSE": {
+        "collected": 147898,
+        "claimed_medal": "bronze",
+        "claimed_participants": 1961,
+        "claimed_position": 616,
+        "claimed_rewards": true
+      },
+      "468:5_4:INK_SACK:3": {
+        "collected": 6880
+      },
+      "468:5_10:POTATO_ITEM": {
+        "collected": 325058,
+        "claimed_medal": "silver",
+        "claimed_participants": 2770,
+        "claimed_position": 403,
+        "claimed_rewards": true
+      },
+      "468:5_10:DOUBLE_PLANT": {
+        "collected": 5120
+      },
+      "468:5_16:MUSHROOM_COLLECTION": {
+        "collected": 117650,
+        "claimed_medal": "silver",
+        "claimed_participants": 4313,
+        "claimed_position": 704,
+        "claimed_rewards": true
+      },
+      "468:5_19:WHEAT": {
+        "collected": 107213,
+        "claimed_medal": "silver",
+        "claimed_participants": 3753,
+        "claimed_position": 861,
+        "claimed_rewards": true
+      },
+      "468:5_25:POTATO_ITEM": {
+        "collected": 894
+      },
+      "468:5_25:WHEAT": {
+        "collected": 21318,
+        "claimed_medal": "bronze",
+        "claimed_participants": 3786,
+        "claimed_position": 1528,
+        "claimed_rewards": true
+      },
+      "468:5_28:MUSHROOM_COLLECTION": {
+        "collected": 8102
+      },
+      "468:5_28:PUMPKIN": {
+        "collected": 67390,
+        "claimed_medal": "silver",
+        "claimed_participants": 3616,
+        "claimed_position": 623,
+        "claimed_rewards": true
+      },
+      "468:5_31:WILD_ROSE": {
+        "collected": 150598,
+        "claimed_medal": "silver",
+        "claimed_participants": 2416,
+        "claimed_position": 694,
+        "claimed_rewards": true
+      },
+      "468:6_3:WILD_ROSE": {
+        "collected": 152128,
+        "claimed_medal": "silver",
+        "claimed_participants": 2213,
+        "claimed_position": 644,
+        "claimed_rewards": true
+      },
+      "468:6_6:MUSHROOM_COLLECTION": {
+        "collected": 8523
+      },
+      "468:6_6:PUMPKIN": {
+        "collected": 72345,
+        "claimed_medal": "silver",
+        "claimed_participants": 2835,
+        "claimed_position": 492,
+        "claimed_rewards": true
+      },
+      "468:6_9:DOUBLE_PLANT": {
+        "collected": 97788,
+        "claimed_medal": "bronze",
+        "claimed_participants": 1262,
+        "claimed_position": 588,
+        "claimed_rewards": true
+      },
+      "468:7_2:WILD_ROSE": {
+        "collected": 29740,
+        "claimed_medal": "bronze",
+        "claimed_participants": 1195,
+        "claimed_position": 591,
+        "claimed_rewards": true
+      },
+      "468:7_5:INK_SACK:3": {
+        "collected": 214500,
+        "claimed_medal": "silver",
+        "claimed_participants": 1340,
+        "claimed_position": 207,
+        "claimed_rewards": true
+      },
+      "468:7_8:PUMPKIN": {
+        "collected": 77687,
+        "claimed_medal": "silver",
+        "claimed_participants": 1770,
+        "claimed_position": 270,
+        "claimed_rewards": true
+      },
+      "468:7_14:MUSHROOM_COLLECTION": {
+        "collected": 7156,
+        "claimed_participants": 2364,
+        "claimed_position": 1766,
+        "claimed_rewards": true
+      },
+      "468:7_17:PUMPKIN": {
+        "collected": 131654,
+        "claimed_medal": "gold",
+        "claimed_participants": 2384,
+        "claimed_position": 232,
+        "claimed_rewards": true
+      },
+      "468:7_17:WHEAT": {
+        "collected": 2880
+      },
+      "468:7_20:WILD_ROSE": {
+        "collected": 235908,
+        "claimed_medal": "silver",
+        "claimed_participants": 1948,
+        "claimed_position": 481,
+        "claimed_rewards": true
+      },
+      "468:8_4:MELON": {
+        "collected": 443903,
+        "claimed_medal": "silver",
+        "claimed_participants": 3732,
+        "claimed_position": 996,
+        "claimed_rewards": true
+      },
+      "468:8_7:INK_SACK:3": {
+        "collected": 338481,
+        "claimed_medal": "silver",
+        "claimed_participants": 2714,
+        "claimed_position": 317,
+        "claimed_rewards": true
+      },
+      "468:8_7:MUSHROOM_COLLECTION": {
+        "collected": 16071
+      },
+      "468:8_7:PUMPKIN": {
+        "collected": 11335
+      },
+      "468:12_12:WILD_ROSE": {
+        "collected": 8000
+      },
+      "468:12_12:WHEAT": {
+        "collected": 61299,
+        "claimed_medal": "bronze",
+        "claimed_participants": 2753,
+        "claimed_position": 866,
+        "claimed_rewards": true
+      },
+      "469:9_18:MELON": {
+        "collected": 15840,
+        "claimed_participants": 3054,
+        "claimed_position": 2697,
+        "claimed_rewards": true
+      },
+      "469:9_21:NETHER_STALK": {
+        "collected": 86891,
+        "claimed_medal": "bronze",
+        "claimed_participants": 2503,
+        "claimed_position": 814,
+        "claimed_rewards": true
+      },
+      "469:9_24:PUMPKIN": {
+        "collected": 43502,
+        "claimed_medal": "silver",
+        "claimed_participants": 3131,
+        "claimed_position": 709,
+        "claimed_rewards": true
+      },
+      "469:9_27:MELON": {
+        "collected": 225287,
+        "claimed_medal": "bronze",
+        "claimed_participants": 3326,
+        "claimed_position": 1160,
+        "claimed_rewards": true
+      },
+      "469:9_27:WHEAT": {
+        "collected": 2720
+      },
+      "469:9_30:MOONFLOWER": {
+        "collected": 6080
+      },
+      "469:9_30:POTATO_ITEM": {
+        "collected": 9760,
+        "claimed_participants": 2859,
+        "claimed_position": 2320,
+        "claimed_rewards": true
+      },
+      "469:10_2:MELON": {
+        "collected": 540571,
+        "claimed_medal": "silver",
+        "claimed_participants": 3589,
+        "claimed_position": 837,
+        "claimed_rewards": true
+      },
+      "469:10_2:DOUBLE_PLANT": {
+        "collected": 6240
+      },
+      "469:10_8:CARROT_ITEM": {
+        "collected": 10400,
+        "claimed_participants": 2773,
+        "claimed_position": 2233,
+        "claimed_rewards": true
+      },
+      "469:10_11:WHEAT": {
+        "collected": 88014,
+        "claimed_medal": "silver",
+        "claimed_participants": 2908,
+        "claimed_position": 735,
+        "claimed_rewards": true
+      },
+      "469:10_11:SUGAR_CANE": {
+        "collected": 6240
+      },
+      "470:1_14:CACTUS": {
+        "collected": 57136,
+        "claimed_medal": "silver",
+        "claimed_participants": 1233,
+        "claimed_position": 222,
+        "claimed_rewards": true
+      },
+      "470:1_14:DOUBLE_PLANT": {
+        "collected": 13120
+      },
+      "470:1_14:NETHER_STALK": {
+        "collected": 9600
+      },
+      "471:2_16:SUGAR_CANE": {
+        "collected": 5
+      },
+      "471:4_29:MUSHROOM_COLLECTION": {
+        "collected": 149990,
+        "claimed_medal": "silver",
+        "claimed_participants": 2863,
+        "claimed_position": 406,
+        "claimed_rewards": true
+      },
+      "471:4_29:DOUBLE_PLANT": {
+        "collected": 6560
+      },
+      "471:8_25:CARROT_ITEM": {
+        "collected": 160
+      },
+      "472:1_17:MOONFLOWER": {
+        "collected": 1440
+      },
+      "472:8_16:INK_SACK:3": {
+        "collected": 6720
+      },
+      "472:8_16:WHEAT": {
+        "collected": 4640
+      },
+      "472:8_16:DOUBLE_PLANT": {
+        "collected": 64006
+      },
+      "472:8_19:MELON": {
+        "collected": 755300
+      },
+      "472:8_22:MUSHROOM_COLLECTION": {
+        "collected": 20195
+      },
+      "472:8_22:CARROT_ITEM": {
+        "collected": 22240
+      }
+    },
+    "personal_bests": {
+      "WHEAT": 107213,
+      "SUGAR_CANE": 58638,
+      "POTATO_ITEM": 325058,
+      "CARROT_ITEM": 153363,
+      "CACTUS": 57136,
+      "MELON": 755300,
+      "PUMPKIN": 131654,
+      "MUSHROOM_COLLECTION": 149990,
+      "MOONFLOWER": 6702,
+      "INK_SACK:3": 338481,
+      "WILD_ROSE": 235908,
+      "DOUBLE_PLANT": 97788,
+      "NETHER_STALK": 86891
+    },
+    "talked": true
+  }
+}

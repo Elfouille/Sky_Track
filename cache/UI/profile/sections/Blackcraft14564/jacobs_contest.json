@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Blackcraft14564.json",
+    "player": {
+      "pseudo": "Blackcraft14564",
+      "name_meta": "Blackcraft14564",
+      "uuid_meta": "26b56974e38b486cba4f0449dee370d5"
+    },
+    "section": "jacobs_contest"
+  },
+  "jacobs_contest": {
+    "contests": {
+      "254:6_27:CARROT_ITEM": {
+        "collected": 8
+      },
+      "119:10_20:NETHER_STALK": {
+        "collected": 47
+      },
+      "466:4_20:WHEAT": {
+        "collected": 52
+      },
+      "467:1_8:POTATO_ITEM": {
+        "collected": 5764,
+        "claimed_participants": 2848,
+        "claimed_position": 2561,
+        "claimed_rewards": true
+      },
+      "467:1_26:SUGAR_CANE": {
+        "collected": 281,
+        "claimed_participants": 2192,
+        "claimed_position": 2171,
+        "claimed_rewards": true
+      },
+      "467:1_29:WHEAT": {
+        "collected": 11369,
+        "claimed_medal": "bronze",
+        "claimed_participants": 2528,
+        "claimed_position": 1390,
+        "claimed_rewards": true
+      },
+      "467:2_1:CARROT_ITEM": {
+        "collected": 380,
+        "claimed_participants": 1995,
+        "claimed_position": 1976,
+        "claimed_rewards": true
+      },
+      "467:2_4:SUGAR_CANE": {
+        "collected": 141,
+        "claimed_participants": 1782,
+        "claimed_position": 1779,
+        "claimed_rewards": true
+      },
+      "467:3_12:MELON": {
+        "collected": 67401,
+        "claimed_medal": "bronze",
+        "claimed_participants": 2631,
+        "claimed_position": 1429,
+        "claimed_rewards": true
+      },
+      "467:3_12:CARROT_ITEM": {
+        "collected": 604
+      },
+      "467:3_15:POTATO_ITEM": {
+        "collected": 1530,
+        "claimed_participants": 2721,
+        "claimed_position": 2671,
+        "claimed_rewards": true
+      },
+      "467:4_11:WHEAT": {
+        "collected": 148,
+        "claimed_participants": 2155,
+        "claimed_position": 2143,
+        "claimed_rewards": true
+      },
+      "467:12_30:CARROT_ITEM": {
+        "collected": 2
+      },
+      "468:1_14:MOONFLOWER": {
+        "collected": 402,
+        "claimed_participants": 1436,
+        "claimed_position": 1429,
+        "claimed_rewards": true
+      },
+      "468:1_17:CARROT_ITEM": {
+        "collected": 50581,
+        "claimed_medal": "bronze",
+        "claimed_participants": 2372,
+        "claimed_position": 924,
+        "claimed_rewards": true
+      },
+      "468:1_17:MUSHROOM_COLLECTION": {
+        "collected": 14
+      },
+      "468:1_29:MUSHROOM_COLLECTION": {
+        "collected": 794,
+        "claimed_participants": 2411,
+        "claimed_position": 2320,
+        "claimed_rewards": true
+      },
+      "468:5_28:MUSHROOM_COLLECTION": {
+        "collected": 12247,
+        "claimed_medal": "bronze",
+        "claimed_participants": 4317,
+        "claimed_position": 2560,
+        "claimed_rewards": true
+      },
+      "471:4_5:NETHER_STALK": {
+        "collected": 256,
+        "claimed_participants": 1885,
+        "claimed_position": 1875,
+        "claimed_rewards": true
+      },
+      "472:8_16:WHEAT": {
+        "collected": 46538,
+        "claimed_medal": "silver",
+        "claimed_participants": 3646,
+        "claimed_position": 1291,
+        "claimed_rewards": true
+      }
+    },
+    "perks": {},
+    "medals_inv": {
+      "bronze": 4,
+      "silver": 1
+    },
+    "talked": true,
+    "personal_bests": {
+      "POTATO_ITEM": 5764,
+      "SUGAR_CANE": 281,
+      "WHEAT": 46538,
+      "CARROT_ITEM": 50581,
+      "MELON": 67401,
+      "MOONFLOWER": 402,
+      "MUSHROOM_COLLECTION": 12247,
+      "NETHER_STALK": 256
+    },
+    "unique_brackets": {
+      "bronze": [
+        "CARROT_ITEM",
+        "MUSHROOM_COLLECTION",
+        "WHEAT",
+        "MELON"
+      ],
+      "silver": [
+        "WHEAT"
+      ]
+    }
+  }
+}

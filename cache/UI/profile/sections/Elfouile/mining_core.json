@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Elfouile.json",
+    "player": {
+      "pseudo": "Elfouile",
+      "name_meta": "Elfouile",
+      "uuid_meta": "bbf684841118408eb3134d1c19029ca8"
+    },
+    "section": "mining_core"
+  },
+  "mining_core": {
+    "received_free_tier": true,
+    "daily_ores_mined": 0,
+    "daily_ores_mined_day": 20499,
+    "daily_ores_mined_day_gemstone": 20499,
+    "daily_ores_mined_day_glacite": 20499,
+    "daily_ores_mined_day_mithril_ore": 20499,
+    "daily_ores_mined_gemstone": 0,
+    "daily_ores_mined_glacite": 0,
+    "daily_ores_mined_mithril_ore": 412,
+    "powder_mithril": 20971,
+    "powder_mithril_total": 20971,
+    "powder_spent_mithril": 537713,
+    "retroactive_tier2_token": true,
+    "powder_gemstone": 11336,
+    "powder_gemstone_total": 11336,
+    "greater_mines_last_access": 1770763265703,
+    "powder_spent_gemstone": 40205,
+    "biomes": {
+      "dwarven": {},
+      "precursor": {},
+      "jungle": {
+        "jungle_temple_open": false
+      }
+    }
+  }
+}

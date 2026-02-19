@@ -1,0 +1,217 @@
+{
+  "_meta": {
+    "url": "https://api.hypixel.net/v2/resources/skyblock/election",
+    "endpoint": "/resources/skyblock/election",
+    "params": {},
+    "cached_at_unix": 1771291405,
+    "http_status": 200,
+    "elapsed_ms": 114
+  },
+  "data": {
+    "success": true,
+    "lastUpdated": 1771291187621,
+    "mayor": {
+      "key": "jerry",
+      "name": "Jerry",
+      "perks": [
+        {
+          "name": "Perkpocalypse",
+          "description": "Activates all perks of another mayor every 18 SkyBlock days (6 hours)."
+        },
+        {
+          "name": "Statspocalypse",
+          "description": "Increases all §cCombat §7and §dMiscellaneous §7stats by §a10%§7."
+        },
+        {
+          "name": "Jerrypocalypse",
+          "description": "Reveal hidden Jerries from logging, farming, mining and killing mobs."
+        }
+      ],
+      "election": {
+        "year": 472,
+        "candidates": [
+          {
+            "key": "economist",
+            "name": "Diaz",
+            "perks": [
+              {
+                "name": "Stock Exchange",
+                "description": "Participate in the §dStonks Auction §7for a chance to win §5Stock of Stonks§7! Trade them for §6extravagant items §7at the §bTrade Center§7.",
+                "minister": true
+              },
+              {
+                "name": "Volume Trading",
+                "description": "The available item quantity per §6Shen's Auction §7has been doubled, and two additional §6Shen's Special §7auctions will be available if Diaz is Mayor.",
+                "minister": false
+              }
+            ],
+            "votes": 38462
+          },
+          {
+            "key": "farming",
+            "name": "Finnegan",
+            "perks": [
+              {
+                "name": "Pest Eradicator",
+                "description": "The duration of Pesthunter Phillip's §6☘ Farming Fortune §7bonus is now §a60m§7. Decreases the spawn cooldown of §2Pests §7by §a20%§7.",
+                "minister": false
+              },
+              {
+                "name": "GOATed",
+                "description": "§eJacob's Farming Contest §7brackets include up to §a10% §7more players each.",
+                "minister": true
+              },
+              {
+                "name": "Pelt-pocalypse",
+                "description": "Obtain §a1.5x §7more §5pelts §7from §aTrevor §7in the §eMushroom Desert§7, hunt a new trapper mob, and purchase items from a new trapper shop.",
+                "minister": false
+              },
+              {
+                "name": "Blooming Business",
+                "description": "All Garden Visitors reward §aFine Flour§7 and §c+10% Copper §7for accepting offers. Invites §a5 §7unique visitors to your §aGarden §7and makes higher rarity visitors §a20% §7more likely to show up.",
+                "minister": false
+              }
+            ],
+            "votes": 86640
+          },
+          {
+            "key": "dungeons",
+            "name": "Paul",
+            "perks": [
+              {
+                "name": "Benediction",
+                "description": "Blessings are §d25% §7stronger.",
+                "minister": true
+              }
+            ],
+            "votes": 11172
+          },
+          {
+            "key": "pets",
+            "name": "Diana",
+            "perks": [
+              {
+                "name": "Sharing is Caring",
+                "description": "Unlocks §a2 §7more §6Exp Share §7slots in your pets menu and increases the §6Exp Share §7rate by §a+10%§7!",
+                "minister": true
+              }
+            ],
+            "votes": 15086
+          },
+          {
+            "key": "jerry",
+            "name": "Jerry",
+            "perks": [
+              {
+                "name": "Perkpocalypse",
+                "description": "Activates all perks of another mayor every 18 SkyBlock days (6 hours).",
+                "minister": false
+              },
+              {
+                "name": "Statspocalypse",
+                "description": "Increases all §cCombat §7and §dMiscellaneous §7stats by §a10%§7.",
+                "minister": false
+              },
+              {
+                "name": "Jerrypocalypse",
+                "description": "Reveal hidden Jerries from logging, farming, mining and killing mobs.",
+                "minister": false
+              }
+            ],
+            "votes": 978313
+          }
+        ]
+      }
+    },
+    "current": {
+      "year": 473,
+      "candidates": [
+        {
+          "key": "pets",
+          "name": "Diana",
+          "perks": [
+            {
+              "name": "Sharing is Caring",
+              "description": "Unlocks §a2 §7more §6Exp Share §7slots in your pets menu and increases the §6Exp Share §7rate by §a+10%§7!",
+              "minister": true
+            }
+          ],
+          "votes": 12673
+        },
+        {
+          "key": "slayer",
+          "name": "Aatrox",
+          "perks": [
+            {
+              "name": "Slayer XP Buff",
+              "description": "Earn §d25% §7more Slayer XP.",
+              "minister": true
+            },
+            {
+              "name": "Pathfinder",
+              "description": "Gain rare drops §d20% §7more often.",
+              "minister": false
+            }
+          ],
+          "votes": 71445
+        },
+        {
+          "key": "fishing",
+          "name": "Marina",
+          "perks": [
+            {
+              "name": "Luck of the Sea 2.0",
+              "description": "Gain §315α Sea Creature Chance§7.",
+              "minister": true
+            }
+          ],
+          "votes": 8881
+        },
+        {
+          "key": "mining",
+          "name": "Cole",
+          "perks": [
+            {
+              "name": "Prospection",
+              "description": "Mining minions work §a25% §7faster.",
+              "minister": false
+            },
+            {
+              "name": "Mining XP Buff",
+              "description": "Get §3+60☯ Mining Wisdom §7on public islands.",
+              "minister": false
+            },
+            {
+              "name": "Mining Fiesta",
+              "description": "§7Schedules 5 §6Mining Fiestas §7throughout the year! During these events gain §3+75☯ Mining Wisdom§7, collect §9Refined Mineral §7and §5Glossy Gemstone§7, and earn §d2x drops §7from mining!",
+              "minister": true
+            },
+            {
+              "name": "Molten Forge",
+              "description": "Decrease the time it takes to §6forge §7items by §d25%§7.",
+              "minister": false
+            }
+          ],
+          "votes": 363423
+        },
+        {
+          "key": "economist",
+          "name": "Diaz",
+          "perks": [
+            {
+              "name": "Stock Exchange",
+              "description": "Participate in the §dStonks Auction §7for a chance to win §5Stock of Stonks§7! Trade them for §6extravagant items §7at the §bTrade Center§7.",
+              "minister": true
+            },
+            {
+              "name": "Volume Trading",
+              "description": "The available item quantity per §6Shen's Auction §7has been doubled, and two additional §6Shen's Special §7auctions will be available if Diaz is Mayor.",
+              "minister": false
+            }
+          ],
+          "votes": 86443
+        }
+      ]
+    }
+  }
+}

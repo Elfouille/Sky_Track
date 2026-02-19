@@ -1,0 +1,362 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Elfouile.json",
+    "player": {
+      "pseudo": "Elfouile",
+      "name_meta": "Elfouile",
+      "uuid_meta": "bbf684841118408eb3134d1c19029ca8"
+    },
+    "section": "dungeons"
+  },
+  "dungeons": {
+    "treasures": {
+      "chests": [
+        {
+          "type": "DUNGEON",
+          "run_id": "0d840719d81a4fc58cdcfc976892d35b",
+          "chest_id": "d74b64f2d30d4b67874ae10cedc7acd6",
+          "treasure_type": "wood",
+          "rewards": {
+            "rewards": [
+              "rejuvenate_1",
+              "ESSENCE:WITHER:12",
+              "ESSENCE:UNDEAD:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 125,
+          "shiny_eligible": false,
+          "paid": true,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "0d840719d81a4fc58cdcfc976892d35b",
+          "chest_id": "6298eeca5e7446888d18fe0320fd56b8",
+          "treasure_type": "gold",
+          "rewards": {
+            "rewards": [
+              "combo_1",
+              "ESSENCE:WITHER:15",
+              "ESSENCE:UNDEAD:10"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 180,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "0d840719d81a4fc58cdcfc976892d35b",
+          "chest_id": "20551aee38d44c11aaae09cfdd1b47ba",
+          "treasure_type": "diamond",
+          "rewards": {
+            "rewards": [
+              "wisdom_1",
+              "combo_1",
+              "ESSENCE:WITHER:10",
+              "ESSENCE:UNDEAD:15"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 220,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "0d840719d81a4fc58cdcfc976892d35b",
+          "chest_id": "70834398da6e40f2ada7d3938b58c902",
+          "treasure_type": "emerald",
+          "rewards": {
+            "rewards": [
+              "necro_brooch",
+              "combo_1",
+              "ESSENCE:WITHER:15",
+              "ESSENCE:UNDEAD:20"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 260,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        },
+        {
+          "type": "DUNGEON",
+          "run_id": "0d840719d81a4fc58cdcfc976892d35b",
+          "chest_id": "9302cd1fef764c8d981b06469625c82b",
+          "treasure_type": "obsidian",
+          "rewards": {
+            "rewards": [
+              "no_pain_no_gain_1",
+              "bank_2",
+              "last_stand_1",
+              "ESSENCE:WITHER:16",
+              "ESSENCE:UNDEAD:25"
+            ],
+            "rolled_rng_meter_randomly": false
+          },
+          "quality": 330,
+          "shiny_eligible": false,
+          "paid": false,
+          "rerolls": 0
+        }
+      ],
+      "runs": [
+        {
+          "type": "DUNGEON",
+          "run_id": "0d840719d81a4fc58cdcfc976892d35b",
+          "completion_ts": 1770848683973,
+          "dungeon_type": "catacombs",
+          "dungeon_tier": 3,
+          "participants": [
+            {
+              "player_uuid": "bbf684841118408eb3134d1c19029ca8",
+              "display_name": "§bElfouile§f: §eMage§b (§e5§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "991c0ec5b303463ead01e1c3aebc967e",
+              "display_name": "§aPerkone§f: §eBerserk§b (§e9§b)",
+              "class_milestone": 3
+            },
+            {
+              "player_uuid": "26b56974e38b486cba4f0449dee370d5",
+              "display_name": "§bBlackcraft14564§f: §eBerserk§b (§e11§b)",
+              "class_milestone": 2
+            },
+            {
+              "player_uuid": "8c03da04e7784d4795244c4f45cc0d32",
+              "display_name": "§bAlexgozzz§f: §eArcher§b (§e27§b)",
+              "class_milestone": 7
+            },
+            {
+              "player_uuid": "ffb0f6efcebf4d31835e11f3fb3e5cec",
+              "display_name": "§7MONSTAR36§f: §eTank§b (§e16§b)",
+              "class_milestone": 2
+            }
+          ]
+        }
+      ]
+    },
+    "dungeon_types": {
+      "catacombs": {
+        "tier_completions": {
+          "0": 1.0,
+          "total": 4.0,
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0
+        },
+        "most_healing": {
+          "best": 1320.0,
+          "0": 1320.0,
+          "1": 700.572998046875,
+          "2": 480.0,
+          "3": 600.0
+        },
+        "most_damage_archer": {},
+        "mobs_killed": {
+          "total": 264.0,
+          "0": 121.0,
+          "1": 56.0,
+          "2": 74.0,
+          "3": 13.0
+        },
+        "fastest_time_s": {
+          "3": 496497.0,
+          "best": 496497.0
+        },
+        "best_score": {
+          "0": 200.0,
+          "best": 284.0,
+          "1": 224.0,
+          "2": 224.0,
+          "3": 284.0
+        },
+        "fastest_time": {
+          "0": 1493310.0,
+          "best": 496497.0,
+          "1": 2897553.0,
+          "2": 2271751.0,
+          "3": 496497.0
+        },
+        "most_damage_tank": {
+          "best": 2353892.404021919,
+          "0": 720389.7643584928,
+          "1": 2353892.404021919
+        },
+        "most_mobs_killed": {
+          "best": 74.0,
+          "0": 69.0,
+          "1": 56.0,
+          "2": 74.0,
+          "3": 9.0
+        },
+        "most_damage_healer": {},
+        "most_damage_berserk": {
+          "0": 1271538.5198089518,
+          "best": 1271538.5198089518
+        },
+        "watcher_kills": {
+          "0": 1.0,
+          "total": 5.0,
+          "1": 1.0,
+          "2": 1.0,
+          "3": 2.0
+        },
+        "most_damage_mage": {
+          "2": 5199907.410179914,
+          "best": 5199907.410179914,
+          "3": 2804564.8900155695
+        },
+        "fastest_time_s_plus": {},
+        "times_played": {
+          "total": 9.0,
+          "0": 5.0,
+          "1": 1.0,
+          "2": 1.0,
+          "3": 2.0
+        },
+        "milestone_completions": {
+          "0": 1.0,
+          "total": 4.0,
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0
+        },
+        "experience": 3015.4045024396282,
+        "best_runs": {
+          "0": [
+            {
+              "timestamp": 1769874950497,
+              "score_exploration": 67,
+              "score_speed": 66,
+              "score_skill": 60,
+              "score_bonus": 7,
+              "dungeon_class": "tank",
+              "teammates": [
+                "26b56974-e38b-486c-ba4f-0449dee370d5"
+              ],
+              "elapsed_time": 1493310,
+              "damage_dealt": 720389.7643584928,
+              "deaths": 4,
+              "mobs_killed": 37,
+              "secrets_found": 6,
+              "damage_mitigated": 199914.24037196612,
+              "ally_healing": 445.0078125
+            }
+          ],
+          "1": [
+            {
+              "timestamp": 1769878543633,
+              "score_exploration": 100,
+              "score_speed": 30,
+              "score_skill": 84,
+              "score_bonus": 10,
+              "dungeon_class": "tank",
+              "teammates": [
+                "26b56974-e38b-486c-ba4f-0449dee370d5"
+              ],
+              "elapsed_time": 2897553,
+              "damage_dealt": 2353892.404021919,
+              "deaths": 8,
+              "mobs_killed": 56,
+              "secrets_found": 6,
+              "damage_mitigated": 550510.1884520174,
+              "ally_healing": 700.572998046875
+            }
+          ],
+          "2": [
+            {
+              "timestamp": 1769900138761,
+              "score_exploration": 100,
+              "score_speed": 45,
+              "score_skill": 68,
+              "score_bonus": 11,
+              "dungeon_class": "mage",
+              "teammates": [
+                "26b56974-e38b-486c-ba4f-0449dee370d5",
+                "a329d1a5-7fec-4d01-acc7-c07cacd3fc54"
+              ],
+              "elapsed_time": 2271751,
+              "damage_dealt": 5199907.410179914,
+              "deaths": 9,
+              "mobs_killed": 74,
+              "secrets_found": 3,
+              "damage_mitigated": 218733.1925630084,
+              "ally_healing": 480.0
+            }
+          ],
+          "3": [
+            {
+              "timestamp": 1770848683984,
+              "score_exploration": 97,
+              "score_speed": 100,
+              "score_skill": 82,
+              "score_bonus": 5,
+              "dungeon_class": "mage",
+              "teammates": [
+                "991c0ec5-b303-463e-ad01-e1c3aebc967e",
+                "26b56974-e38b-486c-ba4f-0449dee370d5",
+                "8c03da04-e778-4d47-9524-4c4f45cc0d32",
+                "ffb0f6ef-cebf-4d31-835e-11f3fb3e5cec"
+              ],
+              "elapsed_time": 496497,
+              "damage_dealt": 1297791.4916086034,
+              "deaths": 2,
+              "mobs_killed": 9,
+              "secrets_found": 0,
+              "damage_mitigated": 34262.01128159701,
+              "ally_healing": 600.0
+            }
+          ]
+        },
+        "highest_tier_completed": 3
+      },
+      "master_catacombs": {
+        "tier_completions": {}
+      }
+    },
+    "player_classes": {
+      "healer": {},
+      "mage": {
+        "experience": 2359.1932999484
+      },
+      "berserk": {
+        "experience": 781.0888291537666
+      },
+      "archer": {
+        "experience": 366.4221958204334
+      },
+      "tank": {
+        "experience": 1000.7768105263156
+      }
+    },
+    "selected_dungeon_class": "mage",
+    "last_dungeon_run": "CATACOMBS_FLOOR_THREE",
+    "dungeons_blah_blah": [
+      "gatekeeper_first_talk"
+    ],
+    "dungeon_hub_race_settings": {
+      "selected_race": "crystal_core",
+      "selected_setting": "anything",
+      "runback": false
+    },
+    "secrets": 19,
+    "dungeon_journal": {
+      "unlocked_journals": [
+        "expedition_volume_1"
+      ]
+    },
+    "daily_runs": {
+      "current_day_stamp": 20495,
+      "completed_runs_count": 1
+    }
+  }
+}

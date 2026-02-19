@@ -1,0 +1,311 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291417,
+    "source": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\HYPIXEL_V2\\skyblock_profile.json"
+  },
+  "banking": {
+    "balance": 97539022.6206416,
+    "transactions": [
+      {
+        "amount": 80000.0,
+        "timestamp": 1769733410501,
+        "action": "WITHDRAW",
+        "initiator_name": "§ajejar_"
+      },
+      {
+        "amount": 299722.8800882995,
+        "timestamp": 1769749177023,
+        "action": "DEPOSIT",
+        "initiator_name": "Bank Interest"
+      },
+      {
+        "amount": 302780.0534651987,
+        "timestamp": 1769860796660,
+        "action": "DEPOSIT",
+        "initiator_name": "Bank Interest"
+      },
+      {
+        "amount": 10000000.0,
+        "timestamp": 1769870821695,
+        "action": "DEPOSIT",
+        "initiator_name": "§ajejar_"
+      },
+      {
+        "amount": 10000000.0,
+        "timestamp": 1769900582039,
+        "action": "DEPOSIT",
+        "initiator_name": "§ajejar_"
+      },
+      {
+        "amount": 39987099.0,
+        "timestamp": 1769901098084,
+        "action": "WITHDRAW",
+        "initiator_name": "§bBlackcraft14564"
+      },
+      {
+        "amount": 39987099.0,
+        "timestamp": 1769901105567,
+        "action": "DEPOSIT",
+        "initiator_name": "§bBlackcraft14564"
+      },
+      {
+        "amount": 8000000.0,
+        "timestamp": 1769902164171,
+        "action": "DEPOSIT",
+        "initiator_name": "§ajejar_"
+      },
+      {
+        "amount": 38000000.0,
+        "timestamp": 1769902182245,
+        "action": "WITHDRAW",
+        "initiator_name": "§ajejar_"
+      },
+      {
+        "amount": 38000000.0,
+        "timestamp": 1769902216890,
+        "action": "DEPOSIT",
+        "initiator_name": "§ajejar_"
+      },
+      {
+        "amount": 9597419.0,
+        "timestamp": 1769902647416,
+        "action": "WITHDRAW",
+        "initiator_name": "§bElfouile"
+      },
+      {
+        "amount": 9732539.7,
+        "timestamp": 1769902830937,
+        "action": "DEPOSIT",
+        "initiator_name": "§bElfouile"
+      },
+      {
+        "amount": 8000000.0,
+        "timestamp": 1769941069492,
+        "action": "WITHDRAW",
+        "initiator_name": "§ajejar_"
+      },
+      {
+        "amount": 10000000.0,
+        "timestamp": 1769953227238,
+        "action": "DEPOSIT",
+        "initiator_name": "§ajejar_"
+      },
+      {
+        "amount": 306000.0,
+        "timestamp": 1769972225742,
+        "action": "DEPOSIT",
+        "initiator_name": "Bank Interest"
+      },
+      {
+        "amount": 306000.0,
+        "timestamp": 1770095589603,
+        "action": "DEPOSIT",
+        "initiator_name": "Bank Interest"
+      },
+      {
+        "amount": 10000000.0,
+        "timestamp": 1770112507902,
+        "action": "DEPOSIT",
+        "initiator_name": "§ajejar_"
+      },
+      {
+        "amount": 312000.0,
+        "timestamp": 1770195509692,
+        "action": "DEPOSIT",
+        "initiator_name": "Bank Interest"
+      },
+      {
+        "amount": 30523109.0,
+        "timestamp": 1770306327293,
+        "action": "WITHDRAW",
+        "initiator_name": "§bBlackcraft14564"
+      },
+      {
+        "amount": 1000000.0,
+        "timestamp": 1770306357216,
+        "action": "DEPOSIT",
+        "initiator_name": "§ajejar_"
+      },
+      {
+        "amount": 16909356.0,
+        "timestamp": 1770306367267,
+        "action": "DEPOSIT",
+        "initiator_name": "§bBlackcraft14564"
+      },
+      {
+        "amount": 312000.0,
+        "timestamp": 1770307031363,
+        "action": "DEPOSIT",
+        "initiator_name": "Bank Interest"
+      },
+      {
+        "amount": 10000000.0,
+        "timestamp": 1770307687540,
+        "action": "DEPOSIT",
+        "initiator_name": "§ajejar_"
+      },
+      {
+        "amount": 27019472.2,
+        "timestamp": 1770308639839,
+        "action": "DEPOSIT",
+        "initiator_name": "§bElfouile"
+      },
+      {
+        "amount": 100000.0,
+        "timestamp": 1770308683191,
+        "action": "WITHDRAW",
+        "initiator_name": "§bElfouile"
+      },
+      {
+        "amount": 100000.0,
+        "timestamp": 1770308889334,
+        "action": "WITHDRAW",
+        "initiator_name": "§bElfouile"
+      },
+      {
+        "amount": 1000000.0,
+        "timestamp": 1770309150312,
+        "action": "WITHDRAW",
+        "initiator_name": "§bElfouile"
+      },
+      {
+        "amount": 1000000.0,
+        "timestamp": 1770395105222,
+        "action": "WITHDRAW",
+        "initiator_name": "§bElfouile"
+      },
+      {
+        "amount": 10000000.0,
+        "timestamp": 1770412389330,
+        "action": "DEPOSIT",
+        "initiator_name": "§ajejar_"
+      },
+      {
+        "amount": 875534.7,
+        "timestamp": 1770416894095,
+        "action": "DEPOSIT",
+        "initiator_name": "§bElfouile"
+      },
+      {
+        "amount": 1549.0,
+        "timestamp": 1770417696731,
+        "action": "DEPOSIT",
+        "initiator_name": "§ajejar_"
+      },
+      {
+        "amount": 10000000.0,
+        "timestamp": 1770417715751,
+        "action": "WITHDRAW",
+        "initiator_name": "§ajejar_"
+      },
+      {
+        "amount": 371000.0,
+        "timestamp": 1770418531401,
+        "action": "DEPOSIT",
+        "initiator_name": "Bank Interest"
+      },
+      {
+        "amount": 250000.0,
+        "timestamp": 1770425305622,
+        "action": "DEPOSIT",
+        "initiator_name": "§bBlackcraft14564"
+      },
+      {
+        "amount": 371000.0,
+        "timestamp": 1770532325993,
+        "action": "DEPOSIT",
+        "initiator_name": "Bank Interest"
+      },
+      {
+        "amount": 371000.0,
+        "timestamp": 1770641860742,
+        "action": "DEPOSIT",
+        "initiator_name": "Bank Interest"
+      },
+      {
+        "amount": 20000.0,
+        "timestamp": 1770656442973,
+        "action": "WITHDRAW",
+        "initiator_name": "§bBlackcraft14564"
+      },
+      {
+        "amount": 5000000.0,
+        "timestamp": 1770740574058,
+        "action": "WITHDRAW",
+        "initiator_name": "§bElfouile"
+      },
+      {
+        "amount": 371000.0,
+        "timestamp": 1770753632870,
+        "action": "DEPOSIT",
+        "initiator_name": "Bank Interest"
+      },
+      {
+        "amount": 371000.0,
+        "timestamp": 1770885190860,
+        "action": "DEPOSIT",
+        "initiator_name": "Bank Interest"
+      },
+      {
+        "amount": 371000.0,
+        "timestamp": 1770976897769,
+        "action": "DEPOSIT",
+        "initiator_name": "Bank Interest"
+      },
+      {
+        "amount": 371000.0,
+        "timestamp": 1771103950504,
+        "action": "DEPOSIT",
+        "initiator_name": "Bank Interest"
+      },
+      {
+        "amount": 100000.0,
+        "timestamp": 1771104150929,
+        "action": "WITHDRAW",
+        "initiator_name": "§bBlackcraft14564"
+      },
+      {
+        "amount": 5000000.0,
+        "timestamp": 1771108761270,
+        "action": "WITHDRAW",
+        "initiator_name": "§bBlackcraft14564"
+      },
+      {
+        "amount": 10000000.0,
+        "timestamp": 1771173946939,
+        "action": "WITHDRAW",
+        "initiator_name": "§bElfouile"
+      },
+      {
+        "amount": 67168022.0,
+        "timestamp": 1771178799900,
+        "action": "WITHDRAW",
+        "initiator_name": "§bBlackcraft14564"
+      },
+      {
+        "amount": 67168022.0,
+        "timestamp": 1771178808601,
+        "action": "DEPOSIT",
+        "initiator_name": "§bBlackcraft14564"
+      },
+      {
+        "amount": 371000.0,
+        "timestamp": 1771199950210,
+        "action": "DEPOSIT",
+        "initiator_name": "Bank Interest"
+      },
+      {
+        "amount": 10000000.0,
+        "timestamp": 1771251952970,
+        "action": "DEPOSIT",
+        "initiator_name": "§ajejar_"
+      },
+      {
+        "amount": 20000000.0,
+        "timestamp": 1771251991073,
+        "action": "DEPOSIT",
+        "initiator_name": "§ajejar_"
+      }
+    ]
+  }
+}

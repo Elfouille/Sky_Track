@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\jejar.json",
+    "player": {
+      "pseudo": "jejar",
+      "name_meta": "jejar_",
+      "uuid_meta": "a329d1a57fec4d01acc7c07cacd3fc54"
+    },
+    "section": "slayer"
+  },
+  "slayer": {
+    "slayer_bosses": {
+      "zombie": {
+        "claimed_levels": {
+          "level_1": true,
+          "level_2": true,
+          "level_3": true,
+          "level_4": true,
+          "level_5": true,
+          "level_6": true,
+          "level_7_special": true
+        },
+        "boss_kills_tier_0": 3,
+        "boss_attempts_tier_0": 3,
+        "xp": 100573,
+        "boss_kills_tier_1": 2,
+        "boss_attempts_tier_1": 2,
+        "boss_attempts_tier_2": 16,
+        "boss_kills_tier_2": 15,
+        "boss_attempts_tier_3": 200,
+        "boss_kills_tier_3": 198,
+        "boss_attempts_tier_4": 1
+      },
+      "spider": {
+        "claimed_levels": {
+          "level_1": true,
+          "level_2": true
+        },
+        "boss_attempts_tier_0": 2,
+        "boss_kills_tier_0": 2,
+        "xp": 185,
+        "boss_attempts_tier_1": 3,
+        "boss_kills_tier_1": 3,
+        "boss_attempts_tier_2": 1,
+        "boss_kills_tier_2": 1
+      },
+      "wolf": {
+        "claimed_levels": {
+          "level_1": true,
+          "level_2": true,
+          "level_3": true,
+          "level_4": true,
+          "level_5": true
+        },
+        "boss_attempts_tier_0": 1,
+        "boss_kills_tier_0": 1,
+        "xp": 6955,
+        "boss_attempts_tier_1": 2,
+        "boss_kills_tier_1": 2,
+        "boss_attempts_tier_2": 54,
+        "boss_kills_tier_2": 54,
+        "boss_attempts_tier_3": 4,
+        "boss_kills_tier_3": 3
+      },
+      "enderman": {
+        "claimed_levels": {}
+      },
+      "vampire": {
+        "claimed_levels": {}
+      },
+      "blaze": {
+        "claimed_levels": {}
+      }
+    }
+  }
+}

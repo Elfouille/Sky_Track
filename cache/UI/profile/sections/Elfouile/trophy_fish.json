@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Elfouile.json",
+    "player": {
+      "pseudo": "Elfouile",
+      "name_meta": "Elfouile",
+      "uuid_meta": "bbf684841118408eb3134d1c19029ca8"
+    },
+    "section": "trophy_fish"
+  },
+  "trophy_fish": {
+    "total_caught": 117,
+    "obfuscated_fish_1": 78,
+    "obfuscated_fish_1_bronze": 52,
+    "last_caught": "lava_horse/bronze",
+    "obfuscated_fish_1_silver": 25,
+    "obfuscated_fish_1_gold": 1,
+    "blobfish": 20,
+    "blobfish_bronze": 12,
+    "lava_horse": 4,
+    "lava_horse_bronze": 4,
+    "soul_fish": 1,
+    "soul_fish_gold": 1,
+    "sulphur_skitter": 8,
+    "sulphur_skitter_bronze": 8,
+    "vanille": 4,
+    "vanille_bronze": 2,
+    "vanille_silver": 1,
+    "blobfish_silver": 8,
+    "vanille_gold": 1,
+    "volcanic_stonefish": 1,
+    "volcanic_stonefish_bronze": 1,
+    "gusher": 1,
+    "gusher_bronze": 1
+  }
+}

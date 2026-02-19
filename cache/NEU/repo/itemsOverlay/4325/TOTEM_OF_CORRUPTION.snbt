@@ -1,0 +1,59 @@
+{
+	components: {
+		"minecraft:banner_patterns": [
+			{
+				color: "black",
+				pattern: "minecraft:base"
+			},
+			{
+				color: "magenta",
+				pattern: "minecraft:cross"
+			},
+			{
+				color: "purple",
+				pattern: "minecraft:curly_border"
+			},
+			{
+				color: "purple",
+				pattern: "minecraft:circle"
+			},
+			{
+				color: "black",
+				pattern: "minecraft:flower"
+			},
+			{
+				color: "black",
+				pattern: "minecraft:triangles_bottom"
+			},
+			{
+				color: "black",
+				pattern: "minecraft:triangles_top"
+			}
+		],
+		"minecraft:custom_data": {
+			id: "TOTEM_OF_CORRUPTION"
+		},
+		"minecraft:tooltip_display": {
+			hidden_components: [
+				"minecraft:jukebox_playable",
+				"minecraft:painting/variant",
+				"minecraft:map_id",
+				"minecraft:fireworks",
+				"minecraft:attribute_modifiers",
+				"minecraft:unbreakable",
+				"minecraft:written_book_content",
+				"minecraft:banner_patterns",
+				"minecraft:trim",
+				"minecraft:potion_contents",
+				"minecraft:block_entity_data",
+				"minecraft:dyed_color"
+			]
+		}
+	},
+	count: 1,
+	id: "minecraft:white_banner",
+	source: {
+		dataVersion: 4325,
+		modVersion: "Firmament 3.7.1-dev+mc1.21.5+g19c6b28"
+	}
+}

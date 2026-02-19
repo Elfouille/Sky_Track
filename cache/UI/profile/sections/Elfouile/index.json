@@ -1,0 +1,40 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Elfouile.json",
+    "player": {
+      "pseudo": "Elfouile",
+      "name_meta": "Elfouile",
+      "uuid_meta": "bbf684841118408eb3134d1c19029ca8"
+    }
+  },
+  "written_sections": [
+    "rift.json",
+    "player_data.json",
+    "events.json",
+    "garden_player_data.json",
+    "accessory_bag_storage.json",
+    "leveling.json",
+    "jacobs_contest.json",
+    "currencies.json",
+    "dungeons.json",
+    "profile.json",
+    "pets_data.json",
+    "nether_island_player_data.json",
+    "experimentation.json",
+    "mining_core.json",
+    "bestiary.json",
+    "quests.json",
+    "player_stats.json",
+    "forge.json",
+    "fairy_soul.json",
+    "slayer.json",
+    "trophy_fish.json",
+    "objectives.json",
+    "inventory.json",
+    "shared_inventory.json",
+    "collection.json"
+  ],
+  "missing_sections": [],
+  "output_dir": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\sections\\Elfouile"
+}

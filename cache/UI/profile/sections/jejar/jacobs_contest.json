@@ -1,0 +1,172 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\jejar.json",
+    "player": {
+      "pseudo": "jejar",
+      "name_meta": "jejar_",
+      "uuid_meta": "a329d1a57fec4d01acc7c07cacd3fc54"
+    },
+    "section": "jacobs_contest"
+  },
+  "jacobs_contest": {
+    "medals_inv": {
+      "bronze": 1
+    },
+    "perks": {},
+    "unique_brackets": {
+      "bronze": [
+        "DOUBLE_PLANT"
+      ]
+    },
+    "contests": {
+      "467:3_12:CARROT_ITEM": {
+        "collected": 406
+      },
+      "467:3_12:WHEAT": {
+        "collected": 523,
+        "claimed_participants": 2344,
+        "claimed_position": 2271,
+        "claimed_rewards": true
+      },
+      "467:5_10:CARROT_ITEM": {
+        "collected": 576,
+        "claimed_participants": 1344,
+        "claimed_position": 1331,
+        "claimed_rewards": true
+      },
+      "467:10_11:PUMPKIN": {
+        "collected": 800,
+        "claimed_participants": 2448,
+        "claimed_position": 2362,
+        "claimed_rewards": true
+      },
+      "467:10_14:CARROT_ITEM": {
+        "collected": 3
+      },
+      "467:10_17:CACTUS": {
+        "collected": 1920,
+        "claimed_participants": 2184,
+        "claimed_position": 2109,
+        "claimed_rewards": true
+      },
+      "467:10_17:MOONFLOWER": {
+        "collected": 1760
+      },
+      "467:10_17:WHEAT": {
+        "collected": 960
+      },
+      "468:1_2:WHEAT": {
+        "collected": 6
+      },
+      "468:5_16:MUSHROOM_COLLECTION": {
+        "collected": 30
+      },
+      "468:5_25:INK_SACK:3": {
+        "collected": 3200,
+        "claimed_participants": 2887,
+        "claimed_position": 2784,
+        "claimed_rewards": true
+      },
+      "468:5_31:WILD_ROSE": {
+        "collected": 240
+      },
+      "468:5_31:DOUBLE_PLANT": {
+        "collected": 49538,
+        "claimed_medal": "bronze",
+        "claimed_participants": 1651,
+        "claimed_position": 787,
+        "claimed_rewards": true
+      },
+      "468:5_31:MOONFLOWER": {
+        "collected": 16088
+      },
+      "468:6_6:NETHER_STALK": {
+        "collected": 3360,
+        "claimed_participants": 2409,
+        "claimed_position": 2309,
+        "claimed_rewards": true
+      },
+      "468:6_6:PUMPKIN": {
+        "collected": 1120
+      },
+      "468:7_5:INK_SACK:3": {
+        "collected": 2720
+      },
+      "468:7_5:MELON": {
+        "collected": 5280,
+        "claimed_participants": 1818,
+        "claimed_position": 1740,
+        "claimed_rewards": true
+      },
+      "468:7_8:PUMPKIN": {
+        "collected": 2240
+      },
+      "468:7_11:DOUBLE_PLANT": {
+        "collected": 2080
+      },
+      "468:7_17:PUMPKIN": {
+        "collected": 1120
+      },
+      "469:7_23:POTATO_ITEM": {
+        "collected": 4
+      },
+      "470:8_19:WILD_ROSE": {
+        "collected": 2560
+      },
+      "470:8_22:WHEAT": {
+        "collected": 20020
+      },
+      "470:8_25:MUSHROOM_COLLECTION": {
+        "collected": 1280
+      },
+      "470:8_31:WHEAT": {
+        "collected": 76344
+      },
+      "470:9_3:POTATO_ITEM": {
+        "collected": 4480
+      },
+      "470:11_28:POTATO_ITEM": {
+        "collected": 12
+      },
+      "471:1_14:SUGAR_CANE": {
+        "collected": 1600
+      },
+      "471:1_14:WILD_ROSE": {
+        "collected": 2720
+      },
+      "471:2_4:MELON": {
+        "collected": 4640
+      },
+      "471:2_4:MUSHROOM_COLLECTION": {
+        "collected": 53
+      },
+      "472:6_30:MUSHROOM_COLLECTION": {
+        "collected": 9
+      },
+      "472:6_30:CARROT_ITEM": {
+        "collected": 2
+      },
+      "472:7_29:CARROT_ITEM": {
+        "collected": 4
+      },
+      "472:7_29:POTATO_ITEM": {
+        "collected": 1
+      }
+    },
+    "personal_bests": {
+      "CARROT_ITEM": 576,
+      "WHEAT": 76344,
+      "PUMPKIN": 2240,
+      "CACTUS": 1920,
+      "INK_SACK:3": 3200,
+      "DOUBLE_PLANT": 49538,
+      "NETHER_STALK": 3360,
+      "MELON": 5280,
+      "WILD_ROSE": 2720,
+      "MUSHROOM_COLLECTION": 1280,
+      "POTATO_ITEM": 4480
+    },
+    "talked": true
+  }
+}

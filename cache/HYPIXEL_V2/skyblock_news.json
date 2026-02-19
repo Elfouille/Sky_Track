@@ -1,0 +1,71 @@
+{
+  "_meta": {
+    "url": "https://api.hypixel.net/v2/skyblock/news",
+    "endpoint": "/skyblock/news",
+    "params": {},
+    "cached_at_unix": 1771291405,
+    "http_status": 200,
+    "elapsed_ms": 226
+  },
+  "data": {
+    "success": true,
+    "items": [
+      {
+        "item": {
+          "material": "BONE"
+        },
+        "link": "https://hypixel.net/threads/6052615/",
+        "text": "27th January 2026",
+        "title": "SkyBlock v0.24.1"
+      },
+      {
+        "item": {
+          "material": "WOOD_SPADE"
+        },
+        "link": "https://hypixel.net/threads/6004316/",
+        "text": "4th November 2025",
+        "title": "SkyBlock v0.23.6"
+      },
+      {
+        "item": {
+          "material": "DIAMOND_PICKAXE"
+        },
+        "link": "https://hypixel.net/threads/5998589/",
+        "text": "15th October 2025",
+        "title": "SkyBlock v0.23.5"
+      },
+      {
+        "item": {
+          "material": "WEB"
+        },
+        "link": "https://hypixel.net/threads/5981430/",
+        "text": "2nd September 2025",
+        "title": "SkyBlock v0.23.4"
+      },
+      {
+        "item": {
+          "material": "LOG"
+        },
+        "link": "https://hypixel.net/threads/5963817/",
+        "text": "5th August 2025",
+        "title": "SkyBlock v0.23.3"
+      },
+      {
+        "item": {
+          "material": "WEB"
+        },
+        "link": "https://hypixel.net/threads/5956502/",
+        "text": "22nd July 2025",
+        "title": "SkyBlock v0.23.2"
+      },
+      {
+        "item": {
+          "material": "BONE"
+        },
+        "link": "https://hypixel.net/threads/5947293/",
+        "text": "8th July 2025",
+        "title": "SkyBlock v0.23.1"
+      }
+    ]
+  }
+}

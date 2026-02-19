@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "\\api_parser",
+    "\\cache",
+    "\\cache\\UI\\profile",
+    "\\cache\\UI\\profile\\members",
+    "\\core",
+    "\\game_db",
+    "\\tools",
+    "\\ui"
+  ],
+  "PreviewInSolutionExplorer": false
+}

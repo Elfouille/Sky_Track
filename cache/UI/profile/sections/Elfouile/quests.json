@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "generated_at_unix": 1771291419,
+    "source_member_file": "D:\\DEV\\Hypixel\\App\\Sky_Track\\V3\\Sky_Track\\cache\\UI\\profile\\members\\Elfouile.json",
+    "player": {
+      "pseudo": "Elfouile",
+      "name_meta": "Elfouile",
+      "uuid_meta": "bbf684841118408eb3134d1c19029ca8"
+    },
+    "section": "quests"
+  },
+  "quests": {
+    "trapper_quest": {
+      "pelt_count": 10,
+      "last_task_time": 1769695897740
+    }
+  }
+}
